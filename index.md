@@ -19,7 +19,7 @@ Making and sharing a game is a great way to showcase your ideas and connect with
 
 ### When is the next one?
 
-The 2017 challenge is over ([rules here](https://github.com/200WordRPG/200wordrpg.github.io/blob/eb1707f46f7ad28fdd75c0df9664c90707823a70/index.md) for the curious). But don't be sad, the challenge will return next year (probably around May/June) with more chances to design more incredible 200 word entries. Until then, read through some old entries and discover some higgen gems. Check out the random entry of the day, or get a physical collection of the 2017 Challenge. And, of course, you can start working on your entry for next year's challenge!
+The 2017 challenge is over ([rules here](https://github.com/200WordRPG/200wordrpg.github.io/blob/eb1707f46f7ad28fdd75c0df9664c90707823a70/index.md) for the curious). But don't be sad, the challenge will return next year (probably around May/June) with more chances to design more incredible 200 word entries. Until then, read through some of the entries or check out the [winners and finalists]({{site.baseurl}}/winners). You find PDFs and print collections at the [downloads page]({{site.baseurl}}/downloads). And, of course, you can start working on your entry for next year's challenge!
 
 <hr>
 # Random Entry of the Day
