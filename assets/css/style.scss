@@ -3,6 +3,33 @@
 
 @import "jekyll-theme-minimal";
 
+h1 a {
+  color:#00008B;
+  text-decoration:none;
+}
+
+h1 a:hover {
+  color:#069;
+}
+
+h2 a {
+  color:#00008B;
+  text-decoration:none;
+}
+
+h2 a:hover {
+  color:#069;
+}
+
+h3 a {
+  color:#00008B;
+  text-decoration:none;
+}
+
+h3 a:hover {
+  color:#069;
+}
+
 #random_winners {
 font-size: 1.2em;
 font-weight: bold; 
