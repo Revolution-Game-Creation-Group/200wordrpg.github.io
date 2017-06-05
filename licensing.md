@@ -2,9 +2,15 @@
 layout: default
 ---
 
-# Creative Commons and You
-All entries are protected under the [Creative Commons Attribution 4.0 International license](
-https://creativecommons.org/licenses/by/4.0/). 
+<table>
+<tr>
+<td>All entries on this site are protected under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</td>
+</tr>
+<tr>
+<td><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a></td>
+</tr>
+</table>
+
 
 ### Why?
 
