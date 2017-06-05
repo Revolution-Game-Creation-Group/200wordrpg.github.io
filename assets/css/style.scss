@@ -3,16 +3,13 @@
 
 @import "jekyll-theme-minimal";
 
-
-h1, h2, h3, h4, h5, h6 {
-a {
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   color:#00008B;
   text-decoration:none;
 }
 
-a:hover {
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a :hover {
   color:#069;
-}
 }
 
 #random_winners {
