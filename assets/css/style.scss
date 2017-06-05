@@ -3,31 +3,19 @@
 
 @import "jekyll-theme-minimal";
 
-h1 a {
-  color:#00008B;
-  text-decoration:none;
-}
-
 h1 a:hover {
-  color:#069;
-}
-
-h2 a {
-  color:#00008B;
-  text-decoration:none;
+  color:#069 !important;
+  text-decoration: underline !important;
 }
 
 h2 a:hover {
-  color:#069;
-}
-
-h3 a {
-  color:#00008B;
-  text-decoration:none;
+  color:#069 !important;
+  text-decoration: underline !important; 
 }
 
 h3 a:hover {
-  color:#069;
+  color:#069 !important;
+  text-decoration: underline !important;
 }
 
 #random_winners {
