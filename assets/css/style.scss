@@ -91,27 +91,6 @@ pre {
     word-wrap: break-word;       /* Internet Explorer 5.5+ */
 }
 
-/*Hide the twitter crap I don't care about*/
-span.TweetAuthor-avatar {
-display:none !important;	
-}
-
-span.TweetAuthor-name {
-display:none !important;	
-}
-
-div.timeline-Tweet-metadata {
-display:none !important;	
-}
-
-ul.timeline-Tweet-actions {
-display:none !important;	
-}
-
-.SandboxRoot.env-bp-min .timeline-Tweet-author {
-    display: none !important;
-}
-
 
 /* super-search
 Author: Kushagra Gour (http://kushagragour.in)
