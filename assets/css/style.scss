@@ -93,19 +93,19 @@ pre {
 
 /*Hide the twitter crap I don't care about*/
 span.TweetAuthor-avatar {
-display:none;	
+display:none !important;	
 }
 
 span.TweetAuthor-name {
-display:none;	
+display:none !important;	
 }
 
 div.timeline-Tweet-metadata {
-display:none;	
+display:none !important;	
 }
 
 ul.timeline-Tweet-actions {
-display:none;	
+display:none !important;	
 }
 
 
