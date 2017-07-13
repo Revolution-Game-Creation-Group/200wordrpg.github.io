@@ -92,7 +92,16 @@ pre {
 }
 
 /*Hide the twitter crap I don't care about*/
-.TweetAuthor-avatar .TweetAuthor-name .timeline-Tweet-metadata .timeline-Tweet-actions {
+.TweetAuthor-avatar {
+display:none;	
+}
+.TweetAuthor-name {
+display:none;	
+}
+.timeline-Tweet-metadata {
+display:none;	
+}
+.timeline-Tweet-actions {
 display:none;	
 }
 
