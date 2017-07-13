@@ -5,9 +5,9 @@ layout: default
 
 ### Why 200 Words?
 
-A 200 word limit encourages creativity and demands the very best of your editing and writing abilities. While making a game in 200 words can be difficult, it’s less of a daunting commitment than editing and proofing 85 pages of rules, complete with art and layout.
+A 200 word limit encourages creativity and demands the very best of your editing and writing abilities. While making a game in 200 words can be difficult, it’s less of a daunting commitment than editing and proofing 100+ pages of rules, complete with art and layout.
 
-Conceiving, designing, and publishing a 200 word game is a great first step toward completing larger game design projects.
+Conceiving, designing, and publishing a 200 word game is a first step toward completing larger game design projects.
 
 ### Plaintext?
 
@@ -15,18 +15,12 @@ Visual presentation can be a large and scary problem. Very few people are master
 
 ### Connect with Creators
 
-Making and sharing a game is a great way to showcase your ideas and connect with new and more experienced game designers. Do you see a game that inspires you? The 200 Word RPG Challenge is a forge for new collaborations! All entries are protected under the [Creative Commons license]({{site.baseurl}}/licensing).
+Making and sharing a game is a great way to showcase your ideas and connect with other game designers. Do you see a game that inspires you? The 200 Word RPG Challenge is a forge for new collaborations! All entries are protected under the [Creative Commons license]({{site.baseurl}}/licensing).
 
 ### When is the next one?
 
 The 2017 challenge is over ([rules here](https://github.com/200WordRPG/200wordrpg.github.io/blob/eb1707f46f7ad28fdd75c0df9664c90707823a70/index.md) for the curious). But don't be sad, the challenge will return next year (probably around May/June) with more chances to design more incredible 200 word entries. Until then, read through some of the entries or check out the [winners and finalists]({{site.baseurl}}/winners). You can find PDFs and print collections at the [downloads page]({{site.baseurl}}/downloads).
 
-<hr>
-# Random Entry of the Day
-  
-<a class="twitter-timeline" data-tweet-limit="1" data-chrome="noheader nofooter noscrollbar" data-dnt="true" href="https://twitter.com/200WordRPG">Tweets by 200WordRPG</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<hr>
 # News and Updates
 
 <ul>
