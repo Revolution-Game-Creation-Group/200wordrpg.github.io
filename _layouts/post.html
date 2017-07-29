@@ -28,16 +28,31 @@
     function generateRandomPost()
     {
         $.getJSON("/allposts.json", function(data) {
-            console.log("[allposts.json loaded for random winners]");
+            console.log("[allposts.json loaded for random entries]");
 
             var postsCount = data.length;
             var posts = data;
             var divRandomButton = $("#random_button");
-            var randomIndex = Math.floor(Math.random() * postsCount);
+            var randomIndex1 = Math.floor(Math.random() * postsCount);
+			var randomIndex2 = Math.floor(Math.random() * postsCount);
+            var randomIndex3 = Math.floor(Math.random() * postsCount);
+			
+			while (randomIndex1 == randomIndex2 || randomIndex2 == randomIndex3 || randomIndex1 == randomIndex3){
+			randomIndex2 = Math.floor(Math.random() * postsCount);
+            randomIndex3 = Math.floor(Math.random() * postsCount);
+			}
           
-			var postHREF = posts[randomIndex].href;
-			var postTitle = posts[randomIndex].title;	
-			divRandomButton.append('<a id="random_button" href="' + postHREF + '" class="button">Read a Random Entry</a>');
+			var postHREF1 = posts[randomIndex1].href;
+			var postTitle1 = posts[randomIndex1].title;	
+			divRandomButton.append('<a id="random_button" href="' + postHREF1 + '" class="button">' + postTitle1 + '</a>');
+            
+			var postHREF2 = posts[randomIndex2].href;
+			var postTitle2 = posts[randomIndex2].title;	
+			divRandomButton.append('<a id="random_button" href="' + postHREF2 + '" class="button">' + postTitle2 + '</a>');
+            
+			var postHREF3 = posts[randomIndex3].href;
+			var postTitle3 = posts[randomIndex3].title;	
+			divRandomButton.append('<a id="random_button" href="' + postHREF3 + '" class="button">' + postTitle3 + '</a>');
             
         });
     }
@@ -72,6 +87,7 @@
       {{ content }}
 	  
 	  <hr>
+	  <h3>Read another Entry</h3>
 	  <div id="random_button" align="middle"></div>
 
       </section>
