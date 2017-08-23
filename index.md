@@ -24,13 +24,11 @@ The 2017 challenge is over ([rules here](https://github.com/200WordRPG/200wordrp
 <a class="twitter-timeline" data-tweet-limit="1" data-chrome="noheader nofooter noscrollbar" data-dnt="true" href="https://twitter.com/200WordRPG">Entry of the Date</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # News and Updates
-
-<ul>
 {% assign sorted_posts = (site.categories.news | sort: 'date') | reverse %}
   {% for post in sorted_posts %}
-      <li> <h3><strong> {{ post.date | date_to_long_string }} • <a href="{{ post.url }}">
+      <h3><strong> {{ post.date | date_to_long_string }} • <a href="{{ post.url }}">
             {{ post.title }}
-      </a></strong></h3></li>
+      </a></strong></h3>
   {% endfor %}
-</ul>
+
 
