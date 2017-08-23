@@ -27,7 +27,9 @@ The 2017 challenge is over ([rules here](https://github.com/200WordRPG/200wordrp
 
 {% assign sorted_posts = (site.categories.news | sort: 'date') | reverse %}
   {% for post in sorted_posts %}
-      ### {{ post.date | date_to_long_string }} • [{{ post.title }}]({{ post.url }})
+  
+### {{ post.date | date_to_long_string }} • [**{{ post.title }}**]({{ post.url }})
+      
   {% endfor %}
 
 
