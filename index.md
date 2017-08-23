@@ -21,19 +21,16 @@ Making and sharing a game is a great way to showcase your ideas and connect with
 
 The 2017 challenge is over ([rules here](https://github.com/200WordRPG/200wordrpg.github.io/blob/eb1707f46f7ad28fdd75c0df9664c90707823a70/index.md) for the curious). But don't be sad, the challenge will return next year (probably around May/June) with more chances to design more incredible 200 word entries. Until then, read through some of the entries or check out the [winners and finalists]({{site.baseurl}}/winners). You can find PDFs and print collections at the [downloads page]({{site.baseurl}}/downloads).
 
-<hr>
-# Random Entry of the Day
-  
+<hr>  
 <a class="twitter-timeline" data-tweet-limit="1" data-chrome="noheader nofooter noscrollbar" data-dnt="true" href="https://twitter.com/200WordRPG">Tweets by 200WordRPG</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <hr>
 # News and Updates
 
 <ul>
 {% assign sorted_pages = (site.categories.news | sort: 'date') | reverse %}
   {% for post in sorted_pages %}
-      <li><h3><strong><a href="{{ post.url }}">
-        {{ post.title }}
+      <li> {{post.date}} • <h3><strong><a href="{{ post.url }}">
+         {{ post.title }}
       </a></strong></h3></li>
   {% endfor %}
 </ul>
