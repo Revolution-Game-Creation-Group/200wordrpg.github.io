@@ -26,9 +26,9 @@ The 2017 challenge is over ([rules here](https://github.com/200WordRPG/200wordrp
 # News and Updates
 
 <ul>
-{% assign sorted_pages = (site.categories.news | sort: 'date') | reverse %}
-  {% for post in sorted_pages %}
-      <li> <h3><strong> {{ page.date | date_to_long_string }} • <a href="{{ post.url }}">
+{% assign sorted_posts = (site.categories.news | sort: 'date') | reverse %}
+  {% for post in sorted_posts %}
+      <li> <h3><strong> {{ post.date | date_to_long_string }} • <a href="{{ post.url }}">
             {{ post.title }}
       </a></strong></h3></li>
   {% endfor %}
