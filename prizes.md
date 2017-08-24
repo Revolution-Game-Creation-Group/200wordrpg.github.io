@@ -63,7 +63,7 @@ These incredible prizes were offered during the 2016 Challenge.
 
 ### PDFs:
 
-|[<img src="{{site.url}}/assets/images/Screenshot-from-2016-03-09-102225-150x150.png">](http://www.bendutter.com/sigil-stone-publishing/vow-of-honor-rpg/)|[<img src="{{site.url}}/assets/images/c2EOii-e1459125500190-150x150.jpg">](https://gshowitt.itch.io/goblin-quest)|[<img src="{{site.url}}/assets/images/Screenshot-from-2016-03-09-102046-150x150.png">](http://www.vivienfeasson.com/perdus-sous-la-pluie/lost-in-the-rain/)|
+|[<img src="{{site.url}}/assets/images/Screenshot-from-2016-03-09-102225-150x150.png">](http://www.bendutter.com/sigil-stone-publishing/vow-of-honor-rpg/)|[<img src="{{site.url}}/assets/images/c2EOii-150x150.jpg">](https://gshowitt.itch.io/goblin-quest)|[<img src="{{site.url}}/assets/images/Screenshot-from-2016-03-09-102046-150x150.png">](http://www.vivienfeasson.com/perdus-sous-la-pluie/lost-in-the-rain/)|
 
 |[<img src="{{site.url}}/assets/images/photo-original-1-150x150.jpg">](http://bullypulpitgames.com/games/the-warren/)|[<img src="{{site.url}}/assets/images/photo-original-150x150.jpg">](https://www.kickstarter.com/projects/tregenza/age-of-legends-epic-adventures-small-rules-tableto)|[<img src="{{site.url}}/assets/images/Screenshot-from-2016-04-01-120946-150x150.png">](http://www.drivethrurpg.com/product/170182/The-sky-is-gray-and-you-are-distressed?src=slider_view)|
 
