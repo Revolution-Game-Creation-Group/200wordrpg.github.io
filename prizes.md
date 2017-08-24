@@ -11,7 +11,7 @@ layout: default
 
     <tr>
 	  <td colspan="2"><img src="/assets/images/palette.png" /></td>
-      
+
       <td><strong>The three winning entries will receive free graphic design, artwork, and layout funded by <a href="https://www.patreon.com/gauntlet">The Gauntlet</a> and their incredible patrons!</strong> The Gauntlet will help arrange and pay for your game's layout, but you will keep all the rights to it. The original 200 word plaintext entry will stay on the site so future readers can enjoy it, but the art-filled version is all yours!</td>
     </tr>
     <tr>
@@ -21,7 +21,7 @@ layout: default
     </tr>
     <tr>
       <td colspan="2"><a href="http://www.gauntlet-rpg.com/codex.html"><img src="/assets/images/codexZine.png" alt="" /></a></td>
-     
+
 	  <td><strong>The three winning entries will be featured in Codex, an monthly RPG fanzine.</strong></td>
     </tr>
     <tr>
@@ -44,7 +44,7 @@ layout: default
     </tr>
     <tr>
       <td colspan="2"><a href="http://www.drivethrurpg.com/product/178359/The-Black-Hack"><img src="/assets/images/blackHack.jpg" alt="" /></a></td>
-      
+
 	        <td><strong>ALL finalists will receive a digital copy of The Black Hack</strong></td>
 
     </tr>
@@ -63,9 +63,9 @@ These incredible prizes were offered during the 2016 Challenge.
 
 ### PDFs:
 
-|[<img src="http://schirduans.com/david/wp-content/uploads/2016/02/Screenshot-from-2016-03-09-102225-150x150.png">](http://www.bendutter.com/sigil-stone-publishing/vow-of-honor-rpg/)|[<img src="http://schirduans.com/david/wp-content/uploads/2016/02/c2EOii-e1459125500190-150x150.jpg">](https://gshowitt.itch.io/goblin-quest)|[<img src="http://schirduans.com/david/wp-content/uploads/2016/02/Screenshot-from-2016-03-09-102046-150x150.png">](http://www.vivienfeasson.com/perdus-sous-la-pluie/lost-in-the-rain/)|
+|[<img src="{{site.url}}/assets/images/Screenshot-from-2016-03-09-102225-150x150.png">](http://www.bendutter.com/sigil-stone-publishing/vow-of-honor-rpg/)|[<img src="{{site.url}}/assets/images/c2EOii-e1459125500190-150x150.jpg">](https://gshowitt.itch.io/goblin-quest)|[<img src="{{site.url}}/assets/images/Screenshot-from-2016-03-09-102046-150x150.png">](http://www.vivienfeasson.com/perdus-sous-la-pluie/lost-in-the-rain/)|
 
-|[<img src="http://schirduans.com/david/wp-content/uploads/2016/02/photo-original-1-150x150.jpg">](http://bullypulpitgames.com/games/the-warren/)|[<img src="http://schirduans.com/david/wp-content/uploads/2016/02/photo-original-150x150.jpg">](https://www.kickstarter.com/projects/tregenza/age-of-legends-epic-adventures-small-rules-tableto)|[<img src="http://schirduans.com/david/wp-content/uploads/2016/02/Screenshot-from-2016-04-01-120946-150x150.png">](http://www.drivethrurpg.com/product/170182/The-sky-is-gray-and-you-are-distressed?src=slider_view)|
+|[<img src="{{site.url}}/assets/images/photo-original-1-150x150.jpg">](http://bullypulpitgames.com/games/the-warren/)|[<img src="{{site.url}}/assets/images/photo-original-150x150.jpg">](https://www.kickstarter.com/projects/tregenza/age-of-legends-epic-adventures-small-rules-tableto)|[<img src="{{site.url}}/assets/images/Screenshot-from-2016-04-01-120946-150x150.png">](http://www.drivethrurpg.com/product/170182/The-sky-is-gray-and-you-are-distressed?src=slider_view)|
 
 <hr>
 ## 2015 Prizes
