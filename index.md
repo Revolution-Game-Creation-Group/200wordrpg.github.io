@@ -17,7 +17,7 @@ Visual presentation can be a large and scary problem. Very few people are master
 
 Making and sharing a game is a great way to showcase your ideas and connect with new and more experienced game designers. Do you see a game that inspires you? The 200 Word RPG Challenge is a forge for new collaborations! All entries are protected under the [Creative Commons license]({{site.baseurl}}/licensing).
 
-To share your ideas, get some feedback, or discuss your favorite entries, join the [**200 Word RPG Subreddit**](https://www.reddit.com/r/200wordrpg/) community!
+To share your ideas, get some feedback, or discuss your favorite entries, join the [200 Word RPG Subreddit](https://www.reddit.com/r/200wordrpg/) community!
 
 ### When is the next one?
 
