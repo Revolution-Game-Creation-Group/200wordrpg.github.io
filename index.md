@@ -17,6 +17,8 @@ Visual presentation can be a large and scary problem. Very few people are master
 
 Making and sharing a game is a great way to showcase your ideas and connect with new and more experienced game designers. Do you see a game that inspires you? The 200 Word RPG Challenge is a forge for new collaborations! All entries are protected under the [Creative Commons license]({{site.baseurl}}/licensing).
 
+To share your ideas, get some feedback, or discuss your favorite entries, join the [**200 Word RPG Subreddit**](https://www.reddit.com/r/200wordrpg/) community!
+
 ### When is the next one?
 
 The 2017 challenge is over ([rules here](https://github.com/200WordRPG/200wordrpg.github.io/blob/eb1707f46f7ad28fdd75c0df9664c90707823a70/index.md) for the curious). But don't be sad, the challenge will return next year (probably around May/June) with more chances to design more incredible 200 word entries. Until then, read through some of the entries or check out the [winners and finalists]({{site.baseurl}}/winners). You can find PDFs and print collections at the [downloads page]({{site.baseurl}}/downloads).
@@ -27,9 +29,7 @@ The 2017 challenge is over ([rules here](https://github.com/200WordRPG/200wordrp
 
 {% assign sorted_posts = (site.categories.news | sort: 'date') | reverse %}
   {% for post in sorted_posts %}
-  
+
 ### {{ post.date | date_to_long_string }} • [**{{ post.title }}**]({{ post.url }})
-      
+
   {% endfor %}
-
-
