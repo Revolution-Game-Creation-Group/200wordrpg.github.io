@@ -5,7 +5,7 @@ layout: default
 
 *This page is a place for you to check the wordcount of your entry. It is NOT the submission page.*
 
-<textarea id="countableArea">
+<textarea id="countableArea" rows="30" cols="100">
 Paste your entry here, check the wordcount below
 </textarea>
 
