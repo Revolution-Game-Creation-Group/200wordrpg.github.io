@@ -75,14 +75,13 @@
     
     
 	<script src="{{ '/assets/js/Countable.js' | relative_url }}"></script>
-  
-  
-		<script>superSearch({
-	searchFile: '/feed.xml',
-	searchSelector: '#js-super-search', // CSS Selector for search container element.
-	inputSelector: '#js-super-search__input', // CSS selector for <input>
-	resultsSelector: '#js-super-search__results' // CSS selector for results container
-});</script>
+
+	<script>
+	 const area = document.getElementById('area');
+         const callback = counter => console.log(counter);
+
+         Countable.live(area, callback);
+	</script>
 
   </body>
 </html>
