@@ -3,7 +3,7 @@ layout: default
 ---
 # Design a role-playing game using 200 words or less.
 
-### What is this?
+### Why? What is this?
 
 The **200 Word RPG Challenge** exists for two primary reasons:
 
