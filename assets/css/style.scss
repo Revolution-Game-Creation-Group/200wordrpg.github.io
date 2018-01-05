@@ -3,6 +3,12 @@
 
 @import "jekyll-theme-minimal";
 
+textarea {
+  font-family: Fira Mono, monospace;
+  color:#090909;
+  font-size:14px;
+}
+
 h1 a:hover {
   color:#069 !important;
   text-decoration: underline !important;
