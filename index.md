@@ -7,7 +7,7 @@ layout: default
 
 The **200 Word RPG Challenge** exists for two primary reasons:
 
-**1) To encourage and promote game design skills, specifically Role-Playing Games**. RPGs are a framework for collaberative storytelling. This challenge is an opportunity for entrants to design their own framework; encourage players to tell new kinds of stories.
+**1) Encourage participants to make a complete Role-Playing Game**. It's hard to work on a game, and much harder to finish one. This is an opportunity for participants to brainstorm, write, edit, playtest, and polish a game idea from start to finish.
 
 **2) To provide a collection of ideas that the community may build upon.** These entries are released under the [Creative Commons license]({{site.baseurl}}/licensing) to promote collaboration and innovation. It is our hope that new designers and old pros alike will use these interesting ideas and work together to expand them into something greater.
 
