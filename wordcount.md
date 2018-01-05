@@ -9,4 +9,6 @@ layout: default
 Paste your entry here, check the wordcount below
 </textarea>
 
-<h1> Wordcount: <span class="result-count" id="result__words">0</span> </h3>
+<h1> Wordcount: 
+<span class="result-count" id="result__words">0</span> 
+</h1>
