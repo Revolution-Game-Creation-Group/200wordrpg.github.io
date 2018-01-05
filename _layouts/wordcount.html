@@ -77,10 +77,7 @@
 	<script src="{{ '/assets/js/Countable.js' | relative_url }}"></script>
 
 	<script>
-	 const area = document.getElementById('area');
-         const callback = counter => console.log(counter);
-
-         Countable.live(area, callback);
+	 Countable.count(document.getElementById('text'), counter => console.log(this, counter));
 	</script>
 
   </body>
