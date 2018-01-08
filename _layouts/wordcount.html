@@ -85,8 +85,9 @@ Paste your entry here, check the wordcount below
 
     var regex = /\s+/gi;
     //var wordCount = value.trim().replace(regex, ' ').split(' ').length;
-    var stripped = value.trim().replace(regex, ' ');
-    var wordCount = stripped.match(/([0-9a-zA-Z']+)/gi).length;    
+    var stripped = value.trim().replace(regex, ' '); //Replace crap with whitespace
+    regex = /([0-9a-zA-Z']+)/gi; //Match letters and words		
+    var wordCount = stripped.match(regex).length;    
 
     $('#wordCount').html(wordCount);
 };
