@@ -89,9 +89,10 @@ Paste your entry here, check the wordcount below
     regex = /[0-9a-zA-Z']+/gi; //Match letters and words		
     var wordCount = value.match(regex).length;    
 			
-    var emojiiX = /[^\x00-\x7F]+/gi;//Check for Emojii's
+    //http://www.theasciicode.com.ar/extended-ascii-code/letter-u-umlaut-diaeresis-ascii-code-154.html	    
+    var emojiiX = /[^\x00-\xFF]+/gi;//Check for Emojii's
     if (value.match(emojiiX).length > 0){
-	wordCount = "ASCII CHARACTERS ONLY!"
+	wordCount = '<a href="http://www.theasciicode.com.ar/extended-ascii-code/letter-u-umlaut-diaeresis-ascii-code-154.html">ASCII</a> CHARACTERS ONLY!';
     }
 	       
    $('#wordCount').html(wordCount);
