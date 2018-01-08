@@ -87,12 +87,12 @@ Paste your entry here, check the wordcount below
     var regex = /\s+/gi;
     //var wordCount = value.trim().replace(regex, ' ').split(' ').length;
     var stripped = value.trim().replace(regex, ' '); //Replace crap with whitespace
-    regex = /([0-9a-zA-Z']+)/gi; //Match letters and words		
+    regex = /[0-9a-zA-Z']+/gi; //Match letters and words		
     var wordCount = stripped.match(regex).length;    
 			
-    regex = /[^\x00-\x7F]+/gi;
-    if (stripped.match(regex) > 0){
-	wordCount = "ASCII ONLY!";
+    regex = /[^\x00-\x7F]+/gi;//Check for Emojii's
+    if (stripped.match(regex).length > 0){
+	wordCount = "ASCII CHARACTORS ONLY!";
     }
 
     $('#wordCount').html(wordCount);
