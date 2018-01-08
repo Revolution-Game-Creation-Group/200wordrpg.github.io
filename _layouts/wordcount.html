@@ -90,7 +90,7 @@ Paste your entry here, check the wordcount below
     var wordCount = value.match(regex).length;    
 			
     regex = /[^\x20-\xFF]+/gi;//Check for Emojii's
-    if (value.match(regex).length > 0) {
+    if (regex.test(value)) {
 	wordCount = '<a href="http://www.theasciicode.com.ar/extended-ascii-code/letter-u-umlaut-diaeresis-ascii-code-154.html">ASCII</a> CHARACTERS ONLY!';
     }
 	       
