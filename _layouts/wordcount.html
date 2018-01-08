@@ -89,8 +89,14 @@ Paste your entry here, check the wordcount below
     var stripped = value.trim().replace(regex, ' '); //Replace crap with whitespace
     regex = /([0-9a-zA-Z']+)/gi; //Match letters and words		
     var wordCount = stripped.match(regex).length;    
+			
+    regex = /[^\x00-\x7F]+/gi;
+    if (stripped.match(regex) > 0){
+	wordCount = "ASCII ONLY!";
+    }
 
     $('#wordCount').html(wordCount);
+			
 };
 
 $(document).ready(function() {
