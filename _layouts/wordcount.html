@@ -76,7 +76,7 @@ Paste your entry here, check the wordcount below
     
    
 	<script>
-		counter = function() {
+    counter = function() {
     var value = $('#text').val();
 
     if (value.length == 0) {
@@ -90,17 +90,18 @@ Paste your entry here, check the wordcount below
     regex = /[0-9a-zA-Z']+/gi; //Match letters and words		
     var wordCount = stripped.match(regex).length;    
 			
-    regex = /[^\x00-\x7F]+/gi;//Check for Emojii's
-    if (stripped.match(regex).length > 0){
-	wordCount = "ASCII CHARACTORS ONLY!";
-    }
-
-    $('#wordCount').html(wordCount);
-			
+    var emojiiX = /[^\x00-\x7F]+/gi;//Check for Emojii's
+    if (stripped.match(emojiiX).length > 0){
+	$('#wordCount').html("ASCII CHARACTERS ONLY");
+    } else {
+	    
+     $('#wordCount').html(wordCount);
+    {
+	       
+    		
 };
 
 $(document).ready(function() {
-    $('#count').click(counter);
     $('#text').change(counter);
     $('#text').keydown(counter);
     $('#text').keypress(counter);
