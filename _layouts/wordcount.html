@@ -85,29 +85,26 @@ Paste your entry here, check the wordcount below
     }
 
     var regex = /\s+/gi;
-    //var wordCount = value.trim().replace(regex, ' ').split(' ').length;
-    var stripped = value.trim().replace(regex, ' '); //Replace crap with whitespace
+    value = value.trim().replace(regex, ' '); //Replace crap with whitespace
     regex = /[0-9a-zA-Z']+/gi; //Match letters and words		
-    var wordCount = stripped.match(regex).length;    
+    var wordCount = value.match(regex).length;    
 			
     var emojiiX = /[^\x00-\x7F]+/gi;//Check for Emojii's
-    if (stripped.match(emojiiX).length > 0){
-	$('#wordCount').html("ASCII CHARACTERS ONLY");
-    } else {
-	    
-     $('#wordCount').html(wordCount);
-    {
+    if (value.match(emojiiX).length > 0){
+	wordCount = "ASCII CHARACTERS ONLY!"
+    }
 	       
-    		
+   $('#wordCount').html(wordCount);
+	
 };
 
 $(document).ready(function() {
     $('#text').change(counter);
-    $('#text').keydown(counter);
-    $('#text').keypress(counter);
-    $('#text').keyup(counter);
-    $('#text').blur(counter);
-    $('#text').focus(counter);
+    //$('#text').keydown(counter);
+    //$('#text').keypress(counter);
+    //$('#text').keyup(counter);
+    //$('#text').blur(counter);
+    //$('#text').focus(counter);
 });
 	  </script>
 
