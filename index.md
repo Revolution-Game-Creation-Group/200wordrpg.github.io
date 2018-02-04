@@ -3,8 +3,8 @@ layout: default
 ---
 # The 200 Word Challenge Returns in 2018! 
 
-Last year was incredible, and this year is looking to be bigger and better than ever. 
-We are seeking **4-5 Judges, 30-40 Readers**, and **Donated Prizes**. 
+Last year was incredible and this year is looking to be bigger and better than ever. 
+We are seeking **4-5 Judges, 30-40 Readers**, and **Prizes Donated by the community**. 
 
 ### Timeline:
 
@@ -14,17 +14,18 @@ We are seeking **4-5 Judges, 30-40 Readers**, and **Donated Prizes**.
 * **July 1st**: Winners announced
 
 ### Apply to be a Reader:
-We will be selecting readers to ensure a diverse set of viewpoints, both professionally and personally. 
+This year we will have a large group of "Readers" to help narrow down the entries for the Judges. Every entry will be read by at least two different Readers. The top 50 entries will then be passed to the Judges for final consideration.
+
 Readers must be:
 * **Dependable.** The reader must commit to reading 100 entries and submit their top choices within the review period (May 30 - Jun 13).
-Readers will have 2 weeks to pick their top entries.Expect to commit 8-10 hours to read through all of the entries; 
-about an hour a day.
-* **Impartial.** The reader should be open and honest about potential conflicts of interest and willing to recuse themselves when necessary.
+Readers will have 2 weeks to pick their top entries. Expect to commit 8-10 hours to read through all of the entries (about an hour a day).
+* **Impartial.** The reader should be open and honest about potential conflicts of interest.
 
 [**__Link to Reader Submission Form__**](https://docs.google.com/forms/d/e/1FAIpQLSfvX0aaLMn6Aww2hwgCV4ZvBMfkgoAwAuaJeCdVHlEAPgGnMw/viewform?usp=sf_link)
 
 ### Apply to be a Judge:
-We will be selecting judges to ensure a diverse set of viewpoints, both professionally and personally. 
+We will be selecting judges to ensure a diverse set of viewpoints, both professionally and personally. Judges will determine the top 3 winners from among the finalists.
+
 Judges must be:
 * **Dependable.** The judge must commit to carefully reading about 50 entries and attending 2 Judge Deliberation Meetings. Expect to commit 3-4 hours to read through all of the entries. Each meeting will be about 2 hours long. 
 * **Affable.** The judge should be easy to work with and willing to work with the other judges toward a mutually-agreeable set of winners. 
@@ -34,10 +35,12 @@ Judges must be:
 [**__Link to Judge Submission Form__**](https://docs.google.com/forms/d/e/1FAIpQLSfsSSLAC2-xr85fAtRD0ok-s46LeVMtw8sR6qm5QKwGDakhBQ/viewform?usp=sf_link)
 
 ### Donate a Prize:
-Prizes will be donated by the community and should encourage participation in the challenge. We are seeking several categories of prizes:
+We hope to offer prizes donated by the community. Digital prizes are prefereble (Game PDFs, Design tools, etc). 
+
+We are seeking several categories of prizes:
 * **Winners (3 prizes)**: Large prizes for the Top 3 Winners. There is no 1st, 2nd, or 3rd prize, simply the Top 3.
 * **Finalists (50-ish prizes)**: Smaller prizes to reward the finalists for making it past the Reader selection.
-* **Readers and Judges (40-ish prizes)**: Prizes to reward the effort and dedication of the readers and judges.
+* **Readers and Judges (40-ish prizes)**: Smaller Prizes to reward the effort and dedication of the Readers and Judges.
 
 Please email davidschirduan @ gmail.com if you have a prize you would like to donate.
 
