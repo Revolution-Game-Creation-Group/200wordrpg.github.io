@@ -21,7 +21,7 @@ Readers will have 2 weeks to pick their top entries.Expect to commit 8-10 hours 
 about an hour a day.
 * **Impartial.** The reader should be open and honest about potential conflicts of interest and willing to recuse themselves when necessary.
 
-[**Link to Reader Submission Form**](https://docs.google.com/forms/d/e/1FAIpQLSfvX0aaLMn6Aww2hwgCV4ZvBMfkgoAwAuaJeCdVHlEAPgGnMw/viewform?usp=sf_link)
+[**_Link to Reader Submission Form_**](https://docs.google.com/forms/d/e/1FAIpQLSfvX0aaLMn6Aww2hwgCV4ZvBMfkgoAwAuaJeCdVHlEAPgGnMw/viewform?usp=sf_link)
 
 ### Apply to be a Judge:
 We will be selecting judges to ensure a diverse set of viewpoints, both professionally and personally. 
@@ -31,7 +31,7 @@ Judges must be:
 * **Impartial.** The judge should be open and honest about potential conflicts of interest and willing to recuse themselves when necessary.
 * **Genuine.** The judge should bring their own tastes, perspectives, and enthusiasm to the judging process. 
 
-[**Link to Judge Submission Form**](https://docs.google.com/forms/d/e/1FAIpQLSfsSSLAC2-xr85fAtRD0ok-s46LeVMtw8sR6qm5QKwGDakhBQ/viewform?usp=sf_link)
+[**_Link to Judge Submission Form_**](https://docs.google.com/forms/d/e/1FAIpQLSfsSSLAC2-xr85fAtRD0ok-s46LeVMtw8sR6qm5QKwGDakhBQ/viewform?usp=sf_link)
 
 ### Donate a Prize:
 Prizes will be donated by the community and should encourage participation in the challenge. We are seeking several categories of prizes:
