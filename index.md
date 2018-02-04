@@ -3,7 +3,10 @@ layout: default
 ---
 # The 200 Word Challenge returns in 2018! 
 
-Last year was incredible, and this year is looking to be bigger and better than ever. We are seeking **4-5 Judges, 30-40 Readers**, and **Donated Prizes**. Here’s our current timeline:
+Last year was incredible, and this year is looking to be bigger and better than ever. 
+We are seeking **4-5 Judges, 30-40 Readers**, and **Donated Prizes**. 
+
+### Timeline:
 
 * **February - April**: Seeking Judges, Readers, and Prizes
 * **May 18th**: Submissions open
@@ -11,22 +14,24 @@ Last year was incredible, and this year is looking to be bigger and better than 
 * **July 1st**: Winners announced
 
 ### Apply to be a Reader:
-We will be selecting readers to ensure a diverse set of viewpoints, both professionally and personally. Readers must be:
+We will be selecting readers to ensure a diverse set of viewpoints, both professionally and personally. 
+Readers must be:
 * **Dependable.** The reader must commit to reading 100 entries and submit their top choices within the review period (May 30 - Jun 13).
 Readers will have 2 weeks to pick their top entries.Expect to commit 8-10 hours to read through all of the entries; 
 about an hour a day.
 * **Impartial.** The reader should be open and honest about potential conflicts of interest and willing to recuse themselves when necessary.
 
-[**Reader Submission Form**](https://docs.google.com/forms/d/e/1FAIpQLSfvX0aaLMn6Aww2hwgCV4ZvBMfkgoAwAuaJeCdVHlEAPgGnMw/viewform?usp=sf_link)
+[**Link to Reader Submission Form**](https://docs.google.com/forms/d/e/1FAIpQLSfvX0aaLMn6Aww2hwgCV4ZvBMfkgoAwAuaJeCdVHlEAPgGnMw/viewform?usp=sf_link)
 
 ### Apply to be a Judge:
-We will be selecting judges to ensure a diverse set of viewpoints, both professionally and personally. Judges must be:
+We will be selecting judges to ensure a diverse set of viewpoints, both professionally and personally. 
+Judges must be:
 * **Dependable.** The judge must commit to carefully reading about 50 entries and attending 2 Judge Deliberation Meetings. Expect to commit 3-4 hours to read through all of the entries. Each meeting will be about 2 hours long. 
 * **Affable.** The judge should be easy to work with and willing to work with the other judges toward a mutually-agreeable set of winners. 
 * **Impartial.** The judge should be open and honest about potential conflicts of interest and willing to recuse themselves when necessary.
 * **Genuine.** The judge should bring their own tastes, perspectives, and enthusiasm to the judging process. 
 
-[**Judge Submission Form**](https://docs.google.com/forms/d/e/1FAIpQLSfsSSLAC2-xr85fAtRD0ok-s46LeVMtw8sR6qm5QKwGDakhBQ/viewform?usp=sf_link)
+[**Link to Judge Submission Form**](https://docs.google.com/forms/d/e/1FAIpQLSfsSSLAC2-xr85fAtRD0ok-s46LeVMtw8sR6qm5QKwGDakhBQ/viewform?usp=sf_link)
 
 ### Donate a Prize:
 Prizes will be donated by the community and should encourage participation in the challenge. We are seeking several categories of prizes:
