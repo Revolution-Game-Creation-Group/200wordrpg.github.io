@@ -23,7 +23,7 @@ Readers must be:
 Readers will have 2 weeks to pick their top entries. Expect to commit 8-10 hours to read through all of the entries (about an hour a day).
 * **Impartial.** The reader should be open and honest about potential conflicts of interest.
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfvX0aaLMn6Aww2hwgCV4ZvBMfkgoAwAuaJeCdVHlEAPgGnMw/viewform?usp=sf_link" target="_blank"><strong><u>Link to Reader Submission Form</u></strong></a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfsSSLAC2-xr85fAtRD0ok-s46LeVMtw8sR6qm5QKwGDakhBQ/viewform?usp=sf_link" target="_blank"><strong><u>Link to Judge Submission Form</u></strong></a>
 
 ### Apply to be a Judge:
 We will be selecting judges to ensure a diverse set of viewpoints, both professionally and personally.  
@@ -35,7 +35,7 @@ Judges must be:
 * **Impartial.** The judge should be open and honest about potential conflicts of interest and willing to recuse themselves when necessary.
 * **Genuine.** The judge should bring their own tastes, perspectives, and enthusiasm to the judging process. 
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfsSSLAC2-xr85fAtRD0ok-s46LeVMtw8sR6qm5QKwGDakhBQ/viewform?usp=sf_link" target="_blank"><strong><u>Link to Judge Submission Form</u></strong></a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfvX0aaLMn6Aww2hwgCV4ZvBMfkgoAwAuaJeCdVHlEAPgGnMw/viewform?usp=sf_link" target="_blank"><strong><u>Link to Reader Submission Form</u></strong></a>
 
 ### Donate a Prize:
 We hope to offer prizes donated by the community.  
