@@ -34,7 +34,7 @@ Judges will determine the top 3 winners from among the finalists.
 Judges must be:
 * **Dependable.** The judge must commit to carefully reading about 50 entries and attending 2 Judge Deliberation Meetings. Expect to commit 3-4 hours to read through all of the entries. Each meeting will be about 2 hours long. 
 * **Affable.** The judge should be easy to work with and willing to work with the other judges toward a mutually-agreeable set of winners. 
-* **Impartial.** The judge should be open and honest about potential conflicts of interest and willing to recuse themselves when necessary.
+* **Impartial.** The judge should be open and honest about potential conflicts of interest and willing to recuse themselves when necessary. **Judges cannot participate** in the challenge.
 * **Genuine.** The judge should bring their own tastes, perspectives, and enthusiasm to the judging process. 
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfvX0aaLMn6Aww2hwgCV4ZvBMfkgoAwAuaJeCdVHlEAPgGnMw/viewform?usp=sf_link" target="_blank"><strong><u>Link to Judge Submission Form</u></strong></a>
