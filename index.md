@@ -9,9 +9,11 @@ We are seeking **4-5 Judges, 30-40 Readers**, and **Prizes Donated by the commun
 ### Timeline:
 
 * **February - April**: Seeking Judges, Readers, and Prizes
-* **May 18th**: Submissions open
-* **May 28th**: Submissions close, judging begins
-* **July 1st**: Winners announced
+* **May 18th**: Submissions open. Each participant may submit one entry.
+* **May 28th**: Submissions close
+* **May 30 - June 13**: A group of Readers will evaluate the entries and choose the top 50 finalists.
+* **June 15 - 30**: The Judges will read through the finalists and pick the top 3 winners.
+* **July 1st**: Winners announced, prizes awarded, begin layout of the 2018 collection.
 
 ### Apply to be a Reader:
 This year we will have a large group of "Readers" to help narrow down the entries for the Judges.  
