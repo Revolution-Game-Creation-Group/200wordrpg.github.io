@@ -23,7 +23,7 @@ The top 50 entries will then be passed to the Judges for final consideration.
 Readers must be:
 * **Dependable.** The reader must commit to reading 100 entries and submit their top choices within the review period (May 30 - Jun 13).
 Readers will have 2 weeks to pick their top entries. Expect to commit 8-10 hours to read through all of the entries (about an hour a day).
-* **Impartial.** The reader should be open and honest about potential conflicts of interest.
+* **Impartial.** The reader should be open and honest about potential conflicts of interest. You can be a reader and **still submit an entry**! We will ensure you arent assigned entries from people you may know.
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfsSSLAC2-xr85fAtRD0ok-s46LeVMtw8sR6qm5QKwGDakhBQ/viewform?usp=sf_link" target="_blank"><strong><u>Link to Reader Submission Form</u></strong></a>
 
