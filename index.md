@@ -27,8 +27,6 @@ Readers will have 2 weeks to pick their top entries. Expect to commit 8-10 hours
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfsSSLAC2-xr85fAtRD0ok-s46LeVMtw8sR6qm5QKwGDakhBQ/viewform?usp=sf_link" target="_blank"><strong><u>Link to Reader Submission Form</u></strong></a>
 
-### Application for Judges is closed. We will announce the Judges soon!
-
 ### Donate a Prize:
 We hope to offer prizes donated by the community.  
 Digital prizes are prefereble (Game PDFs, Design tools, etc). 
