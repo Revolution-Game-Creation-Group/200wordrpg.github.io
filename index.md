@@ -10,7 +10,7 @@ We are seeking **30-40 Readers** and **Prizes Donated by the community**.
 
 * **February**: [Judges](https://200wordrpg.github.io/judges) have been selected.
 * **March**: Readers have been selected.
-* **March - April**: Seeking Prizes
+* **April - May**: Seeking Prizes
 * **May 18th**: Submissions open. Each participant may submit one entry.
 * **May 28th**: Submissions close
 * **May 30 - June 13**: A group of Readers will evaluate the entries and choose the top 50 finalists.
