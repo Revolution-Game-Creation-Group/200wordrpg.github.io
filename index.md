@@ -8,27 +8,14 @@ We are seeking **30-40 Readers** and **Prizes Donated by the community**.
 
 ### Timeline:
 
-* **February**: [Judges](https://200wordrpg.github.io/judges) selected!
-* **March - April**: Seeking Readers and Prizes
+* **February**: [Judges](https://200wordrpg.github.io/judges) have been selected.
+* **March**: Readers have been selected.
+* **March - April**: Seeking Prizes
 * **May 18th**: Submissions open. Each participant may submit one entry.
 * **May 28th**: Submissions close
 * **May 30 - June 13**: A group of Readers will evaluate the entries and choose the top 50 finalists.
 * **June 15 - 30**: The Judges will read through the finalists and pick the top 3 winners.
 * **July 1st**: Winners announced, prizes awarded, begin layout of the 2018 collection.
-
-### Apply to be a Reader:
-This year we will have a large group of "Readers" to help narrow down the entries for the Judges.  
-Every entry will be read by at least two different Readers.  
-The top 50 entries will then be passed to the Judges for final consideration.
-
-Readers must be:
-* **Dependable.** The reader must commit to reading 100 entries and submit their top choices within the review period (May 30 - Jun 13).
-Readers will have 2 weeks to pick their top entries. Expect to commit 8-10 hours to read through all of the entries (about an hour a day).
-* **Impartial.** The reader should be open and honest about potential conflicts of interest. 
-
-*Note: You can be a reader and **still submit an entry**! We will ensure you aren't assigned entries from people you may know.*
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfsSSLAC2-xr85fAtRD0ok-s46LeVMtw8sR6qm5QKwGDakhBQ/viewform?usp=sf_link" target="_blank"><strong><u>Link to Reader Submission Form</u></strong></a>
 
 ### Donate a Prize:
 We hope to offer prizes donated by the community.  
