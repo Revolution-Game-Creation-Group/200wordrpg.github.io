@@ -110,10 +110,10 @@ Feel free to experiment!
 	    
     var wordCount = value.match(regex).length;    
 			
-    var nonASCIIregex = /[^\x00-\xFF]+/gi;//Check for Emojii's and non-ascii chars
-    var emojiKill = nonASCIIregex.match(value);
+    regex = /[^\x00-\xFF]+/gi;//Check for Emoji's and non-ascii chars
+    var emojiKill = regex.match(value);
     if (emojiKill.length > 0) {
-	wordCount = '<a target="_blank" href="http://www.theasciicode.com.ar/ascii-codes.txt">ASCII</a> CHARACTERS ONLY! None of these:<br/>' + emojiKill;
+	wordCount = '<a target="_blank" href="http://www.theasciicode.com.ar/ascii-codes.txt">ASCII</a> CHARACTERS ONLY! None of these:<br/>' + emojiKill.toString();
     }
 	       
    $('#wordCount').html(wordCount);
