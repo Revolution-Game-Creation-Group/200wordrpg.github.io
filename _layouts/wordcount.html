@@ -102,18 +102,21 @@ Feel free to experiment!
         $('#wordCount').html(0);
         return;
     }
-
-    var regex = /[0-9a-zA-Z]{2,}|[\s\"][ai][\s\"]/gi;
+   			
+    var regex = /[^\x00-\xFF]+/gi;//Check for Emoji's and non-ascii chars
+    var emojiKill = value.match(regex);
+	    
+    if (Array.isArray(emojiKill) && emojiKill.length > 0) {
+	wordCount = '<a target="_blank" href="http://www.theasciicode.com.ar/ascii-codes.txt">ASCII</a> CHARACTERS ONLY! None of these:<br/>' + emojiKill.toString();
+    
+    } else {
+	 
+    regex = /[0-9a-zA-Z]{2,}|[\s\"][ai][\s\"]/gi;
     //A word is defined as:
     //- Any combination of letters and numbers two or more characters in length.
     //- The letters 'a' and 'i' surrounded by whitespace or quotes
 	    
-    var wordCount = value.match(regex).length;    
-			
-    regex = /[^\x00-\xFF]+/gi;//Check for Emoji's and non-ascii chars
-    var emojiKill = value.match(regex);
-    if (emojiKill.length > 0) {
-	wordCount = '<a target="_blank" href="http://www.theasciicode.com.ar/ascii-codes.txt">ASCII</a> CHARACTERS ONLY! None of these:<br/>' + emojiKill.toString();
+    var wordCount = value.match(regex).length; 
     }
 	       
    $('#wordCount').html(wordCount);
