@@ -107,7 +107,8 @@ Feel free to experiment!
     var emojiKill = value.match(regex);
 	    
     if (Array.isArray(emojiKill) && emojiKill.length > 0) {
-	wordCount = '<a target="_blank" href="http://www.theasciicode.com.ar/ascii-codes.txt">ASCII</a> CHARACTERS ONLY! <br/>None of these:<br/>' + emojiKill.toString();
+	    
+	wordCount = '<a target="_blank" href="http://www.theasciicode.com.ar/ascii-codes.txt">ASCII</a> CHARACTERS ONLY! <br/>None of these:<br/>' + emojiKill.join(' ');
     
     } else {
 	 
