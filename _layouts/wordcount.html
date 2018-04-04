@@ -90,13 +90,15 @@ Paste the text of your entry here, check the wordcount below...
         return;
     }
 
-    var regex = /\s+/gi;
-    value = value.trim().replace(regex, ' '); //Replace crap with whitespace
-    regex = /[0-9a-zA-Z']+/gi; //Match letters and words		
+    var regex = /[0-9a-zA-Z]{2,}|[\s\"][ai][\s\"]/gi;
+    //A word is defined as:
+    //- Any combination of letters and numbers two or more characters in length.
+    //- The letters 'a' and 'i' surrounded by whitespace or quotes
+	    
     var wordCount = value.match(regex).length;    
 			
-    regex = /[^\x20-\xFF]+/gi;//Check for Emojii's
-    if (regex.test(value)) {
+    var nonASCIIregex = /[^\x00-\xFF]+/gi;//Check for Emojii's and non-ascii chars
+    if (nonASCIIregex.test(value)) {
 	wordCount = '<a target="_blank" href="http://www.theasciicode.com.ar/ascii-codes.txt">ASCII</a> CHARACTERS ONLY!';
     }
 	       
