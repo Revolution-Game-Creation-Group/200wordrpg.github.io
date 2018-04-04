@@ -18,6 +18,12 @@ textarea {
   background-color: #f8f8f8;
 }
 
+.boxsizingBorder {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
+
 h1 a:hover {
   color:#069 !important;
   text-decoration: underline !important;
