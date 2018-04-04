@@ -41,25 +41,16 @@
 
       </header>
 <section>
-	
-	      {{ content }}
-	
-	      <h1>Wordcounter</h1>
+	<h1>Wordcounter</h1>
 
-	<p>This page is a place for you to check the wordcount and formatting of your entry. It is NOT the submission page. </p>
-	<p><strong>This page won't save anything</strong>, so make sure to back it up somewhere else.</p>
+	{{ content }}
+
+<textarea id="Titletext" rows="1" maxlength="45">
+Change the Title
+</textarea>
 	
-	<h2>Text Requirements:</h2>
-
-<ul>
-  <li>Entries must contain 200 words or fewer. Any entry with more than 200 words will be rejected.</li>
-  <li>A word is any connected series of numbers and letters. They can be seperated with spaces, dashes, or any non-numeric character. Feel free to experiment below.</li>
-  <li>Only <a target="_blank" href="http://www.theasciicode.com.ar/ascii-codes.txt">Extended ASCII</a> characters are allowed. No emojii's, no chinese characters, etc. Any entry containing non-ascii characters will be rejected.</li>
-  <li>The box below is a good way to preview how your entry will look. Keep in mind that the website will re-size itself depending on the size of the screen being used. For example, <a href="https://200wordrpg.github.io/2016/supplement/2016/04/14/InstantAdventuresGeneratorpocketedition.html" target="_blank">Instant Adventures Generator</a> looks great on a very wide screen, but will be squished on a phone.</li>
-</ul> 
-
-<textarea id="text" rows="30" cols="80">
-Paste your entry here, check the wordcount below...
+<textarea id="text" rows="30">
+Paste the text of your entry here, check the wordcount below...
 </textarea>
 
 <h1> Wordcount: <span id="wordCount">0</span></h1>
