@@ -48,11 +48,24 @@
 	<hr>
 
 <textarea id="Titletext" rows="1" maxlength="45">
-Your Title Here (up to 45 Characters)
+Your Title Here (up to 45 characters)
 </textarea>
 	<br/>
 <textarea id="text" rows="30">
-Paste the text of your entry here, check the wordcount below...
+Your entry text here...	
+	
+A word is defined as:
+ - Any combination of letters and numbers two or more characters in length.
+ - The letters 'a' and 'i' surrounded by whitespace or quotes
+	
+Wordcounter ignores punctuation and non-ascii characters. "a)" is not a word.
+
+Here's the regular expression for the nerds out there:
+	
+[0-9a-zA-Z]{2,}|[\s\"][ai][\s\"]
+	
+Feel free to experiment!
+	
 </textarea>
 
 <h1> Wordcount: <span id="wordCount">0</span></h1>
