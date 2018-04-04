@@ -4,7 +4,7 @@ layout: default
 # The 200 Word Challenge Returns in 2018! 
 
 Last year was incredible and this year is looking to be bigger and better than ever.  
-We are seeking **30-40 Readers** and **Prizes Donated by the community**. 
+We are seeking **Prizes Donated by the community**. 
 
 ### Timeline:
 
