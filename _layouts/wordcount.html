@@ -111,7 +111,7 @@ Feel free to experiment!
     var wordCount = value.match(regex).length;    
 			
     regex = /[^\x00-\xFF]+/gi;//Check for Emoji's and non-ascii chars
-    var emojiKill = regex.match(value);
+    var emojiKill = value.match(regex);
     if (emojiKill.length > 0) {
 	wordCount = '<a target="_blank" href="http://www.theasciicode.com.ar/ascii-codes.txt">ASCII</a> CHARACTERS ONLY! None of these:<br/>' + emojiKill.toString();
     }
