@@ -33,17 +33,7 @@ The three winning entries were featured on an episode of [System Mastery](https:
 
 ### All Finalists received a copy of:
 
-<table>
-  <tbody>
-  <col width="50%"><col width="50%">
-    
-    <tr>
-      <td colspan="1"><a href="http://www.drivethrurpg.com/product/178359/The-Black-Hack"><img src="/assets/images/blackHack.jpg" alt="" /></a></td>
-      <td><strong>ALL finalists will receive a digital copy of The Black Hack</strong></td>
-    </tr>
-    
-  </tbody>
-</table>
+<a href="http://www.drivethrurpg.com/product/178359/The-Black-Hack"><img src="/assets/images/blackHack.jpg" alt="" /></a>
 
 <hr>
 
