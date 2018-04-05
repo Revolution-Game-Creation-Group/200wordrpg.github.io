@@ -1,57 +1,50 @@
 ---
 layout: default
 ---
-# 2017 Prizes
+## 2017 Prizes
+
+### Featured:
+
+The three winning entries received free graphic design, artwork, and layout funded by [The Gauntlet](https://www.patreon.com/gauntlet) and their incredible patrons! You can find them in the [Neon issue](http://www.drivethrurpg.com/product/237701/Codex--Neon-Jul-2017).
+
+The three winning entries were featured on an episode of [System Mastery](https://systemmasterypodcast.com/2017/05/22/200-word-rpg-challenge-system-mastery-95/) and [The Gauntlet Podcast](http://www.gauntlet-rpg.com/the-gauntlet-podcast/episode-104-the-200-word-rpg-challenge).
+
+### The 3 Winners received copies of:
 
 <table>
   <tbody>
-  <col width="25%">
-    <col width="25%">
-	    <col width="50%">
-
-    <tr>
-	  <td colspan="2"><img src="/assets/images/palette.png" /></td>
-
-      <td><strong>The three winning entries will receive free graphic design, artwork, and layout funded by <a href="https://www.patreon.com/gauntlet">The Gauntlet</a> and their incredible patrons!</strong> The Gauntlet will help arrange and pay for your game's layout, but you will keep all the rights to it. The original 200 word plaintext entry will stay on the site so future readers can enjoy it, but the art-filled version is all yours!</td>
-    </tr>
-    <tr>
-      <td><a href="https://systemmasterypodcast.com/"><img src="/assets/images/systemMastery.jpg" /></a></td>
-      <td><a href="http://www.gauntlet-rpg.com"><img src="/assets/images/gauntlet.png" /></a></td>
-	  <td><strong>The three winning entries will be featured on an episode of System Master and The Gauntlet Podcast.</strong></td>
-    </tr>
-    <tr>
-      <td colspan="2"><a href="http://www.gauntlet-rpg.com/codex.html"><img src="/assets/images/codexZine.png" alt="" /></a></td>
-
-	  <td><strong>The three winning entries will be featured in Codex, an monthly RPG fanzine.</strong></td>
-    </tr>
+  <col width="50%"><col width="50%">
     <tr>
       <td colspan="2"><a href="http://www.dungeonographer.com/"><img src="/assets/images/dungeon.png" /></a></td>
-	  <td><strong>The three winners will receive copy of Dungeonographer Pro.</strong></td>
-
     </tr>
-	    <tr>
+	  
+    <tr>
       <td><a href="http://www.drivethrurpg.com/product/178359/The-Black-Hack"><img src="/assets/images/blackHack.jpg" /></a></td>
-	        <td><a href="https://www.kickstarter.com/projects/averyalder/monsterhearts-2"><img src="/assets/images/monsterhearts2.jpg" /></a></td>
-	  <td><strong>The three winners will receive physical copies of Monsterhearts 2 and The Black Hack.</strong></td>
-
+      <td><a href="https://www.kickstarter.com/projects/averyalder/monsterhearts-2"><img src="/assets/images/monsterhearts2.jpg" /></a></td>
     </tr>
+    
     <tr>
       <td><a href="https://www.drivethrurpg.com/product/192215/The-Indie-Hack?"><img src="/assets/images/indieHack.jpg" /></a></td>
-	        <td><a href="https://societyofdreamers.wordpress.com/"><img src="/assets/images/societyofDreamers.jpg" /></a></td>
-
-	        <td><strong>The three winners also recieve PDF copies of Society of Dreamers and The Indie Hack</strong></td>
-
+      <td><a href="https://societyofdreamers.wordpress.com/"><img src="/assets/images/societyofDreamers.jpg" /></a></td>
     </tr>
-    <tr>
-      <td colspan="2"><a href="http://www.drivethrurpg.com/product/178359/The-Black-Hack"><img src="/assets/images/blackHack.jpg" alt="" /></a></td>
-
-	        <td><strong>ALL finalists will receive a digital copy of The Black Hack</strong></td>
-
-    </tr>
+    
   </tbody>
 </table>
 
-*paint image from [game-icons.net](http://game-icons.net/).*
+### All Finalists received a copy of:
+
+<table>
+  <tbody>
+  <col width="50%"><col width="50%">
+    
+    <tr>
+      <td colspan="1"><a href="http://www.drivethrurpg.com/product/178359/The-Black-Hack"><img src="/assets/images/blackHack.jpg" alt="" /></a></td>
+      <td><strong>ALL finalists will receive a digital copy of The Black Hack</strong></td>
+    </tr>
+    
+  </tbody>
+</table>
+
 <hr>
 
 ## 2016 Prizes
