@@ -102,14 +102,14 @@ Feel free to experiment!
 	    
     if (Array.isArray(emojiKill) && emojiKill.length > 0) {
 	    
-	wordCount = '<a target="_blank" href="http://www.theasciicode.com.ar/">ASCII</a> CHARACTERS ONLY! <br/>None of these:<br/>' + emojiKill.join(' ');
+	wordCount = '<a target="_blank" href="https://en.wikipedia.org/wiki/List_of_Unicode_characters#Basic_Latin">ASCII</a> CHARACTERS ONLY! <br/>None of these:<br/>' + emojiKill.join(' ');
     
     } else {
 	 
-    regex = /[0-9a-zA-Z\x80-\xFE]{2,}|[\s\"][ai][\s\"]/gi;
+    regex = /[0-9a-zA-Z\xC0-\xFF]{2,}|[aA][^\)\.]|[Ii]/gi;
     //A word is defined as:
-    //- Any combination of letters and numbers two or more characters in length.
-    //- The letters 'a' and 'i' surrounded by whitespace or quotes
+    //- Any combination of letters, numbers, and latin chars two or more in length.
+    //- The letters 'a' and 'i' when not used as lists.	    
 	    
     var wordCount = value.match(regex).length; 
     }
