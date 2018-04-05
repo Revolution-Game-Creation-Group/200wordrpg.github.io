@@ -13,7 +13,7 @@ The three winning entries were featured on an episode of [System Mastery](https:
 
 [<img src="{{site.url}}/assets/images/dungeon.png">](http://www.dungeonographer.com/)
 
-|[<img src="{{site.url}}/assets/images/blackHack.jpg">](http://www.drivethrurpg.com/product/178359/The-Black-Hack)|[<img src="{{site.url}}/assets/images/monsterhearts2.jpg">](https://www.kickstarter.com/projects/averyalder/monsterhearts-2)|[<img src="{{site.url}}/assets/images/societyofDreamers.jpg">](https://societyofdreamers.wordpress.com/)|
+|[<img src="{{site.url}}/assets/images/indieHack.jpg">](https://www.drivethrurpg.com/product/192215/The-Indie-Hack)|[<img src="{{site.url}}/assets/images/monsterhearts2.jpg">](https://www.kickstarter.com/projects/averyalder/monsterhearts-2)|[<img src="{{site.url}}/assets/images/societyofDreamers.jpg">](https://societyofdreamers.wordpress.com/)|
 
 ### All Finalists received a copy of:
 
