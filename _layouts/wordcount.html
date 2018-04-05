@@ -101,16 +101,12 @@ Feel free to experiment with what counts as a word and what doesn't!
     
     } else {
 	 
-    regex = /[0-9a-zA-Z\xC0-\xFF]+[-]?[0-9a-zA-Z\xC0-\xFF]*/gi;
-    //A word is defined as:
-    //- Any combination of letters, numbers, and latin chars two or more in length.
-    //- The letters 'a' and 'i' when not used as lists.	    
+    regex = /[0-9a-zA-Z\xC0-\xFF]+[-]?[0-9a-zA-Z\xC0-\xFF]*/gi;    
 	    
     wordCount = value.match(regex).length; 
     }
 	       
    $('#wordCount').html(wordCount);
-    }
 	
 };
 
