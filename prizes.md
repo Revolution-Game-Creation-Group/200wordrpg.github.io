@@ -11,25 +11,9 @@ The three winning entries were featured on an episode of [System Mastery](https:
 
 ### The 3 Winners received copies of:
 
-<table>
-  <tbody>
-  <col width="50%"><col width="50%">
-    <tr>
-      <td colspan="2"><a href="http://www.dungeonographer.com/"><img src="/assets/images/dungeon.png" /></a></td>
-    </tr>
-	  
-    <tr>
-      <td><a href="http://www.drivethrurpg.com/product/178359/The-Black-Hack"><img src="/assets/images/blackHack.jpg" /></a></td>
-      <td><a href="https://www.kickstarter.com/projects/averyalder/monsterhearts-2"><img src="/assets/images/monsterhearts2.jpg" /></a></td>
-    </tr>
-    
-    <tr>
-      <td><a href="https://www.drivethrurpg.com/product/192215/The-Indie-Hack?"><img src="/assets/images/indieHack.jpg" /></a></td>
-      <td><a href="https://societyofdreamers.wordpress.com/"><img src="/assets/images/societyofDreamers.jpg" /></a></td>
-    </tr>
-    
-  </tbody>
-</table>
+[<img src="{{site.url}}/assets/images/dungeon.png">](http://www.dungeonographer.com/)
+
+|[<img src="{{site.url}}/assets/images/blackHack.jpg">](http://www.drivethrurpg.com/product/178359/The-Black-Hack)|[<img src="{{site.url}}/assets/images/monsterhearts2.jpg">](https://www.kickstarter.com/projects/averyalder/monsterhearts-2)|[<img src="{{site.url}}/assets/images/societyofDreamers.jpg">](https://societyofdreamers.wordpress.com/)|
 
 ### All Finalists received a copy of:
 
