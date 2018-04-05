@@ -106,7 +106,7 @@ Feel free to experiment!
     
     } else {
 	 
-    regex = /[0-9a-zA-Z]{2,}|[\s\"][ai][\s\"]/gi;
+    regex = /[0-9a-zA-Z\x80-\xFE]{2,}|[\s\"][ai][\s\"]/gi;
     //A word is defined as:
     //- Any combination of letters and numbers two or more characters in length.
     //- The letters 'a' and 'i' surrounded by whitespace or quotes
