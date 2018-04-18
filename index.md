@@ -47,6 +47,8 @@ All entries will be submitted under the Creative Commons Attribution 4.0 Interna
 * **June 15 - 30**: The [Judges]({{site.baseurl}}/judges) will read through all of the Finalists. The Judges will have two meetings during which they will discuss and determine the **top 3 Winners**.
 * **July 1st**: Winners announced, prizes awarded. Organizers sleep until next year.
 
+<hr>
+
 ### Why? What is this?
 
 The **200 Word RPG Challenge** exists for two primary reasons:
