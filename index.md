@@ -47,8 +47,6 @@ All entries will be submitted under the Creative Commons Attribution 4.0 Interna
 * **June 15 - 30**: The [Judges]({{site.baseurl}}/judges) will read through all of the Finalists. The Judges will have two meetings during which they will discuss and determine the **top 3 Winners**.
 * **July 1st**: Winners announced, prizes awarded. Organizers sleep until next year.
 
-<hr>
-
 ### Why? What is this?
 
 The **200 Word RPG Challenge** exists for two primary reasons:
@@ -62,8 +60,6 @@ The **200 Word RPG Challenge** exists for two primary reasons:
 A 200 word limit encourages creativity and demands the very best of your editing and writing abilities. While making a game in 200 words can be difficult, it’s less of a daunting commitment than editing and proofing 285 pages of rules, complete with art and layout.
 
 Conceiving, designing, and publishing a 200 word game is a great first step toward completing larger game design projects.
-
-<a class="twitter-timeline" data-tweet-limit="1" data-chrome="noheader nofooter noscrollbar" data-dnt="true" href="https://twitter.com/200WordRPG">Entry of the Date</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Plaintext?
 
