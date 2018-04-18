@@ -4,16 +4,7 @@ layout: default
 
 # Design a role-playing game using 200 words or less.
 
-## Timeline:
-
-* **May 18th**: Submissions open. 
-* **May 28th**: Submissions close.
-* **May 30 - June 13**: Each [Reader]({{site.baseurl}}/readers) will be assigned 100 or so entries so that every entry is read by at least two different Readers. Each Reader will submit their top 10 entries, and the **top 50 Finalists** will be selected from the Reader choices.
-* **June 14**: [Finalists]({{site.baseurl}}/winners) announced and posted.
-* **June 15 - 30**: The [Judges]({{site.baseurl}}/judges) will read through all of the Finalists. The Judges will have two meetings during which they will discuss and determine the **top 3 Winners**.
-* **July 1st**: Winners announced, prizes awarded. Organizers sleep until next year.
-
-## Begins May 18th
+## Challenge Begins May 18th
 
 Entries will be accepted from the beginning of May 18th (00:01 EST) until the end of May 28th (23:99 EST).
 
@@ -24,6 +15,14 @@ Each participant may submit **one** entry. If you submit multiple entries only y
 Each entry may not exceed 200 words. Judges will use the [Site Wordcounter]({{site.baseurl}}/wordcount). Anything above 200 words will be immediately disqualified. **Entries cannot be corrected or changed once they are submitted.**
 
 The title, author name, and so on, will NOT count towards that limit.
+
+## Entry Criteria
+
+Both readers and judges will be evaluating entries based upon the following criteria: 
+
+* **Actionable.** The entry should contain enough description to attempt play of the game. Goals, stakes, rules, and roles should be clearly defined.
+* **New and Overlooked Stories.** The entry should encourage its players to tell a new kind of story, a story that has often been overlooked, or a familiar story from a new perspective.
+* **Engaging.** The game should inspire the reader with ideas and questions. It should make the reader want to play this game as soon as possible.
 
 ## Plaintext
 
@@ -38,6 +37,15 @@ Each entry will be publicly posted [on this page]({{site.baseurl}}/2018entries).
 All entries will be submitted under the Creative Commons Attribution 4.0 International (CC BY 4.0) License. That means that anyone can remix, modify, expand, or build upon these entries, and even make money off of them! [More info here]({{site.baseurl}}/licensing).
 
 ### Submission Form Coming May 18th
+
+## Timeline:
+
+* **May 18th**: Submissions open. 
+* **May 28th**: Submissions close.
+* **May 30 - June 13**: Each [Reader]({{site.baseurl}}/readers) will be assigned 100 or so entries so that every entry is read by at least two different Readers. Each Reader will submit their top 10 entries, and the **top 50 Finalists** will be selected from the Reader choices.
+* **June 14**: [Finalists]({{site.baseurl}}/winners) announced and posted.
+* **June 15 - 30**: The [Judges]({{site.baseurl}}/judges) will read through all of the Finalists. The Judges will have two meetings during which they will discuss and determine the **top 3 Winners**.
+* **July 1st**: Winners announced, prizes awarded. Organizers sleep until next year.
 
 <hr>
 
