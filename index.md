@@ -18,9 +18,9 @@ The title, author name, and so on, will NOT count towards that limit.
 
 ## Entry Criteria
 
-Both readers and judges will be evaluating entries based upon the following criteria: 
+Both readers and judges will be evaluating entries based upon the following criteria:
 
-* **Actionable.** The entry should contain enough description to attempt play of the game. Goals, stakes, rules, and roles should be clearly defined.
+* **Actionable.** The entry should contain enough description to play the game.
 * **New and Overlooked Stories.** The entry should encourage its players to tell a new kind of story, a story that has often been overlooked, or a familiar story from a new perspective.
 * **Engaging.** The game should inspire the reader with ideas and questions. It should make the reader want to play this game as soon as possible.
 
