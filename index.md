@@ -16,7 +16,7 @@ Each entry may not exceed 200 words. Judges will use the [Site Wordcounter]({{si
 
 The title, author name, and so on, will NOT count towards that limit.
 
-## Entry Criteria
+## Judging Criteria
 
 Both readers and judges will be evaluating entries based upon the following criteria:
 
