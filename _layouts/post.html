@@ -1,124 +1,82 @@
 <!doctype html>
-	<html xmlns="http://www.w3.org/1999/xhtml"
-      xmlns:fb="http://ogp.me/ns/fb#">
-	  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-	
-    <title>{{ page.title }}</title>
-	
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-	
-	<link href='https://200wordrpg.github.io/feed.xml' rel='alternate' type='application/atom+xml'>
-		<link rel="shortcut icon" type="image/x-icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}" >
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
 
-    <meta name="viewport" content="width=device-width">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-	
-	<meta property="og:image" content="{{site.baseurl}}/assets/images/logo.gif" />
-	<meta property="og:image:type" content="image/gif">
+<head>
+
     <meta property="og:title" content="{{ page.title }}" />
-	<meta property="og:description" content="{{ page.author }}" />
+    <meta property="og:description" content="{{ page.author }}" />
+    <title>{{ page.title }}</title>
 
-	<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript">
+        function generateRandomPost() {
+            $.getJSON("/allposts.json", function (data) {
+                console.log("[allposts.json loaded for random entries]");
 
-	<script type="text/javascript">
+                var postsCount = data.length;
+                var posts = data;
+                var divRandomButton = $("#random_button");
+                var randomIndex1 = Math.floor(Math.random() * postsCount);
+                var randomIndex2 = Math.floor(Math.random() * postsCount);
+                var randomIndex3 = Math.floor(Math.random() * postsCount);
 
-    function generateRandomPost()
-    {
-        $.getJSON("/allposts.json", function(data) {
-            console.log("[allposts.json loaded for random entries]");
+                while (randomIndex1 == randomIndex2 || randomIndex2 == randomIndex3 || randomIndex1 ==
+                    randomIndex3) {
+                    randomIndex2 = Math.floor(Math.random() * postsCount);
+                    randomIndex3 = Math.floor(Math.random() * postsCount);
+                }
 
-            var postsCount = data.length;
-            var posts = data;
-            var divRandomButton = $("#random_button");
-            var randomIndex1 = Math.floor(Math.random() * postsCount);
-			var randomIndex2 = Math.floor(Math.random() * postsCount);
-            var randomIndex3 = Math.floor(Math.random() * postsCount);
-			
-			while (randomIndex1 == randomIndex2 || randomIndex2 == randomIndex3 || randomIndex1 == randomIndex3){
-			randomIndex2 = Math.floor(Math.random() * postsCount);
-                        randomIndex3 = Math.floor(Math.random() * postsCount);
-			}
-	
-			divRandomButton.append('<a id="random_button" href="' + posts[randomIndex1].href + '" class="button">' + posts[randomIndex1].title + '</a>');
-			divRandomButton.append('<br/><a id="random_button" href="' + posts[randomIndex2].href + '" class="button">' + posts[randomIndex2].title + '</a>');
-			divRandomButton.append('<br/><a id="random_button" href="' + posts[randomIndex3].href + '" class="button">' + posts[randomIndex3].title + '</a>');
-            
+                divRandomButton.append('<a id="random_button" href="' + posts[randomIndex1].href +
+                    '" class="button">' + posts[randomIndex1].title + '</a>');
+                divRandomButton.append('<br/><a id="random_button" href="' + posts[randomIndex2].href +
+                    '" class="button">' + posts[randomIndex2].title + '</a>');
+                divRandomButton.append('<br/><a id="random_button" href="' + posts[randomIndex3].href +
+                    '" class="button">' + posts[randomIndex3].title + '</a>');
+
+            });
+        }
+
+        $(document).ready(function () {
+            generateRandomPost();
         });
-    }
-	
-	    $(document).ready(function() {
-        generateRandomPost();
-    });
+    </script>
 
-</script>
-	
-  </head>
-  <body>
+</head>
+
+<body>
     <div class="wrapper">
-      <header>
-        <!--<h1>{{ site.title | default: site.github.repository_name }}</h1>-->		
-		<a itemscope itemtype="http://schema.org/image" href="{{site.baseurl}}/"><img itemprop="image" src="{{site.baseurl}}/assets/images/logo.gif"/></a>
-		
-        <h3><a href="{{site.baseurl}}/winners">Winners & Finalists</a><br>
-	    <a href="{{site.baseurl}}/judges"> Judges </a> • <a href="{{site.baseurl}}/readers"> Readers </a> • <a href="{{site.baseurl}}/prizes"> Prizes</a><br>
-		<a href="{{site.baseurl}}/2018entries">2018</a><br> 
-		<a href="{{site.baseurl}}/2017entries">2017</a><br> 
-		<a href="{{site.baseurl}}/2016entries">2016</a><br> 
-		<a href="{{site.baseurl}}/2015entries">2015</a><br>
-	        <a href="{{site.baseurl}}/search">Search</a><br>
-	   	<a href="{{site.baseurl}}/downloads">Downloads</a><br>
-          </h3>
- 
-      </header>
-      <section>
-	  
-	  <h1 itemprop="name">{{ page.title }} • {{ page.categories }}</h1>
-	  <h3>{{ page.author }} • <span id="entry-link">{{ page.link }}</span></h3>
 
-      {{ content }}
-	      <div align="middle" style="vertical-align:middle;display:block;">
-		      
-		<a href="//www.reddit.com/submit" class="button" id="discuss" onclick="window.location = '//www.reddit.com/r/200wordrpg/submit?title={{page.title}}&url=' + encodeURIComponent(window.location); return false" target="_blank">
-				
-		<img src="{{site.url}}/assets/images/reddit_alien.png" style="height:60px;"><h3>Discuss this Entry</h3></a>
-	      </div>
-		  
-	  <hr>
-	  <h2>Read another Entry</h2>
-	  <div id="random_button" align="middle"></div>
+        {% include header.html %}
 
-      </section>
-	    
-      <footer>
+        <section>
 
-<p>Organized by <a href="http://technicalgrimoire.com/">David Schirduan</a> and <a href="http://www.finemessgames.com/">Marshall Miller</a>, huge thanks to the <a href="{{site.baseurl}}/downloads">PDF Collection</a> designers, the hardworking <a href="{{site.baseurl}}/judges">Judges</a>, and those who generously <a href="{{site.baseurl}}/prizes">Donated Prizes</a></p> 
+            <h1 itemprop="name">{{ page.title }} • {{ page.categories }}</h1>
+            <h3>{{ page.author }} •
+                <span id="entry-link">{{ page.link }}</span>
+            </h3>
 
+            {{ content }}
+            <div align="middle" style="vertical-align:middle;display:block;">
 
-	<div>
-	<a rel="license" href="{{site.baseurl}}/licensing"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br>Hosted on <a href="https://github.com/200WordRPG/200wordrpg.github.io">GitHub</a> • Theme by <a href="https://github.com/orderedlist">orderedlist</a>
-	  </div>
+                <a href="//www.reddit.com/submit" class="button" id="discuss" onclick="window.location = '//www.reddit.com/r/200wordrpg/submit?title={{page.title}}&url=' + encodeURIComponent(window.location); return false"
+                    target="_blank">
 
-    <script async src="/assets/js/add-links.js"></script>
-	      
-	      <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+                    <img src="{{site.url}}/assets/images/reddit_alien.png" style="height:60px;">
+                    <h3>Discuss this Entry</h3>
+                </a>
+            </div>
 
-  ga('create', 'UA-49566007-3', 'auto');
-  ga('send', 'pageview');
+            <hr>
+            <h2>Read another Entry</h2>
+            <div id="random_button" align="middle"></div>
 
-</script>
-	  
-      </footer>
+        </section>
+
+        {% include footer.html %}
+
     </div>
-	
+
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
 
-  </body>
+</body>
+
 </html>
