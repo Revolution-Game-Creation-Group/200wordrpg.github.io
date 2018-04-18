@@ -61,16 +61,32 @@ font-size: 1.2em;
 font-weight: bold;
 }
 
-.button {
-    background-color: #555555; 
-    border: 2px solid white;
-    color: white;
-    padding: 15px 32px;
+#discuss {
+    background-color: white; 
+    color: black;
+    padding: 8px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 20px;
-	transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    width: 350px;
+}
+
+#discuss:hover{
+    background-color: #111111; 
+}
+
+.button {
+    background-color: #555555; 
+    border: 3px solid white;
+    color: white;
+    padding: 8px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    transition-duration: 0.4s;
 }
 
 .button:hover{
