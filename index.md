@@ -1,34 +1,45 @@
 ---
 layout: default
 ---
-# The 200 Word Challenge Returns in 2018! 
-
-Last year was incredible and this year is looking to be bigger and better than ever.  
-We are seeking **Prizes Donated by the community**. 
-
-### Timeline:
-
-* **February**: [Judges](https://200wordrpg.github.io/judges) have been selected.
-* **March**: Readers have been selected.
-* **April - May**: Seeking Prizes
-* **May 18th**: Submissions open. Each participant may submit one entry.
-* **May 28th**: Submissions close
-* **May 30 - June 13**: A group of Readers will evaluate the entries and choose the top 50 finalists.
-* **June 15 - 30**: The Judges will read through the finalists and pick the top 3 winners.
-* **July 1st**: Winners announced, prizes awarded, begin layout of the 2018 collection.
-
-### Donate a Prize:
-We hope to offer prizes donated by the community.  
-Digital prizes are prefereble (Game PDFs, Design tools, etc). 
-
-We are seeking several categories of prizes:
-* **Winners (3 prizes)**: Large prizes for the Top 3 Winners. There is no 1st, 2nd, or 3rd prize, simply the Top 3.
-* **Finalists (50-ish prizes)**: Smaller prizes to reward the finalists for making it past the Reader selection.
-* **Readers and Judges (40-ish prizes)**: Smaller Prizes to reward the effort and dedication of the Readers and Judges.
-
-Please email davidschirduan @ gmail.com if you have a prize you would like to donate.
 
 # Design a role-playing game using 200 words or less.
+
+## Timeline:
+
+* **May 18th**: Submissions open. 
+* **May 28th**: Submissions close.
+* **May 30 - June 13**: Each [Reader]({{site.baseurl}}/readers) will be assigned 100 or so entries so that every entry is read by at least two different Readers. Each Reader will submit their top 10 entries, and the **top 50 Finalists** will be selected from the Reader choices.
+* **June 14**: [Finalists]({{site.baseurl}}/winners) announced and posted.
+* **June 15 - 30**: The [Judges]({{site.baseurl}}/judges) will read through all of the Finalists. The Judges will have two meetings during which they will discuss and determine the **top 3 Winners**.
+* **July 1st**: Winners announced, prizes awarded. Organizers sleep until next year.
+
+## Begins May 18th
+
+Entries will be accepted from the beginning of May 18th (00:01 EST) until the end of May 28th (23:99 EST).
+
+Each participant may submit **one** entry. If you submit multiple entries only your **first** entry will be accepted. So make sure to double and triple check everything before you submit.
+
+## 200 Words or Fewer
+
+Each entry may not exceed 200 words. Judges will use the [Site Wordcounter]({{site.baseurl}}/wordcount). Anything above 200 words will be immediately disqualified. **Entries cannot be corrected or changed once they are submitted.**
+
+The title, author name, and so on, will NOT count towards that limit.
+
+## Plaintext
+
+Entries will be submitted entirely in plaintext (ASCII). There will be no formatting of any kind however all entries will be displayed with a mono-space font (so all spacing or ascii art will be preserved).
+
+No emojii's, no chinese characters, etc. Only [Basic Latin Characters](https://en.wikipedia.org/wiki/List_of_Unicode_characters#Basic_Latin) are allowed. <br>*Unicode x0000 through x00FF for the nerds out there.*
+
+## Publicly Posted
+Each entry will be publicly posted [on this page]({{site.baseurl}}/2018entries). We reserve the right to reject entries that we consider to be inappropriate or offensive. 
+
+## Licensing
+All entries will be submitted under the Creative Commons Attribution 4.0 International (CC BY 4.0) License. That means that anyone can remix, modify, expand, or build upon these entries, and even make money off of them! [More info here]({{site.baseurl}}/licensing).
+
+### Submission Form Coming May 18th
+
+<hr>
 
 ### Why? What is this?
 
