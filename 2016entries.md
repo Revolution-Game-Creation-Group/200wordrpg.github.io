@@ -15,6 +15,7 @@ The 2016 challenge featured two categories: **Supplements** and **rpgs**. There 
       <strong>&emsp;•&emsp;<a href="{{ post.url }}">
         {{ post.title }}
       </a></strong>
+        {% endif %}
   {% endfor %}
 </p>
 
@@ -29,5 +30,6 @@ The 2016 challenge featured two categories: **Supplements** and **rpgs**. There 
       <strong>&emsp;•&emsp;<a href="{{ post.url }}">
         {{ post.title }}
       </a></strong>
+        {% endif %}
   {% endfor %}
 </p>
