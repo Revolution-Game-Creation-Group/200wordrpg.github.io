@@ -51,7 +51,7 @@
 
         <section>
 
-            <h1 itemprop="name">{{ page.title }} • {{ page.categories }}</h1>
+            <h1 itemprop="name">{{ page.title }} • {{ page.categories | join: " " }}</h1>
             <h3>{{ page.author }} •
                 <span id="entry-link">{{ page.link }}</span>
             </h3>
