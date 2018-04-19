@@ -8,7 +8,7 @@ The 200 Word RPG Challenge is a small tabletop game design competition.
 
 ### Why? What is this?
 
-This little competition exists for two primary reasons:
+This little challenge exists for two primary reasons:
 
 **1) Encourage participants to make a complete Role-Playing Game**. It's hard to work on a game, and much harder to finish one. This is an opportunity for participants to brainstorm, write, edit, playtest, and polish a game idea from start to finish.
 
