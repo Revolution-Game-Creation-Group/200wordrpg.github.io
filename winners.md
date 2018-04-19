@@ -15,9 +15,6 @@ Chosen by the [Judges]({{site.baseurl}}/judges), these entries were particularly
 
 <hr>
 
-# 2018 Finalists
-Coming soon!
-
 # 2017 Finalists
 Out of nearly 700 entries, these were chosen by a [panel of judges]({{site.baseurl}}/judges) to be among the best of 2017:
 
