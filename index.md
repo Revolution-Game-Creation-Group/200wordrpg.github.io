@@ -4,47 +4,7 @@ layout: default
 
 # Design a role-playing game using 200 words or less.
 
-## Challenge Begins May 18th
-
-Entries will be accepted from the beginning of May 18th (00:01 EST) until the end of May 28th (23:99 EST).
-
-Each participant may submit **one** entry. If you submit multiple entries only your **first** entry will be accepted. So make sure to double and triple check everything before you submit.
-
-## 200 Words or Fewer
-
-Each entry may not exceed 200 words. Judges will use the [Site Wordcounter]({{site.baseurl}}/wordcount). Anything above 200 words will be immediately disqualified. **Entries cannot be corrected or changed once they are submitted.**
-
-The title, author name, and so on, will NOT count towards that limit.
-
-## Judging Criteria
-
-Both readers and judges will be evaluating entries based upon the following criteria:
-
-* **Actionable.** The entry should contain enough description to play the game.
-* **New and Overlooked Stories.** The entry should encourage its players to tell a new kind of story, a story that has often been overlooked, or a familiar story from a new perspective.
-* **Engaging.** The game should inspire the reader with ideas and questions. It should make the reader want to play this game as soon as possible.
-
-## Plaintext
-
-Entries will be submitted entirely in plaintext (ASCII). There will be no formatting of any kind however all entries will be displayed with a mono-space font (so all spacing or ascii art will be preserved).
-
-## Licensing and Ownership
-Each entry will be publicly posted [on this page]({{site.baseurl}}/2018entries). We reserve the right to reject entries that we consider to be inappropriate or offensive. 
-
-All entries will be submitted under the Creative Commons Attribution 4.0 International (CC BY 4.0) License. [More info here]({{site.baseurl}}/licensing).
-
-### Submission Form Coming May 18th
-
-## Timeline:
-
-* **May 18th**: Submissions open. 
-* **May 28th**: Submissions close.
-* **May 30 - June 13**: Each [Reader]({{site.baseurl}}/readers) will be assigned 100 or so entries so that every entry is read by at least two different Readers. Each Reader will submit their top 10 entries, and the **top 50 Finalists** will be selected from the Reader choices.
-* **June 14**: [Finalists]({{site.baseurl}}/winners) announced and posted.
-* **June 15 - 30**: The [Judges]({{site.baseurl}}/judges) will read through all of the Finalists. The Judges will have two meetings during which they will discuss and determine the **top 3 Winners**.
-* **July 1st**: Winners announced, prizes awarded. Organizers sleep until next year.
-
-<hr>
+The 200 Word RPG Challenge is a small tabletop game design competition.
 
 ### Why? What is this?
 
@@ -63,6 +23,50 @@ Conceiving, designing, and publishing a 200 word game is a great first step towa
 ### Plaintext?
 
 Visual presentation can be a large and scary problem. Very few people are masters of writing, editing, art direction, graphic design, layout, and marketing. It usually takes a village to make a game. We want participants to focus solely on the challenge of creative writing and brutal editing.
+
+<hr>
+
+# The Challenge Begins May 18th
+
+Entries will be accepted from the beginning of May 18th (00:01 EST) until the end of May 28th (23:99 EST).
+
+Each participant may submit **one** entry. If you submit multiple entries only your **first** entry will be accepted. So make sure to double and triple check everything before you submit.
+
+### 200 Words or Fewer
+
+Each entry may not exceed 200 words. Judges will use the [Site Wordcounter]({{site.baseurl}}/wordcount). Anything above 200 words will be immediately disqualified. **Entries cannot be corrected or changed once they are submitted.**
+
+The title, author name, and so on, will NOT count towards that limit.
+
+### Judging Criteria
+
+Both readers and judges will be evaluating entries based upon the following criteria:
+
+* **Actionable.** The entry should contain enough description to play the game.
+* **New and Overlooked Stories.** The entry should encourage its players to tell a new kind of story, a story that has often been overlooked, or a familiar story from a new perspective.
+* **Engaging.** The game should inspire the reader with ideas and questions. It should make the reader want to play this game as soon as possible.
+
+### Plaintext
+
+Entries will be submitted entirely in plaintext (ASCII). There will be no formatting of any kind however all entries will be displayed with a mono-space font (so all spacing or ascii art will be preserved).
+
+### Licensing and Ownership
+Each entry will be publicly posted [on this page]({{site.baseurl}}/2018entries). We reserve the right to reject entries that we consider to be inappropriate or offensive. 
+
+All entries will be submitted under the Creative Commons Attribution 4.0 International (CC BY 4.0) License. [More info here]({{site.baseurl}}/licensing).
+
+### Submission Form Coming May 18th
+
+### Timeline:
+
+* **May 18th**: Submissions open. 
+* **May 28th**: Submissions close.
+* **May 30 - June 13**: Each [Reader]({{site.baseurl}}/readers) will be assigned 100 or so entries so that every entry is read by at least two different Readers. Each Reader will submit their top 10 entries, and the **top 50 Finalists** will be selected from the Reader choices.
+* **June 14**: [Finalists]({{site.baseurl}}/winners) announced and posted.
+* **June 15 - 30**: The [Judges]({{site.baseurl}}/judges) will read through all of the Finalists. The Judges will have two meetings during which they will discuss and determine the **top 3 Winners**.
+* **July 1st**: Winners announced, prizes awarded. Organizers sleep until next year.
+
+<hr>
 
 ### Connect with other Creators
 
