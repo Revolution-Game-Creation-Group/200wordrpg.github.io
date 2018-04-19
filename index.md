@@ -28,13 +28,10 @@ Both readers and judges will be evaluating entries based upon the following crit
 
 Entries will be submitted entirely in plaintext (ASCII). There will be no formatting of any kind however all entries will be displayed with a mono-space font (so all spacing or ascii art will be preserved).
 
-No emojii's, no chinese characters, etc. Only [Basic Latin Characters](https://en.wikipedia.org/wiki/List_of_Unicode_characters#Basic_Latin) are allowed. <br>*Unicode x0000 through x00FF for the nerds out there.*
-
-## Publicly Posted
+## Licensing and Ownership
 Each entry will be publicly posted [on this page]({{site.baseurl}}/2018entries). We reserve the right to reject entries that we consider to be inappropriate or offensive. 
 
-## Licensing
-All entries will be submitted under the Creative Commons Attribution 4.0 International (CC BY 4.0) License. That means that anyone can remix, modify, expand, or build upon these entries, and even make money off of them! [More info here]({{site.baseurl}}/licensing).
+All entries will be submitted under the Creative Commons Attribution 4.0 International (CC BY 4.0) License. [More info here]({{site.baseurl}}/licensing).
 
 ### Submission Form Coming May 18th
 
