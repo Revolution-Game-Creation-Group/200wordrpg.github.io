@@ -4,20 +4,25 @@ layout: default
 
 ## 2018 Prizes
 
-### The 3 Winners:
+### 3 Winners:
 
-|Winners will have their entries featured on the [**Unwinnable**](https://unwinnable.com/) website.| And in a special episode of the [**One Shot Podcast**](http://oneshotpodcast.com/)|
-|[<img height="150" src="{{site.url}}/assets/images/prizes/unwinnable.png">](https://unwinnable.com/)|[<img height="150" src="{{site.url}}/assets/images/prizes/oneshotpodcast.png">](http://oneshotpodcast.com/)
+**Winners will have their entries featured on the [Unwinnable](https://unwinnable.com/) website and in a special episode of the [One Shot Podcast](http://oneshotpodcast.com/).**
 
-**PDF Copies of:**
+|[<img class="prize" src="{{site.url}}/assets/images/prizes/unwinnable.png">](https://unwinnable.com/)|[<img class="prize" src="{{site.url}}/assets/images/prizes/oneshotpodcast.png">](http://oneshotpodcast.com/)
 
-|[<img height="150" src="{{site.url}}/assets/images/prizes/arkham1.jpg">](http://www.drivethrurpg.com/product/172263/The-Arkham-Gazette-1)|[<img height="150" src="{{site.url}}/assets/images/prizes/arkham3.jpg">](http://www.drivethrurpg.com/product/157349/The-Arkham-Gazette-3)|
+**Winners will receive PDF copies of these fine products:**
+
+|[<img class="prize" src="{{site.url}}/assets/images/prizes/arkham1.jpg">](http://www.drivethrurpg.com/product/157349/The-Arkham-Gazette-1)|[<img class="prize" src="{{site.url}}/assets/images/prizes/arkham3.jpg">](http://www.drivethrurpg.com/product/157349/The-Arkham-Gazette-3)|[<img class="prize" src="{{site.url}}/assets/images/prizes/cozyden.png">](http://www.drivethrurpg.com/product/234703/A-Cozy-Den)|[<img class="prize" src="{{site.url}}/assets/images/prizes/perseverant.jpg">](http://www.drivethrurpg.com/product/204755/Perseverant-RPG)|
+|[<img class="prize" src="{{site.url}}/assets/images/prizes/romancetrilogy.jpg">](http://www.drivethrurpg.com/product/191871/Romance-Trilogy--BGG010PDF)|[<img class="prize" src="{{site.url}}/assets/images/prizes/hashfeminism.jpg">](http://www.drivethrurpg.com/product/211173/Feminism--A-Nano-Game-Anthology)|[<img class="prize" src="{{site.url}}/assets/images/prizes/canitaurs.jpg">](http://www.dmsguild.com/product/225225/Canitaurs-Race-Sourcebook)|[<img class="prize" src="{{site.url}}/assets/images/prizes/bears.png">](http://www.dmsguild.com/product/220436/Bear-PC-Sourcebook)|
 
 ### The 50 Finalists:
 
-**PDF Copies of:**
+**The finalists will receive PDF copies of:**
 
-|[<img height="150" src="{{site.url}}/assets/images/prizes/malandros.jpeg">](http://www.porcupinegames.com/malandros/)|[<img height="150" src="{{site.url}}/assets/images/prizes/poorstars.jpeg">](https://www.drivethrurpg.com/product/223124/Poor-Amongst-the-Stars)|[<img height="150" src="{{site.url}}/assets/images/prizes/quarrelfable.png">](http://www.drivethrurpg.com/product/231601/Quarrel--Fable)|
+|[<img class="prize" src="{{site.url}}/assets/images/prizes/malandros.jpeg">](http://www.porcupinegames.com/malandros/)|[<img class="prize" src="{{site.url}}/assets/images/prizes/poorstars.jpeg">](https://www.drivethrurpg.com/product/223124/Poor-Amongst-the-Stars)|[<img class="prize" src="{{site.url}}/assets/images/prizes/quarrelfable.png">](http://www.drivethrurpg.com/product/231601/Quarrel--Fable)|[<img class="prize" src="{{site.url}}/assets/images/prizes/huntwicked.jpg">](http://www.drivethrurpg.com/product/171935/Hunt-the-Wicked-RPG)|
+|[<img class="prize" src="{{site.url}}/assets/images/prizes/terrormachine.jpg">](http://www.drivethrurpg.com/product/225730/The-Terror-of-the-Machine)|[<img class="prize" src="{{site.url}}/assets/images/prizes/internalconflict.jpg">](http://www.drivethrurpg.com/product/225727/Internal-Conflict)|[<img class="prize" src="{{site.url}}/assets/images/prizes/beastbroly.jpg">](http://www.drivethrurpg.com/product/225724/The-Beast-of-Broly)|[<img class="prize" src="{{site.url}}/assets/images/prizes/swordlove.jpg">](https://mammutrpg.itch.io/the-sword-and-the-loves)|
+
+<hr>
 
 ## 2017 Prizes
 
@@ -29,11 +34,11 @@ The three winning entries were featured on an episode of [**System Mastery**](ht
 
 ### The 3 Winners received copies of:
 
-[<img height="150" src="{{site.url}}/assets/images/prizes/dungeonographer.png">](http://www.dungeonographer.com/)
+[<img class="prize" src="{{site.url}}/assets/images/prizes/dungeonographer.png">](http://www.dungeonographer.com/)
 
-|[<img height="150" src="{{site.url}}/assets/images/prizes/indieHack.jpg">](https://www.drivethrurpg.com/product/192215/The-Indie-Hack)|[<img height="150" src="{{site.url}}/assets/images/prizes/monsterhearts2.jpg">](https://www.kickstarter.com/projects/averyalder/monsterhearts-2)|[<img height="150" src="{{site.url}}/assets/images/prizes/societydreamers.jpg">](https://societyofdreamers.wordpress.com/)|
+|[<img class="prize" src="{{site.url}}/assets/images/prizes/indieHack.jpg">](https://www.drivethrurpg.com/product/192215/The-Indie-Hack)|[<img class="prize" src="{{site.url}}/assets/images/prizes/monsterhearts2.jpg">](https://www.kickstarter.com/projects/averyalder/monsterhearts-2)|[<img class="prize" src="{{site.url}}/assets/images/prizes/societydreamers.jpg">](https://societyofdreamers.wordpress.com/)|
 
-### All Finalists received a copy of: [<img height="150" src="{{site.url}}/assets/images/prizes/blackHack.jpg">](http://www.drivethrurpg.com/product/178359/The-Black-Hack)
+### All Finalists received a copy of: [<img class="prize" src="{{site.url}}/assets/images/prizes/blackHack.jpg">](http://www.drivethrurpg.com/product/178359/The-Black-Hack)
 
 <hr>
 
@@ -46,9 +51,9 @@ These incredible prizes were offered during the 2016 Challenge.
 
 ### PDFs:
 
-|[<img height="150" src="{{site.url}}/assets/images/prizes/vowhonor.png">](http://www.bendutter.com/sigil-stone-publishing/vow-of-honor-rpg/)|[<img height="150" src="{{site.url}}/assets/images/prizes/goblin.jpg">](https://gshowitt.itch.io/goblin-quest)|[<img height="150" src="{{site.url}}/assets/images/prizes/lostrain.png">](http://www.vivienfeasson.com/perdus-sous-la-pluie/lost-in-the-rain/)|
+|[<img class="prize" src="{{site.url}}/assets/images/prizes/vowhonor.png">](http://www.bendutter.com/sigil-stone-publishing/vow-of-honor-rpg/)|[<img class="prize" src="{{site.url}}/assets/images/prizes/goblin.jpg">](https://gshowitt.itch.io/goblin-quest)|[<img class="prize" src="{{site.url}}/assets/images/prizes/lostrain.png">](http://www.vivienfeasson.com/perdus-sous-la-pluie/lost-in-the-rain/)|
 
-|[<img height="150" src="{{site.url}}/assets/images/prizes/warren.jpg">](http://bullypulpitgames.com/games/the-warren/)|[<img height="150" src="{{site.url}}/assets/images/prizes/agelegend.jpg">](https://www.kickstarter.com/projects/tregenza/age-of-legends-epic-adventures-small-rules-tableto)|[<img height="150" src="{{site.url}}/assets/images/prizes/graysky.png">](http://www.drivethrurpg.com/product/170182/The-sky-is-gray-and-you-are-distressed?src=slider_view)|
+|[<img class="prize" src="{{site.url}}/assets/images/prizes/warren.jpg">](http://bullypulpitgames.com/games/the-warren/)|[<img class="prize" src="{{site.url}}/assets/images/prizes/agelegend.jpg">](https://www.kickstarter.com/projects/tregenza/age-of-legends-epic-adventures-small-rules-tableto)|[<img class="prize" src="{{site.url}}/assets/images/prizes/graysky.png">](http://www.drivethrurpg.com/product/170182/The-sky-is-gray-and-you-are-distressed?src=slider_view)|
 
 <hr>
 ## 2015 Prizes
