@@ -88,7 +88,7 @@
 
             } else {
 
-                regex = /[0-9a-zA-Z\xC0-\xFF]+[-']?[0-9a-zA-Z\xC0-\xFF]*/gi;
+                regex = /[&0-9a-zA-Z\xC0-\xFF]+[-']?[0-9a-zA-Z\xC0-\xFF]*/gi;
                 var words = value.match(regex);
 
                 if (Array.isArray(words) && words.length > 0) {
