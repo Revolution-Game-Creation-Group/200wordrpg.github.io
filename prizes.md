@@ -6,6 +6,8 @@ layout: default
 
 ### 3 Winners:
 
+|[<img class="prize" src="{{site.url}}/assets/images/prizes/jamesiles.png">](https://www.patreon.com/Ufopress/overview)|**Winning entries will receive professional layout by [James Iles](https://www.patreon.com/Ufopress/overview) of UFO Press.|
+
 **Winners will have their entries featured on the [Unwinnable](https://unwinnable.com/) website and in a special episode of the [One Shot Podcast](http://oneshotpodcast.com/).**
 
 |[<img class="prize" src="{{site.url}}/assets/images/prizes/unwinnable.png">](https://unwinnable.com/)|[<img class="prize" src="{{site.url}}/assets/images/prizes/oneshotpodcast.png">](http://oneshotpodcast.com/)
@@ -30,7 +32,7 @@ layout: default
 
 ### Featured:
 
-The three winning entries received free graphic design, artwork, and layout funded by [The Gauntlet](https://www.patreon.com/gauntlet) and their incredible patrons! You can find them in the [Neon issue](http://www.drivethrurpg.com/product/237701/Codex--Neon-Jul-2017).
+|[<img class="prize" src="{{site.url}}/assets/images/prizes/codexneon.png">](http://www.drivethrurpg.com/product/237701/Codex--Neon-Jul-2017)|**The three winning entries received free graphic design, artwork, and layout funded by [The Gauntlet](https://www.patreon.com/gauntlet) and their incredible patrons! You can find them in the [Neon issue](http://www.drivethrurpg.com/product/237701/Codex--Neon-Jul-2017).**|
 
 **The three winning entries were featured on an episode of [System Mastery](https://systemmasterypodcast.com/2017/05/22/200-word-rpg-challenge-system-mastery-95/) and [The Gauntlet Podcast](http://www.gauntlet-rpg.com/the-gauntlet-podcast/episode-104-the-200-word-rpg-challenge).**
 
