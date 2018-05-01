@@ -47,7 +47,7 @@ This year we have some incredible Judges who will help us find the best of the b
 * **[Kelsey Atherton](https://www.popsci.com/popsci-authors/kelsey-d-atherton):** Defense technology journalist who spends his time reading rulebooks for the grimdark wars of the far past and distant future.
 * **[Jim McClure](http://oneshotpodcast.com/author/jimmcclure/):** Business consultant by day and honorable samurai of Rokugan by night.
 * **[Francesco Rugerfred Sedda](http://www.rugerfred.com/):** Ruger is an Italian freelance game designer living who helps new game designers with their projects in order to see a future full of awesome games.
-* **[Awesome Group of Readers]({{site.baseurl}}/readers)** who will narrow down the entries for the Judges.
+* **[Assisted by an awesome group of Readers]({{site.baseurl}}/readers)** who will narrow down the entries for the Judges.
 
 **Both Readers and Judges will be evaluating entries based upon the following criteria**:
 
