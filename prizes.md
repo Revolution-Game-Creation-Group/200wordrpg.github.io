@@ -6,7 +6,7 @@ layout: default
 
 ### 3 Winners:
 
-|[<img class="prize" src="{{site.url}}/assets/images/prizes/jamesiles.png">](https://www.patreon.com/Ufopress/overview)|**Winning entries will receive professional layout by [James Iles](https://www.patreon.com/Ufopress/overview) of UFO Press.|
+|[<img class="prize" src="{{site.url}}/assets/images/prizes/jamesiles.png">](https://www.patreon.com/Ufopress/overview)|**Winning entries will receive professional layout by [James Iles](https://www.patreon.com/Ufopress/overview) of UFO Press.**|
 
 **Winners will have their entries featured on the [Unwinnable](https://unwinnable.com/) website and in a special episode of the [One Shot Podcast](http://oneshotpodcast.com/).**
 
