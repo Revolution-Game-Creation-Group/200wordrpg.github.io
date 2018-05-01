@@ -55,6 +55,10 @@ This year we have some incredible Judges who will help us find the best of the b
 * **New and Overlooked Stories.** The entry should encourage its players to tell a new kind of story, a story that has often been overlooked, or a familiar story from a new perspective.
 * **Engaging.** The game should inspire the reader with ideas and questions. It should make the reader want to play this game as soon as possible.
 
+### Prizes
+
+This year we have a wide array of prizes to offer to the Finalists and Winners including professional layout for the winners, special coverage in various media outlets, and top-quality RPGs and supplements. [Check them out here.]({{site.baseurl}}/prizes)
+
 ### Licensing and Ownership
 Each entry will be publicly posted [on this page]({{site.baseurl}}/2018entries). We reserve the right to reject entries that we consider to be inappropriate or offensive. 
 
