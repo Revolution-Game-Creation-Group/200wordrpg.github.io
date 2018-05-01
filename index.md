@@ -30,25 +30,30 @@ Visual presentation can be a large and scary problem. Very few people are master
 
 Entries will be accepted from the beginning of May 18th (00:01 EST) until the end of May 28th (23:99 EST).
 
-Each participant may submit **one** entry. If you submit multiple entries only your **first** entry will be accepted. So make sure to double and triple check everything before you submit.
+Each participant may submit **one** entry. **Entries cannot be corrected or changed once they are submitted.** If you submit multiple entries only your **first** entry will be accepted. So make sure to double and triple check everything before you submit. 
 
 ### 200 Words or Fewer
 
-Each entry may not exceed 200 words. Judges will use the [Site Wordcounter]({{site.baseurl}}/wordcount). Anything above 200 words will be immediately disqualified. **Entries cannot be corrected or changed once they are submitted.**
+Each entry may not exceed 200 words. Judges will use the [Site Wordcounter]({{site.baseurl}}/wordcount). Anything above 200 words will be immediately disqualified. The title, author name, and so on, will NOT count towards that limit.
 
-The title, author name, and so on, will NOT count towards that limit.
+Entries will be submitted entirely in plaintext (ASCII). There will be no formatting of any kind however all entries will be displayed with a mono-space font (so all spacing or ascii art will be preserved) which can be previewed in the [Wordcounter]({{site.baseurl}}/wordcount).
 
-### Judging Criteria
+### Judging Process
 
-Both readers and judges will be evaluating entries based upon the following criteria:
+This year we have some incredible Judges who will help us find the best of the bunch:
+
+* **Jessica Hammer:** Assistant professor and award-winning game designer.
+* **[Maxwell Neely-Cohen](https://www.maxwellneelycohen.com/):** Author of the "Echo of the Boom" and other works featured in places like The New Republic, Buzzfeed, and The New Inquiry.
+* **[Kelsey Atherton](https://www.popsci.com/popsci-authors/kelsey-d-atherton):** Defense technology journalist who spends his time reading rulebooks for the grimdark wars of the far past and distant future.
+* **[Jim McClure](http://oneshotpodcast.com/author/jimmcclure/):** Business consultant by day and honorable samurai of Rokugan by night.
+* **[Francesco Rugerfred Sedda](http://www.rugerfred.com/):** Ruger is an Italian freelance game designer living who helps new game designers with their projects in order to see a future full of awesome games.
+* Along with a fantastic groupd of [**Readers**]({{site.baseurl}}/readers) who will narrow down the entries for the Judges.
+
+Both Readers and Judges will be **evaluating entries based upon the following criteria**:
 
 * **Actionable.** The entry should contain enough description to play the game.
 * **New and Overlooked Stories.** The entry should encourage its players to tell a new kind of story, a story that has often been overlooked, or a familiar story from a new perspective.
 * **Engaging.** The game should inspire the reader with ideas and questions. It should make the reader want to play this game as soon as possible.
-
-### Plaintext
-
-Entries will be submitted entirely in plaintext (ASCII). There will be no formatting of any kind however all entries will be displayed with a mono-space font (so all spacing or ascii art will be preserved).
 
 ### Licensing and Ownership
 Each entry will be publicly posted [on this page]({{site.baseurl}}/2018entries). We reserve the right to reject entries that we consider to be inappropriate or offensive. 
