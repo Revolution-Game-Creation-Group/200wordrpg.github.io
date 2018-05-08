@@ -30,9 +30,10 @@ Word Rules:
  - Each word may contain one apostrophe or one hyphen. "role-playing should've" is 2 words.
  - Words can be seperated by any character. "I_want-cheese+pizza#for/lunch       Mom!" is 6 words (because want-cheese counts as 1 word).
  - Numbers can contain any number of decimals or apostrophes. "23,765 45.99" is 2 words.
- - Symbol combinations don't count as words. This is to enable simple graphs and formatting. See the flufy bunny below.
+ - Symbol combinations don't count as words. See the flufy bunny below.
  - Here's the regular expression I'm using, for the nerds out there: 
-   "[0-9,\.]+|[&0-9a-zA-Z\xC0-\xFF]+[-']?[0-9a-zA-Z\xC0-\xFF]*"
+   [0-9]+[0-9,\.]*|[&0-9a-zA-Z\xC0-\xFF]+[-']?[0-9a-zA-Z\xC0-\xFF]*
+                
                           .".
                          /  |
                         /  /
@@ -114,7 +115,7 @@ Word Rules:
 
             } else {
 
-                regex = /[0-9,\.]+|[&0-9a-zA-Z\xC0-\xFF]+[-']?[0-9a-zA-Z\xC0-\xFF]*/gi;
+                regex = /[0-9]+[0-9,\.]*|[&0-9a-zA-Z\xC0-\xFF]+[-']?[0-9a-zA-Z\xC0-\xFF]*/gi;
                 var words = value.match(regex);
 
                 if (Array.isArray(words) && words.length > 0) {
