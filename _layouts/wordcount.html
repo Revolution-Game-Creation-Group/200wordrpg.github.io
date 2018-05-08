@@ -31,10 +31,10 @@ DELETE EVERYTHING in this box and paste your entry to check the wordcount.
 Word Rules:
  - Any combination of letters and numbers counts as a word. "Kitten 43 2d6" is 3 words.
  - Each word may contain one apostrophe or one hyphen. "role-playing should've" is 2 words.
- - Words can be seperated by any character. "I_want-cheese+pizza#for/lunch       Mom!" is 6 words (because want-cheese counts as 1 word).
- - Numbers can contain any number of decimals or apostrophes. "23,765 45.99" is 2 words.
+ - Words can be separated by any character. "I_want~cheese+pizza#for/lunch       Mom!" is 7 words.
+ - Numbers may contain any number of decimals or apostrophes. "23,765,987 45.99" is 2 words.
  - Symbol combinations don't count as words. See the flufy bunny below.
- - Here's the regular expression I'm using, for the nerds out there: 
+ - Here's the regular expression I'm using to determine what counts as a word: 
    [0-9]+[0-9,\.]*|[&0-9a-zA-Z\xC0-\xFF]+[-']?[0-9a-zA-Z\xC0-\xFF]*
                 
                           .".
