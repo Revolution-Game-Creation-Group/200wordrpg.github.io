@@ -12,4 +12,4 @@ Entry Requirements:
 * **Entries must contain 200 words or fewer.** Any entry with more than 200 words will be rejected. Type your entry into the wordcounter below to make sure it is valid.
 * **Entries must be written in the English language.** Entries in other languages will be rejected.
 * **No emojii's, no chinese characters, etc.** Only [Basic Latin Characters](https://en.wikipedia.org/wiki/List_of_Unicode_characters#Basic_Latin) are allowed. <br>*Unicode x0000 through x00FF for the nerds out there.*
-* **What counts as a word?** The specific word rules are listed in the box below. Delete what's there to check your own wordcount.
+* **What counts as a word?** The specific word rules are listed in the box below. Delete what's there to check your own wordcount. *Any "ASCII Art" that displays as a word will be counted by the judges, even if it doesn't show up in the counter below.*
