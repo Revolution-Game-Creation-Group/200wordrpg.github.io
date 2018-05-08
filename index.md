@@ -36,7 +36,7 @@ Each participant may submit **one** entry. **Entries cannot be corrected or chan
 
 Each entry may not exceed 200 words. Judges will use the [Site Wordcounter]({{site.baseurl}}/wordcount). Anything above 200 words will be immediately disqualified. The title, author name, and so on, will NOT count towards that limit.
 
-Entries will be submitted entirely in plaintext (ASCII). There will be no formatting of any kind however all entries will be displayed with a mono-space font (so all spacing or ascii art will be preserved) which can be previewed in the [Wordcounter]({{site.baseurl}}/wordcount).
+Entries will be submitted entirely in plaintext. More details about text requirements can be found on the [Wordcounter]({{site.baseurl}}/wordcount).
 
 ### Judging Process
 
