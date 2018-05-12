@@ -34,7 +34,8 @@ layout: default
 
 |[<img class="prize" src="{{site.url}}/assets/images/prizes/codexneon.png">](http://www.drivethrurpg.com/product/237701/Codex--Neon-Jul-2017)|**The three winning entries received free graphic design, artwork, and layout funded by [The Gauntlet](https://www.patreon.com/gauntlet) and their incredible patrons! You can find them in the [Neon issue](http://www.drivethrurpg.com/product/237701/Codex--Neon-Jul-2017).**|
 
-**The three winning entries were featured on an episode of [System Mastery](https://systemmasterypodcast.com/2017/05/22/200-word-rpg-challenge-system-mastery-95/) and [The Gauntlet Podcast](http://www.gauntlet-rpg.com/the-gauntlet-podcast/episode-104-the-200-word-rpg-challenge).**
+|**The three winning entries were featured on an episode of [System Mastery](https://systemmasterypodcast.com/2017/05/22/200-word-rpg-challenge-system-mastery-95/)**|**And were also featured on [The Gauntlet Podcast](http://www.gauntlet-rpg.com/the-gauntlet-podcast/episode-104-the-200-word-rpg-challenge).**|
+|[<img class="prize" src="{{site.url}}/assets/images/prizes/systemmaster.jpg">](https://systemmasterypodcast.com/2017/05/22/200-word-rpg-challenge-system-mastery-95/)|[<img class="prize" src="{{site.url}}/assets/images/prizes/gauntlet.png">](http://www.gauntlet-rpg.com/the-gauntlet-podcast/episode-104-the-200-word-rpg-challenge/)|
 
 ### The 3 Winners received copies of:
 
