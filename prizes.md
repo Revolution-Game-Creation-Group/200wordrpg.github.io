@@ -8,7 +8,7 @@ layout: default
 
 |[<img class="prize" src="{{site.url}}/assets/images/prizes/jamesiles.png">](https://www.patreon.com/Ufopress/overview)|**Winning entries will receive professional layout by [James Iles](https://www.patreon.com/Ufopress/overview) of UFO Press.**|
 
-|**Winners will have their entries featured on the [Unwinnable](https://unwinnable.com/) website| And one winning entry will be featured in a special episode of the [One Shot Podcast](http://oneshotpodcast.com/).**|
+|**Winners will have their entries featured on the [Unwinnable](https://unwinnable.com/) website**|**And one winning entry will be featured in a special episode of the [One Shot Podcast](http://oneshotpodcast.com/).**|
 |[<img class="prize" src="{{site.url}}/assets/images/prizes/unwinnable.png">](https://unwinnable.com/)|[<img class="prize" src="{{site.url}}/assets/images/prizes/oneshotpodcast.png">](http://oneshotpodcast.com/)|
 
 **Winners will receive PDF copies of these fine products:**
