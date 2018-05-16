@@ -21,7 +21,7 @@ layout: default
 
 ## The 50 Finalists will receive:
 
-|**All 27 Issues of Unwinnable Monthly.**|[<img class="prize" src="{{site.url}}/assets/images/prizes/unwinnable.png">](http://shop.unwinnable.com/product/unwinnable-weekly-current-issue)|
+|[<img class="prize" src="{{site.url}}/assets/images/prizes/unwinnable.png">](http://shop.unwinnable.com/product/unwinnable-weekly-current-issue)|**All 27 Issues of Unwinnable Monthly.**
 
 **And PDF copies of the below items:**
 
