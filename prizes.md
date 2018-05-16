@@ -19,9 +19,11 @@ layout: default
 
 |[<img class="prize" src="{{site.url}}/assets/images/prizes/bears.png">](http://www.dmsguild.com/product/220436/Bear-PC-Sourcebook)|[<img class="prize" src="{{site.url}}/assets/images/prizes/darkplaces.jpg">](http://www.drivethrurpg.com/product/55584/100-Dark-Places)|[<img class="prize" src="{{site.url}}/assets/images/prizes/acehearts.jpg">](http://www.drivethrurpg.com/product/91389/Ace-of-Hearts)|[<img class="prize" src="{{site.url}}/assets/images/prizes/agentsswing.jpg">](http://www.drivethrurpg.com/product/91482/Agents-of-SWING)|
 
-## The 50 Finalists:
+## The 50 Finalists will receive:
 
-**The finalists will receive PDF copies of:**
+|**All 27 Issues of Unwinnable Monthly.**|[<img class="prize" src="{{site.url}}/assets/images/prizes/unwinnable.png">](http://shop.unwinnable.com/product/unwinnable-weekly-current-issue)|
+
+**And PDF copies of the below items:**
 
 |[<img class="prize" src="{{site.url}}/assets/images/prizes/malandros.jpeg">](http://www.porcupinegames.com/malandros/)|[<img class="prize" src="{{site.url}}/assets/images/prizes/poorstars.jpeg">](https://www.drivethrurpg.com/product/223124/Poor-Amongst-the-Stars)|[<img class="prize" src="{{site.url}}/assets/images/prizes/quarrelfable.png">](http://www.drivethrurpg.com/product/231601/Quarrel--Fable)|[<img class="prize" src="{{site.url}}/assets/images/prizes/huntwicked.jpg">](http://www.drivethrurpg.com/product/171935/Hunt-the-Wicked-RPG)|
 |[<img class="prize" src="{{site.url}}/assets/images/prizes/terrormachine.jpg">](http://www.drivethrurpg.com/product/225730/The-Terror-of-the-Machine)|[<img class="prize" src="{{site.url}}/assets/images/prizes/internalconflict.jpg">](http://www.drivethrurpg.com/product/225727/Internal-Conflict)|[<img class="prize" src="{{site.url}}/assets/images/prizes/beastbroly.jpg">](http://www.drivethrurpg.com/product/225724/The-Beast-of-Broly)|[<img class="prize" src="{{site.url}}/assets/images/prizes/swordlove.jpg">](https://mammutrpg.itch.io/the-sword-and-the-loves)|
