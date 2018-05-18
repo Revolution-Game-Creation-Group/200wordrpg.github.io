@@ -1,7 +1,7 @@
 ---
 layout: wordcount
 ---
-### **This is NOT the submission page.** 
+### **This is NOT the [submission page]({{site.baseurl}}/2018submission).** 
 
 This page won't save anything, so make sure to back it up somewhere else.
 
