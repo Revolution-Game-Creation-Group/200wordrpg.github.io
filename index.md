@@ -6,7 +6,8 @@ layout: default
 
 The 200 Word RPG Challenge is a small tabletop game design competition.
 
-**Submissions are open from now until May 28th! Scroll down for more details.**
+**Submissions are open from now until May 28th! Scroll down for more details.** You can view the entries submitted so far [on this page.]({{site.baseurl}}/2018entries)
+
 
 ### Why? What is this?
 
