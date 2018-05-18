@@ -32,6 +32,8 @@ Visual presentation can be a large and scary problem. Very few people are master
 
 Each participant may submit **one** entry. **Entries cannot be corrected or changed once they are submitted.** If you submit multiple entries only your **first** entry will be accepted. So make sure to double and triple check everything before you submit. 
 
+You can view the entries submitted so far [on this page.]({{site.baseurl}}/2018entries)
+
 ### 200 Words or Fewer
 
 Each entry may not exceed 200 words. Judges will use the [Site Wordcounter]({{site.baseurl}}/wordcount). Anything above 200 words will be immediately disqualified. The title, author name, and so on, will NOT count towards that limit.
