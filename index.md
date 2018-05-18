@@ -26,9 +26,9 @@ Visual presentation can be a large and scary problem. Very few people are master
 
 <hr>
 
-# The Challenge Begins May 18th
+# Submissions are open until May 28th
 
-Entries will be accepted from the beginning of May 18th (00:01 EST) until the end of May 28th (23:99 EST).
+Entries will be accepted until the end of May 28th (23:99 EST).
 
 Each participant may submit **one** entry. **Entries cannot be corrected or changed once they are submitted.** If you submit multiple entries only your **first** entry will be accepted. So make sure to double and triple check everything before you submit. 
 
@@ -64,7 +64,7 @@ Each entry will be publicly posted [on this page]({{site.baseurl}}/2018entries).
 
 All entries will be submitted under the Creative Commons Attribution 4.0 International (CC BY 4.0) License. [More info here]({{site.baseurl}}/licensing).
 
-### Submission Form Coming May 18th
+### [Submission Form]({{site.baseurl}}/2018submission)
 
 ### Timeline:
 
