@@ -28,7 +28,7 @@ Visual presentation can be a large and scary problem. Very few people are master
 
 <hr>
 
-# Submissions are open until the end of May 28th (23:99 EST).
+# Entries will be accepted until the end of May 28th (23:99 EST).
 
 Each participant may submit **one** entry. **Entries cannot be corrected or changed once they are submitted.** If you submit multiple entries only your **first** entry will be accepted. So make sure to double and triple check everything before you submit. 
 
@@ -36,7 +36,7 @@ Each participant may submit **one** entry. **Entries cannot be corrected or chan
 
 Each entry may not exceed 200 words. Judges will use the [Site Wordcounter]({{site.baseurl}}/wordcount). Anything above 200 words will be immediately disqualified. The title, author name, and so on, will NOT count towards that limit.
 
-Entries will be submitted entirely in plaintext. More details about text requirements can be found on the [Wordcounter]({{site.baseurl}}/wordcount).
+Entries will be submitted entirely in plaintext. More details about text requirements can be found on the [Wordcounter page]({{site.baseurl}}/wordcount).
 
 ### Judging Process
 
