@@ -64,7 +64,7 @@ Each entry will be publicly posted [on this page]({{site.baseurl}}/2018entries).
 
 All entries will be submitted under the Creative Commons Attribution 4.0 International (CC BY 4.0) License. [More info here]({{site.baseurl}}/licensing).
 
-### [Submission Form]({{site.baseurl}}/2018submission)
+### [Submission Form Here]({{site.baseurl}}/2018submission)
 
 ### Timeline:
 
