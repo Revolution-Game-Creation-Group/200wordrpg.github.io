@@ -6,7 +6,7 @@ layout: default
 
 Be sure to double and triple check the [Wordcount]({{site.baseurl}}/wordcount) before you submit your entry.
 
-### If the submission form looks weird, [here's the direct link](https://docs.google.com/forms/d/e/1FAIpQLSfmt-Ivu6xfqgwlqvi_ooL28mRvMfOmj-52vbpknEjTHcgozg/viewform?usp=sf_link).
+### If the submission form looks weird, [here's the direct link](https://docs.google.com/forms/d/e/1FAIpQLSfDsClM3xWEYIDPsQ3h8dEFprAHo-hU7jQLFXc-P8JbUXQ3oQ/viewform?usp=sf_link).
 
 <hr>
 
