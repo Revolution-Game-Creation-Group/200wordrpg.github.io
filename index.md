@@ -28,7 +28,7 @@ Visual presentation can be a large and scary problem. Very few people are master
 
 <hr>
 
-# Entries will be accepted until the end of May 28th (23:99 EST).
+# Entries will be accepted until the end of May 28th (23:99 EST)
 
 Each participant may submit **one** entry. **Entries cannot be corrected or changed once they are submitted.** If you submit multiple entries only your **first** entry will be accepted. So make sure to double and triple check everything before you submit. 
 
