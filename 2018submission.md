@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 2017 Submission Form
+# 2018 Submission Form
 
 Be sure to double and triple check the [Wordcount]({{site.baseurl}}/wordcount) before you submit your entry.
 
