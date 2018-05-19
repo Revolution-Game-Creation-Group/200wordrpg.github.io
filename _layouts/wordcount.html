@@ -46,7 +46,7 @@ WORD RULES:
   (Symbol combinations don't count as words.)
 
   Here's the regular expression we are using to determine what counts as a word: 
-  [0-9]+[0-9,\.]|[&0-9a-zA-Z\xC0-\xFF]+[']?[0-9a-zA-Z\xC0\xFF]
+  [0-9]+[0-9,\.]*|[&0-9a-zA-Z\xC0-\xFF]+[-']?[0-9a-zA-Z\xC0-\xFF]*
 
                 
      / \
