@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## PDF Collections
-These PDFs include ALL of the entries from that year's challenge. Enjoy! *click the icons to download.*
+These PDFs include ALL of the entries from that year's challenge. Enjoy! *Click the icons to download.*
 <table>
 <tr>
 <td id="centeredText"><a href="https://200wordrpg.github.io/assets/2015_AllEntries.pdf"><h2>2015 PDF</h2></a></td>
