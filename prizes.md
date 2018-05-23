@@ -13,11 +13,9 @@ layout: default
 
 **Winners will receive PDF copies of these fine products:**
 
-|[<img class="prize" src="{{site.url}}/assets/images/prizes/arkham1.jpg">](http://www.drivethrurpg.com/product/157349/The-Arkham-Gazette-1)|[<img class="prize" src="{{site.url}}/assets/images/prizes/arkham2.jpg">](http://www.drivethrurpg.com/product/172264/The-Arkham-Gazette-2)|[<img class="prize" src="{{site.url}}/assets/images/prizes/arkham3.jpg">](http://www.drivethrurpg.com/product/157349/The-Arkham-Gazette-3)|
+|[<img class="prize" src="{{site.url}}/assets/images/prizes/arkham1.jpg">](http://www.drivethrurpg.com/product/157349/The-Arkham-Gazette-1)|[<img class="prize" src="{{site.url}}/assets/images/prizes/arkham2.jpg">](http://www.drivethrurpg.com/product/172264/The-Arkham-Gazette-2)|[<img class="prize" src="{{site.url}}/assets/images/prizes/arkham3.jpg">](http://www.drivethrurpg.com/product/157349/The-Arkham-Gazette-3)|[<img class="prize" src="{{site.url}}/assets/images/prizes/bears.png">](http://www.dmsguild.com/product/220436/Bear-PC-Sourcebook)|
 
 [<img class="prize" src="{{site.url}}/assets/images/prizes/cozyden.png">](http://www.drivethrurpg.com/product/234703/A-Cozy-Den)|[<img class="prize" src="{{site.url}}/assets/images/prizes/perseverant.jpg">](http://www.drivethrurpg.com/product/204755/Perseverant-RPG)|[<img class="prize" src="{{site.url}}/assets/images/prizes/romancetrilogy.jpg">](http://www.drivethrurpg.com/product/191871/Romance-Trilogy--BGG010PDF)|[<img class="prize" src="{{site.url}}/assets/images/prizes/hashfeminism.jpg">](http://www.drivethrurpg.com/product/211173/Feminism--A-Nano-Game-Anthology)
-
-|[<img class="prize" src="{{site.url}}/assets/images/prizes/bears.png">](http://www.dmsguild.com/product/220436/Bear-PC-Sourcebook)|[<img class="prize" src="{{site.url}}/assets/images/prizes/darkplaces.jpg">](http://www.drivethrurpg.com/product/55584/100-Dark-Places)|[<img class="prize" src="{{site.url}}/assets/images/prizes/acehearts.jpg">](http://www.drivethrurpg.com/product/91389/Ace-of-Hearts)|[<img class="prize" src="{{site.url}}/assets/images/prizes/agentsswing.jpg">](http://www.drivethrurpg.com/product/91482/Agents-of-SWING)|
 
 ## The 50 Finalists will receive:
 
