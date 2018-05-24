@@ -43,6 +43,7 @@ Entries will be submitted entirely in plaintext. More details about text require
 
 This year we have some incredible Judges who will help us find the best of the bunch:
 
+* **[Bronwyn Friesen](https://www.facebook.com/TildeSee):** an excited and passionate social work student from Hamilton, Ontario, who loves designing small games.
 * **Jessica Hammer:** Assistant professor and award-winning game designer.
 * **[Maxwell Neely-Cohen](https://www.maxwellneelycohen.com/):** Author of the "Echo of the Boom" and other works featured in places like The New Republic, Buzzfeed, and The New Inquiry.
 * **[Kelsey Atherton](https://www.popsci.com/popsci-authors/kelsey-d-atherton):** Defense technology journalist who spends his time reading rulebooks for the grimdark wars of the far past and distant future.
