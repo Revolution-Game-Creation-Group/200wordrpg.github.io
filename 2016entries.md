@@ -8,7 +8,7 @@ The 2016 challenge featured two categories: **Supplements** and **RPGs**. There 
 
 ## 2016 RPGs
 
-{% assign sorted_pages = site.categories.2016 | site.categories.rpg %}
+{% assign sorted_pages = site.categories.[2016.rpg] %}
 <table>{% for post in sorted_pages %}
   {% assign loopindex = forloop.index | modulo: 3 %}
   {% if loopindex == 1 %}
@@ -24,7 +24,7 @@ The 2016 challenge featured two categories: **Supplements** and **RPGs**. There 
  
  ## 2016 Supplements
 
-{% assign sorted_pages = site.categories.2016 | site.categories.supplement %}
+{% assign sorted_pages = site.categories.[2016.supplement] %}
 <table>{% for post in sorted_pages %}
   {% assign loopindex = forloop.index | modulo: 3 %}
   {% if loopindex == 1 %}
