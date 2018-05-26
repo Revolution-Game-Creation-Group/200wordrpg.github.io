@@ -66,6 +66,13 @@ border-left: 1px solid black;
 border-right: 1px solid black;
 }
 
+.col-container {
+    display: table;
+    width: 100%;
+}
+.col {
+    display: table-cell;
+}
 
 img {
 display: block;
