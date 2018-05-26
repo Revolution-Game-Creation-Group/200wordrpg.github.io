@@ -8,7 +8,7 @@ The 2015 Challenge was the first year! We allowed pictures and fancy layouts, so
 <table>
 {% assign sorted_pages = site.categories.2015 | sort:"title" %}
   {% for post in sorted_pages %}
-  {% assign loopindex = forloop.index | modulo: 4 %}
+  {% assign loopindex = forloop.index | modulo: 3 %}
   {% if loopindex == 1 %}
     <tr><td id="centeredText">
       <strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
@@ -16,11 +16,11 @@ The 2015 Challenge was the first year! We allowed pictures and fancy layouts, so
   {% elsif loopindex == 0 %}
     <td id="centeredText">
       <strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
-    </td>
+    </td></tr>
   {% else %}
     <td id="centeredText">
       <strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
-    </td></tr>
+    </td>
   {% endif %}
  {% endfor %}
 </table>
