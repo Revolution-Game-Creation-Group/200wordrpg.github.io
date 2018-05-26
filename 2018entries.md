@@ -11,8 +11,8 @@ Here are the entries submitted so far in 2018!
 <p>
 {% assign sorted_pages = (site.categories.2018 | sort:"date") | reverse %}
   {% for post in sorted_pages %}
-      <strong>&emsp;•&emsp;<a href="{{ post.url }}">
+      <strong><a href="{{ post.url }}">
         {{ post.title }}
-      </a></strong>
+      </a>&emsp;•&emsp;</strong>
   {% endfor %}
 </p>
