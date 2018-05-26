@@ -5,24 +5,22 @@ layout: default
 
 The 2015 Challenge was the first year! We allowed pictures and fancy layouts, so all of these entries are images, not text, which makes them stand out from future entries.
 
-<table><tr>
-
+<table>
 {% assign sorted_pages = site.categories.2015 | sort:"title" %}
   {% for post in sorted_pages %}
   {% assign loopindex = forloop.index | modulo: 4 %}
   {% if loopindex == 1 %}
-    <td id="centeredText">
+    <tr><td id="centeredText">
       <strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
     </td>
-  {% elsif loopindex == 4 %}
+  {% elsif loopindex == 0 %}
     <td id="centeredText">
       <strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
     </td>
   {% else %}
     <td id="centeredText">
       <strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
-    </td>
+    </td></tr>
   {% endif %}
  {% endfor %}
-
-</tr></table>
+</table>
