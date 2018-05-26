@@ -13,3 +13,23 @@ The 2015 Challenge was the first year! We allowed pictures and fancy layouts, so
       </a>&emsp;•&emsp;</strong>
   {% endfor %}
 </p>
+
+<table>
+{% assign sorted_pages = site.categories.2015 | sort:"title" %}
+  {% for post in sorted_pages %}
+  {% assign loopindex = forloop.index | modulo: 4 %}
+  {% if loopindex == 1 %}
+    <tr><td id="centeredText">
+      <strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
+      </td>
+  {% elsif loopindex == 4 %}
+    <td id="centeredText">
+      <strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
+      </td></tr>
+    {% else %}
+    <td id="centeredText">
+      <strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
+      </td>
+     {% endif %}
+ {% endfor %}
+</table>
