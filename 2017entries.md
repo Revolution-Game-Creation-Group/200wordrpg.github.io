@@ -9,8 +9,8 @@ The 2017 challenge was the largest yet, featuring nearly 700 entries! They are a
 <p>
 {% assign sorted_pages = site.categories.2017 | sort:"title" %}
   {% for post in sorted_pages %}
-      <strong>&emsp;•&emsp;<a href="{{ post.url }}">
+      <strong><a href="{{ post.url }}">
         {{ post.title }}
-      </a></strong>
+      </a>&emsp;•&emsp;</strong>
   {% endfor %}
 </p>
