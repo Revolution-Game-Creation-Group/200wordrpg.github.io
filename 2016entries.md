@@ -6,11 +6,10 @@ layout: default
 
 The 2016 challenge featured two categories: **Supplements** and **RPGs**. There were some incredible submissions in both categories, all of which are listed below.
 
-## 2016 Supplements
+## 2016 RPGs
 
-{% assign sorted_pages = site.categories.2016 | sort: "title" %}
+{% assign sorted_pages = site.categories.2016.rpg | sort: "title" %}
 <table>{% for post in sorted_pages %}
-      {% if post.categories contains 'supplement' %}
       {% assign loopindex = forloop.index | modulo: 3 %}
   {% if loopindex == 1 %}
     <tr><td id="entries"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></td>
@@ -19,16 +18,14 @@ The 2016 challenge featured two categories: **Supplements** and **RPGs**. There 
   {% else %}
     <td id="entries"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></td>
   {% endif %}
-    {% endif %}
   {% endfor %}</table>
 
 <hr>
 
-## 2016 RPGs
+## 2016 Supplements
 
-{% assign sorted_pages = site.categories.2016 | sort: "title" %}
+{% assign sorted_pages = site.categories.2016.supplements | sort: "title" %}
 <table>{% for post in sorted_pages %}
-      {% if post.categories contains 'rpg' %}
       {% assign loopindex = forloop.index | modulo: 3 %}
   {% if loopindex == 1 %}
     <tr><td id="entries"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></td>
@@ -37,5 +34,4 @@ The 2016 challenge featured two categories: **Supplements** and **RPGs**. There 
   {% else %}
     <td id="entries"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></td>
   {% endif %}
-    {% endif %}
   {% endfor %}</table>
