@@ -23,4 +23,4 @@ The 2015 Challenge was the first year! We allowed pictures and fancy layouts, so
     </td>
   {% endif %}
  {% endfor %}
-</table>
+</tr></table>
