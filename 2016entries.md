@@ -8,28 +8,34 @@ The 2016 challenge featured two categories: **Supplements** and **RPGs**. There 
 
 ## 2016 Supplements
 
-<p>
 {% assign sorted_pages = site.categories.2016 | sort: "title" %}
-  {% for post in sorted_pages %}
+<table>{% for post in sorted_pages %}
       {% if post.categories contains 'supplement' %}
-      <strong><a href="{{ post.url }}">
-        {{ post.title }}
-      </a>&emsp;•&emsp;</strong>
-        {% endif %}
-  {% endfor %}
-</p>
+      {% assign loopindex = forloop.index | modulo: 3 %}
+  {% if loopindex == 1 %}
+    <tr><td id="entries"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></td>
+  {% elsif loopindex == 0 %}
+    <td id="entries"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></td></tr>
+  {% else %}
+    <td id="entries"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></td>
+  {% endif %}
+    {% endif %}
+  {% endfor %}</table>
 
 <hr>
 
 ## 2016 RPGs
 
-<p>
 {% assign sorted_pages = site.categories.2016 | sort: "title" %}
-  {% for post in sorted_pages %}
+<table>{% for post in sorted_pages %}
       {% if post.categories contains 'rpg' %}
-      <strong><a href="{{ post.url }}">
-        {{ post.title }}
-      </a>&emsp;•&emsp;</strong>
-        {% endif %}
-  {% endfor %}
-</p>
+      {% assign loopindex = forloop.index | modulo: 3 %}
+  {% if loopindex == 1 %}
+    <tr><td id="entries"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></td>
+  {% elsif loopindex == 0 %}
+    <td id="entries"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></td></tr>
+  {% else %}
+    <td id="entries"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></td>
+  {% endif %}
+    {% endif %}
+  {% endfor %}</table>
