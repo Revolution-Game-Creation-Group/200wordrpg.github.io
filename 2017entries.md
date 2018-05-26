@@ -14,6 +14,6 @@ The 2017 challenge was the largest yet, featuring nearly 700 entries! They are a
   {% elsif loopindex == 0 %}
     <td id="entries"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></td></tr>
   {% else %}
-    <td id="entriesBorder"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></td>
+    <td id="entries"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></td>
   {% endif %}
  {% endfor %}</table>
