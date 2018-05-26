@@ -18,4 +18,4 @@ Here are the entries submitted so far in 2018!
   {% else %}
     <td id="entries"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></td>
   {% endif %}
- {% endfor %}</table>
+ {% endfor %}</tr></table>
