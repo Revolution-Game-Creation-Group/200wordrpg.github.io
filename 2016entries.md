@@ -12,9 +12,9 @@ The 2016 challenge featured two categories: **Supplements** and **RPGs**. There 
 {% assign sorted_pages = site.categories.2016 | sort: "title" %}
   {% for post in sorted_pages %}
       {% if post.categories contains 'supplement' %}
-      <strong>&emsp;•&emsp;<a href="{{ post.url }}">
+      <strong><a href="{{ post.url }}">
         {{ post.title }}
-      </a></strong>
+      </a>&emsp;•&emsp;</strong>
         {% endif %}
   {% endfor %}
 </p>
@@ -27,9 +27,9 @@ The 2016 challenge featured two categories: **Supplements** and **RPGs**. There 
 {% assign sorted_pages = site.categories.2016 | sort: "title" %}
   {% for post in sorted_pages %}
       {% if post.categories contains 'rpg' %}
-      <strong>&emsp;•&emsp;<a href="{{ post.url }}">
+      <strong><a href="{{ post.url }}">
         {{ post.title }}
-      </a></strong>
+      </a>&emsp;•&emsp;</strong>
         {% endif %}
   {% endfor %}
 </p>
