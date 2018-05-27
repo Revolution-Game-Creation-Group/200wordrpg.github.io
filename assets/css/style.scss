@@ -54,6 +54,21 @@ font-weight: bold;
 text-align: center;
 }
 
+#entries {
+text-align: center;
+width:33%;
+border-bottom: 1px solid lightgrey;
+}
+
+@media screen and (max-width: 800px) {
+	#entries {
+	text-align: center;
+	width:100%;
+	display:block;
+	border-bottom: 1px solid lightgrey;
+	}
+}
+	
 img {
 display: block;
     margin-left: auto;
