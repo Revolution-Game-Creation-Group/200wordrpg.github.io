@@ -16,6 +16,7 @@ Chosen by the [Judges]({{site.baseurl}}/judges), these entries were particularly
 <hr>
 
 # 2017 Finalists
+
 Out of nearly 700 entries, these were chosen by a [panel of judges]({{site.baseurl}}/judges) to be among the best of 2017:
 
 {% assign sorted_pages = site.categories.2017 | where_exp: "post", "post.categories contains 'finalist'" | sort:"title" %}
@@ -28,11 +29,12 @@ Out of nearly 700 entries, these were chosen by a [panel of judges]({{site.baseu
   {% else %}
     <td id="entries"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></td>
   {% endif %}
- {% endfor %}</table>
+ {% endfor %}</tr></table>
 
 <hr>
 
 # 2016 Finalists
+
 Out of over 300 entries, these were chosen by a [panel of judges]({{site.baseurl}}/judges) to be among the best of 2016:
 
 {% assign sorted_pages = site.categories.2016 | where_exp: "post", "post.categories contains 'finalist'" | sort:"title" %}
@@ -45,11 +47,12 @@ Out of over 300 entries, these were chosen by a [panel of judges]({{site.baseurl
   {% else %}
     <td id="entries"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></td>
   {% endif %}
- {% endfor %}</table>
+ {% endfor %}</tr></table>
 
 <hr>
 
 # 2015 Finalists
+
 Out of nearly 250 entries, these were chosen by a [panel of judges]({{site.baseurl}}/judges) to be among the best of 2015:
 
 {% assign sorted_pages = site.categories.2015 | where_exp: "post", "post.categories contains 'finalist'" | sort:"title" %}
