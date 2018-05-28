@@ -30,4 +30,4 @@ The 2016 challenge featured two categories: **Supplements** and **RPGs**. There 
   {% else %}
     <td id="entries"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></td>
   {% endif %}
- {% endfor %}</table>
+ {% endfor %}</tr></table>
