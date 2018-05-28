@@ -18,45 +18,48 @@ Chosen by the [Judges]({{site.baseurl}}/judges), these entries were particularly
 # 2017 Finalists
 Out of nearly 700 entries, these were chosen by a [panel of judges]({{site.baseurl}}/judges) to be among the best of 2017:
 
-<p>
-{% assign sorted_pages = site.categories.finalist | sort:"title"%}
-  {% for post in sorted_pages %}
-    {% if post.categories contains '2017' %}
-      <strong>&emsp;•&emsp;<a href="{{ post.url }}">
-        {{ post.title }}
-      </a></strong>
-        {% endif %}
-  {% endfor %}
-</p>
+{% assign sorted_pages = site.categories.2017 | where_exp: "post", "post.categories contains 'finalist'" | sort:"title" %}
+<table>{% for post in sorted_pages %}
+  {% assign loopindex = forloop.index | modulo: 3 %}
+  {% if loopindex == 1 %}
+    <tr><td id="entries"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></td>
+  {% elsif loopindex == 0 %}
+    <td id="entries"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></td></tr>
+  {% else %}
+    <td id="entries"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></td>
+  {% endif %}
+ {% endfor %}</table>
 
 <hr>
 
 # 2016 Finalists
 Out of over 300 entries, these were chosen by a [panel of judges]({{site.baseurl}}/judges) to be among the best of 2016:
 
-<p>
-{% assign sorted_pages = site.categories.finalist | sort:"title" %}
-  {% for post in sorted_pages %}
-    {% if post.categories contains '2016' %}
-      <strong>&emsp;•&emsp;<a href="{{ post.url }}">
-        {{ post.title }}
-      </a></strong>
-        {% endif %}
-  {% endfor %}
-</p>
+{% assign sorted_pages = site.categories.2016 | where_exp: "post", "post.categories contains 'finalist'" | sort:"title" %}
+<table>{% for post in sorted_pages %}
+  {% assign loopindex = forloop.index | modulo: 3 %}
+  {% if loopindex == 1 %}
+    <tr><td id="entries"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></td>
+  {% elsif loopindex == 0 %}
+    <td id="entries"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></td></tr>
+  {% else %}
+    <td id="entries"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></td>
+  {% endif %}
+ {% endfor %}</table>
 
 <hr>
 
 # 2015 Finalists
 Out of nearly 250 entries, these were chosen by a [panel of judges]({{site.baseurl}}/judges) to be among the best of 2015:
 
-<p>
-{% assign sorted_pages = site.categories.finalist | sort:"title"%}
-  {% for post in sorted_pages %}
-    {% if post.categories contains '2015' %}
-      <strong>&emsp;•&emsp;<a href="{{ post.url }}">
-        {{ post.title }}
-      </a></strong>
-        {% endif %}
-  {% endfor %}
-</p>
+{% assign sorted_pages = site.categories.2015 | where_exp: "post", "post.categories contains 'finalist'" | sort:"title" %}
+<table>{% for post in sorted_pages %}
+  {% assign loopindex = forloop.index | modulo: 3 %}
+  {% if loopindex == 1 %}
+    <tr><td id="entries"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></td>
+  {% elsif loopindex == 0 %}
+    <td id="entries"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></td></tr>
+  {% else %}
+    <td id="entries"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></td>
+  {% endif %}
+ {% endfor %}</table>
