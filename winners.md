@@ -13,8 +13,6 @@ Chosen by the [Judges]({{site.baseurl}}/judges), these entries were particularly
 
 ### **2015**:&emsp;[All Fall Down]({{site.baseurl}}{% post_url /2015/2015-04-01-AllFallDown %})&emsp;•&emsp;[Escape Pod One]({{site.baseurl}}{% post_url /2015/2015-04-01-EscapePodOne %})&emsp;•&emsp;[LOVEINT]({{site.baseurl}}{% post_url /2015/2015-04-01-LOVEINT %})
 
-<hr>
-
 # 2017 Finalists
 
 Out of nearly 700 entries, these were chosen by a [panel of judges]({{site.baseurl}}/judges) to be among the best of 2017:
@@ -31,8 +29,6 @@ Out of nearly 700 entries, these were chosen by a [panel of judges]({{site.baseu
   {% endif %}
  {% endfor %}</tr></table>
 
-<hr>
-
 # 2016 Finalists
 
 Out of over 300 entries, these were chosen by a [panel of judges]({{site.baseurl}}/judges) to be among the best of 2016:
@@ -48,8 +44,6 @@ Out of over 300 entries, these were chosen by a [panel of judges]({{site.baseurl
     <td id="entries"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></td>
   {% endif %}
  {% endfor %}</tr></table>
-
-<hr>
 
 # 2015 Finalists
 
