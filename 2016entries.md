@@ -6,7 +6,7 @@ layout: default
 
 The 2016 challenge featured two categories: **Supplements** and **RPGs**. There were some incredible submissions in both categories, all of which are listed below.
 
-{% assign sorted_pages = site.categories.2016 | sort:"title" %}
+{% assign sorted_pages = site.categories.2016 | where_exp: "post", "post.categories contains 'supplement'" | sort:"title" %}
 <table>{% for post in sorted_pages %}
   {% assign loopindex = forloop.index | modulo: 3 %}
   {% if loopindex == 1 %}
