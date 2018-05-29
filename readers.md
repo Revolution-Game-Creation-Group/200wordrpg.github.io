@@ -40,7 +40,7 @@ These hardworking folks will invest a ton of time and effort into selecting the 
 </tr><tr>
 <td id="entries"><h3><strong>James Woodman</strong></h3></td>
 <td id="entries"><h3><strong>Jason Tocci</strong></h3></td>
-<td id="entries"><h3><strong>Jennifer (Jenna) Carpenter</strong></h3></td>
+<td id="entries"><h3><strong>Jenna Carpenter</strong></h3></td>
 </tr><tr>
 <td id="entries"><h3><strong><a href="https://www.reddicediaries.com/">John Large</a></strong></h3></td>
 <td id="entries"><h3><strong>Jonas Tintenseher</strong></h3></td>
