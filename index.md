@@ -6,7 +6,14 @@ layout: default
 
 The 200 Word RPG Challenge is a small tabletop game design competition.
 
-**Submissions are closed for 2018! Scroll down for a Timeline.** 
+### 2018 Timeline:
+
+* **May 18th**: Submissions open. 
+* **May 28th**: Submissions close.
+* **May 30 - June 13**: Each [Reader]({{site.baseurl}}/readers) will be assigned 80 or so entries so that every entry is read by at least two different Readers. Each Reader will submit their top 5 choices, and the **50 Finalists** will be selected from the Reader choices.
+* **June 14**: [Finalists]({{site.baseurl}}/winners) announced and posted.
+* **June 15 - 30**: The [Judges]({{site.baseurl}}/judges) will read through all of the Finalists. The Judges will have two meetings during which they will discuss and determine the **top 3 Winners**.
+* **July 1st**: Winners announced, prizes awarded. Organizers sleep until next year.
 
 ### Why? What is this?
 
@@ -58,17 +65,6 @@ This year we have a wide array of prizes to offer to the Finalists and Winners i
 Each entry will be publicly posted [on this page]({{site.baseurl}}/2018entries). We reserve the right to reject entries that we consider to be inappropriate or offensive. 
 
 All entries will be submitted under the Creative Commons Attribution 4.0 International (CC BY 4.0) License. [More info here]({{site.baseurl}}/licensing).
-
-### Timeline:
-
-* **May 18th**: Submissions open. 
-* **May 28th**: Submissions close.
-* **May 30 - June 13**: Each [Reader]({{site.baseurl}}/readers) will be assigned 100 or so entries so that every entry is read by at least two different Readers. Each Reader will submit their top 10 entries, and the **top 50 Finalists** will be selected from the Reader choices.
-* **June 14**: [Finalists]({{site.baseurl}}/winners) announced and posted.
-* **June 15 - 30**: The [Judges]({{site.baseurl}}/judges) will read through all of the Finalists. The Judges will have two meetings during which they will discuss and determine the **top 3 Winners**.
-* **July 1st**: Winners announced, prizes awarded. Organizers sleep until next year.
-
-<hr>
 
 ### Connect with other Creators
 
