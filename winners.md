@@ -27,7 +27,12 @@ Out of nearly 700 entries, these were chosen by a [panel of judges]({{site.baseu
   {% else %}
     <td id="entries"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></td>
   {% endif %}
- {% endfor %}</tr></table>
+ {% endfor %}  
+ {% if loopindex == 0 %}
+    </table>
+  {% else %}
+    </tr></table>
+  {% endif %}
 
 # 2016 Finalists
 
@@ -43,7 +48,12 @@ Out of over 300 entries, these were chosen by a [panel of judges]({{site.baseurl
   {% else %}
     <td id="entries"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></td>
   {% endif %}
- {% endfor %}</tr></table>
+ {% endfor %}
+   {% if loopindex == 0 %}
+    </table>
+  {% else %}
+    </tr></table>
+  {% endif %}
 
 # 2015 Finalists
 
@@ -59,4 +69,9 @@ Out of nearly 250 entries, these were chosen by a [panel of judges]({{site.baseu
   {% else %}
     <td id="entries"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></td>
   {% endif %}
- {% endfor %}</table>
+ {% endfor %}
+   {% if loopindex == 0 %}
+    </table>
+  {% else %}
+    </tr></table>
+  {% endif %}
