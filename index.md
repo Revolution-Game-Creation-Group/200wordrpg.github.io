@@ -6,8 +6,7 @@ layout: default
 
 The 200 Word RPG Challenge is a small tabletop game design competition.
 
-**Submissions are open from now until May 28th! Scroll down for more details.** You can view the entries submitted so far [on this page.]({{site.baseurl}}/2018entries)
-
+**Submissions are closed for 2018! Scroll down for a Timeline.** 
 
 ### Why? What is this?
 
@@ -27,19 +26,13 @@ Conceiving, designing, and publishing a 200 word game is a great first step towa
 
 Visual presentation can be a large and scary problem. Very few people are masters of writing, editing, art direction, graphic design, layout, and marketing. It usually takes a village to make a game. We want participants to focus solely on the challenge of creative writing and brutal editing.
 
-<hr>
-
-# Entries will be accepted until the end of May 28th (23:99 EST)
-
-Each participant may submit **one** entry. **Entries cannot be corrected or changed once they are submitted.** If you submit multiple entries only your **first** entry will be accepted. So make sure to double and triple check everything before you submit. 
-
 ### 200 Words or Fewer
 
 Each entry may not exceed 200 words. Judges will use the [Site Wordcounter]({{site.baseurl}}/wordcount). Anything above 200 words will be immediately disqualified. The title, author name, and so on, will NOT count towards that limit.
 
 Entries will be submitted entirely in plaintext. More details about text requirements can be found on the [Wordcounter page]({{site.baseurl}}/wordcount).
 
-### Judging Process
+### 2018 Judging Process
 
 This year we have some incredible Judges who will help us find the best of the bunch:
 
@@ -65,8 +58,6 @@ This year we have a wide array of prizes to offer to the Finalists and Winners i
 Each entry will be publicly posted [on this page]({{site.baseurl}}/2018entries). We reserve the right to reject entries that we consider to be inappropriate or offensive. 
 
 All entries will be submitted under the Creative Commons Attribution 4.0 International (CC BY 4.0) License. [More info here]({{site.baseurl}}/licensing).
-
-### [Submission Form Here]({{site.baseurl}}/2018submission)
 
 ### Timeline:
 
