@@ -30,13 +30,13 @@ These hardworking folks will invest a ton of time and effort into selecting the 
 <td id="entries"><h3><strong>Danielle Lauzon</strong></h3></td>
 <td id="entries"><h3><strong>David Shugars</strong></h3></td>
 </tr><tr>
-<td id="entries"><h3><strong>Elizabeth Stong</strong></h3></td>
+  <td id="entries"><h3><strong><a href="https://mobile.twitter.com/Liz_Stong">Elizabeth Stong</a></strong></h3></td>
 <td id="entries"><h3><strong>Emerson Jeffery</strong></h3></td>
 <td id="entries"><h3><strong>Eva Schiffer</strong></h3></td>
 </tr><tr>
 <td id="entries"><h3><strong>Jacob Spafford</strong></h3></td>
 <td id="entries"><h3><strong>Jacoby Steffey</strong></h3></td>
-<td id="entries"><h3><strong><a href="https://mobile.twitter.com/Liz_Stong">Jacqueline Bryk</a></strong></h3></td>
+<td id="entries"><h3><strong><a href="http://drivethrurpg.com/browse/pub/13033/Jacqueline-Bryk">Jacqueline Bryk</a></strong></h3></td>
 </tr><tr>
 <td id="entries"><h3><strong>James Woodman</strong></h3></td>
 <td id="entries"><h3><strong>Jason Tocci</strong></h3></td>
@@ -54,7 +54,7 @@ These hardworking folks will invest a ton of time and effort into selecting the 
 <td id="entries"><h3><strong><a href="http://wordsaremysword.blogspot.com/">Matthew Orr</a></strong></h3></td>
 <td id="entries"><h3><strong><a href="https://twitter.com/legendary_pants">Matthew Stanford</a></strong></h3></td>
 </tr><tr>
-<td id="entries"><h3><strong><a href="https://twitter.com/ChewiePhD">Meg McGinley</a></strong></h3></td>
+<td id="entries"><h3><strong>Meg McGinley</strong></h3></td>
 <td id="entries"><h3><strong>Michael Thomas</strong></h3></td>
 <td id="entries"><h3><strong>Mike Quintanilla</strong></h3></td>
 </tr><tr>
