@@ -12,7 +12,7 @@ These hardworking folks will invest a ton of time and effort into selecting the 
 </tr><tr>
 <td id="entries"><h3><strong>Adam Underwood</strong></h3></td>
 <td id="entries"><h3><strong>AJ Brown</strong></h3></td>
-<td id="entries"><h3><strong>Alex McConnaughey</strong></h3></td>
+  <td id="entries"><h3><strong><a href="http://www.criticalmisfits.com/">Alex McConnaughey</a></strong></h3></td>
 </tr><tr>
 <td id="entries"><h3><strong><a href="https://thatonegm.weebly.com/">Andrew J. Young</a></strong></h3></td>
 <td id="entries"><h3><strong>Andrew Millar</strong></h3></td>
