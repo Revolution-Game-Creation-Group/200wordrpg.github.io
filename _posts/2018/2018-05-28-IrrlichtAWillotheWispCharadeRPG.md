@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Irrlicht" - A Will-o'-the-Wisp Charade RPG"
+title: "Irrlicht - A Will-o'-the-Wisp Charade RPG"
 date: 2018-05-28 17:55:40
 author: "ms.werepug"
 link: "https://www.facebook.com/were.pug.33"
