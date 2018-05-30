@@ -11,6 +11,27 @@ allAuthors = []
 allEmails = []
 filetitle = ""
 
+letters = ["Alfa", "Bravo", "Charlie", "Delta", "Echo", "Foxtrot", "Golf", "Hotel", "India", "Juliett", "Kilo", "Lima", "Mike",
+           "November", "Oscar", "Papa", "Quebec", "Romeo", "Sierra", "Tango", "Uniform", "Victor", "Whiskey", "X-ray", "Yankee", "Zulu"]
+
+for letter in letters:
+    fileTitle = "2000-01-01-"+letter + ".md"
+    with io.open(fileTitle, 'a', encoding='utf8') as file:
+        file.write('---' + '\n')
+        file.write('layout: post' + '\n')
+        file.write('date: 2000-01-01' + '\n')
+        file.write('title: "' + letter + '"' + '\n')
+        file.write('---' + '\n')
+        file.close
+
+
+lettercounter = 0
+
+conflictLetter = "Upsilon"
+
+conflictTitles = ["Metahuman Correctional", "The Din of Elfland's Laughter", "Dr. Jekyll and Mr. Hyde", "Mystery by Association", "CQ", "Rad Waste", "A Hundred Years Adoring You",
+                  "Skeletal Dragon Organizes Their Ruin", "Up the Drunx", "Reincarnation Station", "Be Your Best Keanu", "But why was the green coat left in your hall?", "Ships Passing", "Another Day in the Lab", "Bullshit Tour Guide"]
+
 with open('2018.csv', encoding="utf8") as f:
     reader = csv.reader(f)
     for row in reader:
@@ -60,7 +81,7 @@ with open('2018.csv', encoding="utf8") as f:
         # The "fileTitle" is the cleaned up title for filename.
         # Need to clean up the title for sorting on the site.
         title = title[0].upper() + title[1:]
-        title = re.sub('\"', '', title)
+        title = re.sub('\"', "", title)
         title = title.rstrip()
         fileTitle = title
 
@@ -188,21 +209,19 @@ with open('2018.csv', encoding="utf8") as f:
 
         # as long as it isn't invalid, make a file with the content
         if (invalidReason == ""):
-            with io.open(fileTitle, 'w', encoding='utf8') as file:
-                file.write(line0 + '\n')
-                file.write(line1 + '\n')
-                file.write(line2 + '\n')
-                file.write(line3 + '\n')
-                file.write(line4 + '\n')
-                file.write(line5 + '\n')
-                file.write(line6 + '\n')
-                file.write(line7 + '\n')
+            if (title in conflictTitles):
+                fileTitle = "2000-01-01-" + conflictLetter + ".md"
+            else:
+                fileTitle = "2000-01-01-" + letters[lettercounter] + ".md"
+                lettercounter = lettercounter + 1
+                if (lettercounter > 25):
+                    lettercounter = 0
+            with io.open(fileTitle, 'a', encoding='utf8') as file:
+                file.write('\n# ' + title + '\n')
                 file.write(line8 + '\n')
                 file.write(line9 + '\n')
                 file.write(line10 + '\n')
-                file.write(line11 + '\n')
-                file.write(line12 + '\n')
-                file.write(line13 + '\n')
+                file.write('<hr>' + '\n')
                 file.close
 
         # Otherwise print out the reason for disqualify
