@@ -72,20 +72,21 @@ These hardworking folks will invest a ton of time and effort into selecting the 
 </tr><tr>
 <td id="entries"><h3><strong><a href="https://twitter.com/ChewiePhD">Peter Underwood</a></strong></h3></td>
 <td id="entries"><h3><strong><a href="http://www.cardboardvault.com/">Phoebe Wild</a></strong></h3></td>
-<td id="entries"><h3><strong><a href="http://pyrofoux.itch.io/">Rabii Younès</a></strong></h3></td>
+  <td id="entries"><h3><strong><a href="https://twitter.com/teddog">Rach Shelkey</a></strong></h3></td>
 </tr><tr>
-<td id="entries"><h3><strong><a href="https://twitter.com/teddog">Rach Shelkey</a></strong></h3></td>
 <td id="entries"><h3><strong><a href="https://rayvisser.itch.io/">Ray Visser</a></strong></h3></td>
 <td id="entries"><h3><strong>River Williamson</strong></h3></td>
+  <td id="entries"><h3><strong>Samir Alam</strong></h3></td>
 </tr><tr>
-<td id="entries"><h3><strong>Samir Alam</strong></h3></td>
 <td id="entries"><h3><strong>Sarah Judd</strong></h3></td>
 <td id="entries"><h3><strong>Sean Patrick Cain</strong></h3></td>
+  <td id="entries"><h3><strong>Selene</strong></h3></td>
 </tr><tr>
-<td id="entries"><h3><strong>Selene</strong></h3></td>
-<td id="entries"><h3><strong>Stephanie Pegg</strong></h3></td>
+  <td id="entries"><h3><strong><a href="https://daisyninjagirl.dreamwidth.org">Stephanie Pegg</a></strong></h3></td>
 <td id="entries"><h3><strong>Tommy Fix</strong></h3></td>
+  <td id="entries"><h3><strong><a href="https://randommatters.wordpress.com/">William Hobson</a></strong></h3></td>
 </tr><tr>
-<td id="entries"><h3><strong><a href="https://randommatters.wordpress.com/">William Hobson</a></strong></h3></td>
+  <td id="entries"><h3><strong><a href="http://pyrofoux.itch.io/">Younès Rabii</a></strong></h3></td>
+
 </tr>
 </table>
