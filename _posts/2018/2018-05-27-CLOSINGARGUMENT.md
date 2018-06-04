@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "
-CLOSING ARGUMENT"
+title: "CLOSING ARGUMENT"
 date: 2018-05-27 04:35:28
 author: "Alessio Venturini"
 link: "no link"
