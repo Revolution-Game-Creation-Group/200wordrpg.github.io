@@ -4,7 +4,7 @@ title: "Roar of the Crowd"
 date: 2018-05-28 23:51:28
 author: "Alexander Guerrero-Randall"
 link: "no link"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 Players: Two SEASONED, BLOODTHIRSTY ARENA DUELISTS 

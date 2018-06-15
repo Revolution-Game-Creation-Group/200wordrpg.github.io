@@ -4,7 +4,7 @@ title: "Fuck! It's Dracula"
 date: 2018-05-21 16:59:03
 author: "Levon Jihanian"
 link: "https://twitter.com/ForkFrenzy"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 You are simple villagers on the desert planet Thannaxio. It's 3400 A.D. and humans live throughout the galaxy. A coffin-shaped pod just crashed to the south. 

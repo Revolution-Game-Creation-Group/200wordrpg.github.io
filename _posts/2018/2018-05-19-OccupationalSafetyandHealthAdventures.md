@@ -4,7 +4,7 @@ title: "Occupational Safety and Health Adventures"
 date: 2018-05-19 14:14:34
 author: "Stentor Danielson"
 link: "http://playglittercats.blogspot.com"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 You are a team of co-workers. Decide together:

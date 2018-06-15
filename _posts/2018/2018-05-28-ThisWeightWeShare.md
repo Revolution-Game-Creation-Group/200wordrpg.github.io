@@ -4,7 +4,7 @@ title: "This Weight We Share"
 date: 2018-05-28 22:31:41
 author: "Izzy Sanders"
 link: "www.twitter.com/PraxisDescends"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 You (and up to six others) play the contents of a cursed Video Tape, taking turns describing what lies beyond the Television. 

@@ -4,7 +4,7 @@ title: "Chance Goodbyes"
 date: 2018-05-28 12:23:21
 author: "Michael Blatherwick"
 link: "no link"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 You are walking to town. You've walked this way a thousand times, but this is different: this will be the last time. A one-way trip. You're leaving and you're not coming back.

@@ -4,7 +4,7 @@ title: "Maquillage"
 date: 2018-05-23 02:02:22
 author: "Kate Bui"
 link: "https://twitter.com/ArmyOfMeat"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 Relationships with makeup are complex and ever-shifting. You are characters at various stages of their lives, exploring their relationships with makeup and each other.

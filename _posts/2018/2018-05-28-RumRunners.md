@@ -4,7 +4,7 @@ title: "Rum Runners"
 date: 2018-05-28 23:40:24
 author: "Shashank Rao"
 link: "no link"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 Florida. 1920. With the right boat, crew, and connections, booze is liquid gold. But with stakes this high, everyone wants in. Between untrustworthy partners, rival gangs, and the Bureau, only the best can make it.

@@ -4,7 +4,7 @@ title: "You Have 200 Words"
 date: 2018-05-20 03:57:51
 author: "Cadaeic"
 link: "no link"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 The state of the world is such; there is suffering, there is hopelessness. This is a wasteland. This was once a vibrant land of possibilities. No more.

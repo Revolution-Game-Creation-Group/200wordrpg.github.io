@@ -4,7 +4,7 @@ title: "CLIMB the SPIRE!"
 date: 2018-05-26 18:12:08
 author: "13sparx13"
 link: "no link"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 You need to get to the top!

@@ -4,7 +4,7 @@ title: "A Glimmering of Recognition"
 date: 2018-05-28 23:08:39
 author: "Harmony the Silent Bard"
 link: "no link"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 Needs: 2+ players, a handful of coins

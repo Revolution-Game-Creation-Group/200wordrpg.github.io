@@ -4,7 +4,7 @@ title: "Sidewalkia!"
 date: 2018-05-18 13:03:00
 author: "Aly Grauer"
 link: "http://www.twitter.com/dreamstobecome"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 One player stands in a square of sidewalk with clearly defined boundaries and shouts: 

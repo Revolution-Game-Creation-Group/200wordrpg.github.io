@@ -4,7 +4,7 @@ title: "Gods of Darkness, Gods of Light"
 date: 2018-05-27 11:28:47
 author: "ivan nevill"
 link: "roleplaygreenroom.blogspot.com.au"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 Tools: Box of matches, 3 Temples (tealight candles) per player, World (paper), Battlefield (ashtray)

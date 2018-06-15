@@ -4,7 +4,7 @@ title: "PSYCHIC CHILDREN ON THE RUN FROM DANGER"
 date: 2018-05-23 23:17:10
 author: "Michael Brannan"
 link: "no link"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 You are a PSYCHIC CHILD, the result of some unethical experiments. You and some of the other children have BROKEN OUT and are on the run from menacing agents who track you down.

@@ -4,7 +4,7 @@ title: "What's my Motivation?"
 date: 2018-05-28 22:29:29
 author: "Andy Haynes"
 link: "www.AndyHaynesCreative.com"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 The games we play are merely Hollywood productions, and we the actors who star in them.

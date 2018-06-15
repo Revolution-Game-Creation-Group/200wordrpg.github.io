@@ -4,7 +4,7 @@ title: "It's Always Been a Dive"
 date: 2018-05-18 09:37:11
 author: "Grant Woodward"
 link: "http://www.stgcast.org"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 You are employees in a seedy dive bar, churning through concepts, owners, and crimes. Requires: Index cards; pool of 5 Mismanagement tokens per player.

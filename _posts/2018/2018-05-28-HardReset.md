@@ -4,7 +4,7 @@ title: "**Hard Reset**"
 date: 2018-05-28 18:56:57
 author: "Matthew McDoris"
 link: "no link"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 In the ruins of a rainy city, humans hide in the shadows, trying to survive.  Why did their world fall?  Why are they hiding? And what should you - their former robot servants - do now?

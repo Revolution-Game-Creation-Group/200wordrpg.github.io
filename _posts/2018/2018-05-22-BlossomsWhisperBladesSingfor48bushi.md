@@ -4,7 +4,7 @@ title: "Blossoms Whisper, Blades Sing, for 4-8 bushi"
 date: 2018-05-22 07:57:52
 author: "Galen Pejeau"
 link: "https://twitter.com/GPejeau"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 Requires a set of Hanafuda cards

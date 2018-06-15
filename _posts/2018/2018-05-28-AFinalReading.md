@@ -4,7 +4,7 @@ title: "A Final Reading"
 date: 2018-05-28 00:38:21
 author: "Caustic Chemist"
 link: "no link"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 Each character is attending the same funeral.

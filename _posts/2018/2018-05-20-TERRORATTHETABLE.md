@@ -4,7 +4,7 @@ title: "TERROR AT THE TABLE!"
 date: 2018-05-20 13:45:10
 author: "Ebeth Norvell"
 link: "https://ebeth.itch.io/"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
   

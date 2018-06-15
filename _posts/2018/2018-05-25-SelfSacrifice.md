@@ -4,7 +4,7 @@ title: "Self Sacrifice"
 date: 2018-05-25 06:35:51
 author: "Mathew Sforcina"
 link: "https://twitter.com/MassiveQ"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 5 players agree on a setting.

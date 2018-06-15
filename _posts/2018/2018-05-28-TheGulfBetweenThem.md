@@ -4,7 +4,7 @@ title: "The Gulf Between Them"
 date: 2018-05-28 14:07:23
 author: "Star King West"
 link: "meetup.com/RPG-Workshop/"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 Players: 3

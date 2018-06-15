@@ -4,7 +4,7 @@ title: "Hell-Ride Equipped"
 date: 2018-05-22 01:01:36
 author: "James Vail"
 link: "atramentisgames.com"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 You are demonic truck drivers trying to deliver souls to Satan. Describe your driver and truck.

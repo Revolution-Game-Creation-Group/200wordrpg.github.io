@@ -4,7 +4,7 @@ title: "A Level-Headed Conversation"
 date: 2018-05-23 16:32:21
 author: "Johannes Punkt"
 link: "zombiesintelligently.com"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 For 2-6 players.

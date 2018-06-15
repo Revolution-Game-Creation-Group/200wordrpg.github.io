@@ -4,7 +4,7 @@ title: "Filling the Void"
 date: 2018-05-28 23:24:19
 author: "Jessica Rainbow & Daniel Wood"
 link: "no link"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 A game about the space between story and self.

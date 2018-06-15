@@ -4,7 +4,7 @@ title: "Dear Elizabeth..."
 date: 2018-05-28 19:24:26
 author: "Will C"
 link: "no link"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 You are a heroine in a regency or Victorian novel. So is your best friend. Though apart, you write letters to each other. 

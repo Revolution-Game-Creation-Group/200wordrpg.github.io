@@ -4,7 +4,7 @@ title: "The New Gods of Babel"
 date: 2018-05-21 14:04:20
 author: "Brian Molina"
 link: "www.bardsandnobles.com"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 You are newborn gods, shaping the physical world in your image. Existence is without until you breathe life into it. The complete Jenga Tower before the players represents this unshaped world, and what remains at the end of the game is the world you and the other gods have built together.

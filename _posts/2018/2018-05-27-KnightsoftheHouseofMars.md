@@ -4,7 +4,7 @@ title: "Knights of the House of Mars"
 date: 2018-05-27 12:07:28
 author: "S. John Bateman"
 link: "twitter.com/wolfwyzard_"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 Mars has perished. A red sea of dust is broken by jagged mountains dotted with the ruins of ancient pyramids. Evil sorcerers rule supreme. You play Knights of the House of Mars. The only ones who can bring life back to this planet. 

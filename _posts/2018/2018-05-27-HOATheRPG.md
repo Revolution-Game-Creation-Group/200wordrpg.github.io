@@ -4,7 +4,7 @@ title: "HOA: The RPG"
 date: 2018-05-27 22:17:05
 author: "Mike Judge"
 link: "https://twitter.com/mikelovesrobots"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 WELCOME TO OUR LEGO VILLAGE. We've had SOME PROBLEMS RECENTLY and you're invited to a series of town meetings where we'll clear the air.

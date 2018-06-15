@@ -4,7 +4,7 @@ title: "On the Eve of a Wedding"
 date: 2018-05-22 14:29:06
 author: "Shannon P. Drake"
 link: "http://www.ekardindusutries.com"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 Scene

@@ -4,7 +4,7 @@ title: "Can you hear me?"
 date: 2018-05-20 20:54:52
 author: "Eleanor Tursman"
 link: "no link"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 One player is the Ghost, the other is the Investigator.

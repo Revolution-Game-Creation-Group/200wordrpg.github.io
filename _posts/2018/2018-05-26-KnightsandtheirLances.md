@@ -4,7 +4,7 @@ title: "Knights and their Lances"
 date: 2018-05-26 00:49:41
 author: "Eric Levanduski"
 link: "www.twitter.com/ericvulgaris"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 A game for two players.

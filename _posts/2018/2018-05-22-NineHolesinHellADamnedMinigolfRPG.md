@@ -4,7 +4,7 @@ title: "Nine Holes in Hell: A Damned Mini-golf RPG"
 date: 2018-05-22 12:11:05
 author: "Alex Tully"
 link: "https://sites.google.com/view/alextullylives"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 You and your friends have died, bound for eternal hellfire, but one of you has an opportunity to get out of this predicament. You must defeat your peers in a game of Dante's 'Inferno' style miniature golf.

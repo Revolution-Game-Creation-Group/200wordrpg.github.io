@@ -4,7 +4,7 @@ title: "Janus: a game for three players"
 date: 2018-05-28 07:01:28
 author: "Blair Allen"
 link: "https://twitter.com/blairpallen"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 One of you is a spy. The other two are your handlers -- or claim to be. You've been hit with an experimental compound by a group that's infiltrated your agency, looking to subvert it for their own goals -- or so they say. They're saying lots of things, though. Like that the other is lying. Like that the other is an infiltrator.

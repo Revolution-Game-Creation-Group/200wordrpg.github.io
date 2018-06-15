@@ -4,7 +4,7 @@ title: "One Last Night Together"
 date: 2018-05-24 19:51:54
 author: "Tyler Wayne Detrick"
 link: "@twdetrick"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 Players: at least 3

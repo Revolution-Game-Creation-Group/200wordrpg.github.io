@@ -4,7 +4,7 @@ title: "Be Your Best Keanu"
 date: 2018-05-24 12:28:38
 author: "Elizabeth Stong & Ron Blechner"
 link: "no link"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 A game about Keanu trying directing, with cast & crew of all Keanu / Keanu characters for 5-25 players.  

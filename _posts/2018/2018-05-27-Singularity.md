@@ -4,7 +4,7 @@ title: "Singularity"
 date: 2018-05-27 18:13:01
 author: "Vincent Carluer"
 link: "https://www.gamersassociate.com"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 The game is to answer these questions. Alone or with friends.

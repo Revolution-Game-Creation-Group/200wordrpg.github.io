@@ -4,7 +4,7 @@ title: "No Devil-child May Rule Us"
 date: 2018-05-22 19:38:41
 author: "Dan Maruschak"
 link: "no link"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 King Obarru is dead. His surly and callow son Darian now rules. Darian's precocious and sophisticated younger sister Hylda gathers a cabal to tell a shocking tale: Queen Alykta consorted with the demon Tchernobog; the man on the throne is a devil-child and not the trueborn heir of Obarru. Hylda needs help developing proof to dispute the succession.

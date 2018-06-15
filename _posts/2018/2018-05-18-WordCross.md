@@ -4,7 +4,7 @@ title: "Word/Cross"
 date: 2018-05-18 20:23:18
 author: "Owen Top"
 link: "http://topdoggaming.blogspot.com.au"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 Find a novel or novels no one cares about. Cut a page from the book for each of the players.

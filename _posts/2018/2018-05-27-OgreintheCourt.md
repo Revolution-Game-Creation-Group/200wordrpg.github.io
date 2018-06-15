@@ -4,7 +4,7 @@ title: "Ogre in the Court!"
 date: 2018-05-27 19:54:33
 author: "Matthew Seagle"
 link: "ogreplaysgames.com"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 You are a fantasy public defender. You represent thieves, cultists, and even intelligent monsters. Today your defendant is THE OGRE!

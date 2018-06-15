@@ -4,7 +4,7 @@ title: "Signs and Symbols"
 date: 2018-05-21 11:13:06
 author: "Jon Campbell"
 link: "acampbellconsultants.com"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 Four players play as rival prophets who have gathered to discuss the meaning of a shared vision.

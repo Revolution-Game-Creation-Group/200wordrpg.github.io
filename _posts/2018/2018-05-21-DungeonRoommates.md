@@ -4,7 +4,7 @@ title: "Dungeon Roommates"
 date: 2018-05-21 08:33:46
 author: "Nick Wedig"
 link: "http://nickwedig.libraryofhighmoon.com/"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 Materials: 2-5 players, post-it notes, a dungeon map.

@@ -4,7 +4,7 @@ title: "Up the Drunx"
 date: 2018-05-23 15:26:50
 author: "Chad Wolf"
 link: "https://www.facebook.com/TalkingDogGames/"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 You are a bunch of drunk punx who are sick of this town's shit.  After a night of drinking, you are ready for a revolution.  Think globally, act locally, and overthrow your municipal government.

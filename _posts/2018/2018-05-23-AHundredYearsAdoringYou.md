@@ -4,7 +4,7 @@ title: "A Hundred Years Adoring You"
 date: 2018-05-23 14:13:02
 author: "Jeff Dieterle"
 link: "@excitingjeff"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 Gather a handful of friends. Maybe not best friends, but definitely friends. New friends are perfect.

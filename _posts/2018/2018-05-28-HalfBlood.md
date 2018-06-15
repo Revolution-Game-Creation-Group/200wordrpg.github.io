@@ -4,7 +4,7 @@ title: "Half-Blood"
 date: 2018-05-28 10:33:30
 author: "The Bookwyrms Podcast"
 link: "https://twitter.com/bookwyrmspod"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 You are all half-bloods, lowest among the Fae Court. 

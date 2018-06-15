@@ -4,7 +4,7 @@ title: "Letters to the Home Front"
 date: 2018-05-21 09:59:42
 author: "Alex L"
 link: "splitthepartypod.com"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 Players sit back to back, a WWI soldier and a loved one, each with an envelope, 16 moral tokens, and half a deck of shuffled playing cards (soldier has diamonds and spades, loved one has hearts and clubs).

@@ -4,7 +4,7 @@ title: "Please Silence Your Cell Phones"
 date: 2018-05-28 20:46:17
 author: "Jack Rosetree"
 link: "https://voidgarlic.wordpress.com/"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 Read the following aloud: "Monstrosities live beyond these walls. They sense noise and emotion. Silence and temperance is how we survive. That does not mean, however, that we cannot communicate.

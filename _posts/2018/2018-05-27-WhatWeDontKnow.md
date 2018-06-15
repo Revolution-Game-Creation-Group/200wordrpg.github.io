@@ -4,7 +4,7 @@ title: "What We Don't Know"
 date: 2018-05-27 18:22:34
 author: "Matthew Nevers"
 link: "https://twitter.com/AlwaysNevers"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 The woods are quiet, and far from the village.

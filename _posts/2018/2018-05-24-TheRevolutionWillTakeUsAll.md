@@ -4,7 +4,7 @@ title: "The Revolution Will Take Us All"
 date: 2018-05-24 19:14:38
 author: "Max Villet"
 link: "no link"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 The Revolution is coming. Fearful streets whisper: this rotting order will finally topple.

@@ -4,7 +4,7 @@ title: "No Woman's Land"
 date: 2018-05-21 14:59:35
 author: "Juliana Truite"
 link: "no link"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 This game needs five people and a fifty-two card deck to be played.

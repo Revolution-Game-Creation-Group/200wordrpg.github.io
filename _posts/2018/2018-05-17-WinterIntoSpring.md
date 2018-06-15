@@ -4,7 +4,7 @@ title: "#WinterIntoSpring"
 date: 2018-05-17 23:18:14
 author: "E. E. COLI"
 link: "www.miserytourism.com"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 Split 4+ players between contentious "Minority"/"Majority" factions.  

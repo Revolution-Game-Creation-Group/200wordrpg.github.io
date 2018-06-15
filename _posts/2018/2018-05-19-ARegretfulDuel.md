@@ -4,7 +4,7 @@ title: "A Regretful Duel"
 date: 2018-05-19 14:51:54
 author: "j.edeen"
 link: "http://www.jedeen.com"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 A game for two players and a coin

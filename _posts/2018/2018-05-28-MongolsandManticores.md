@@ -4,7 +4,7 @@ title: "Mongols and Manticores"
 date: 2018-05-28 11:08:32
 author: "Lucas Hald"
 link: "no link"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 You are a Manticore. The Mongol Horde has invaded your valley and is threatening your peaceful way of life. The Great Khan wants you dead. His warriors are coming for you. Fight back!

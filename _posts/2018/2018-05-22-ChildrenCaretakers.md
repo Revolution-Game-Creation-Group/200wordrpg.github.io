@@ -4,7 +4,7 @@ title: "Children | Caretakers"
 date: 2018-05-22 22:28:03
 author: "Michael Thomét"
 link: "http://incobalt.me"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 Air hisses around    | They are waking up.

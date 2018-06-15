@@ -4,7 +4,7 @@ title: "Succession"
 date: 2018-05-19 13:01:03
 author: "Laurie"
 link: "twitter.com/lauriehedge"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 An old and heirless monarch sits the throne. The time has come to choose a successor. A proclamation is made. There shall be a test. Any may enter. One will be chosen to rule. The rest will be banished forever.

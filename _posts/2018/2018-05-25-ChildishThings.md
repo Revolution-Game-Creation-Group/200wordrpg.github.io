@@ -4,7 +4,7 @@ title: "Childish Things"
 date: 2018-05-25 23:29:57
 author: "Evan Saft"
 link: "https://twitter.com/NamesEquipped"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 What you'll need 

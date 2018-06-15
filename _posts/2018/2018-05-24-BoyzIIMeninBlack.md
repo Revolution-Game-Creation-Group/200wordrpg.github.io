@@ -4,7 +4,7 @@ title: "Boyz II Men in Black"
 date: 2018-05-24 14:48:21
 author: "Teddy Humpert"
 link: "vigorrpg.com"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 It's September 1994. 

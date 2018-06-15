@@ -4,7 +4,7 @@ title: "But for the Grace of God"
 date: 2018-05-28 15:05:00
 author: "Aser Tolentino"
 link: "www.twitter.com/aser_tolentino"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 Your ship falls toward a singularity. You are the sole survivor in the compartment. The damage control board shows one more life sign on the far end of the ship. You pick up the intercom handset and hope for the best.

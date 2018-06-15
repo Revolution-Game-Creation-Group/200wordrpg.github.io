@@ -4,7 +4,7 @@ title: "Pressure Building"
 date: 2018-05-25 09:57:25
 author: "Psionide"
 link: "no link"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 A great dam has been built in Lockinge, vast and beautiful. 

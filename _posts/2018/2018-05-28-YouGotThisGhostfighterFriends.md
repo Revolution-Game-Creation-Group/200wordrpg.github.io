@@ -4,7 +4,7 @@ title: "You Got This! Ghostfighter Friends"
 date: 2018-05-28 15:48:10
 author: "C. C. S. Ryan"
 link: "http://www.twitter.com/wintersweet"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 You are four female and/or nonbinary friends who fight ghosts in your town. You will do anything for each other.

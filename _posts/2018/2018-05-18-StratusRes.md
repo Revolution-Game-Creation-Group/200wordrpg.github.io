@@ -4,7 +4,7 @@ title: "Stratus Res"
 date: 2018-05-18 21:17:51
 author: "Alex McConnaughey"
 link: "https://twitter.com/variant_games"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 For two players

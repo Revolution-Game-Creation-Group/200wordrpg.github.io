@@ -4,7 +4,7 @@ title: "The Giving Mech"
 date: 2018-05-28 23:00:13
 author: "Juliet Louis"
 link: "twitter.com/dromedary"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 For 1,2,3+. Players beyond two are the Environment.

@@ -4,7 +4,7 @@ title: "Hold My Hand & Tell Me It's Okay"
 date: 2018-05-18 03:25:48
 author: "James E. Shields"
 link: "https://www.patreon.com/jeshields"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 Needed:

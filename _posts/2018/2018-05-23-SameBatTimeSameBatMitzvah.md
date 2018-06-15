@@ -4,7 +4,7 @@ title: "Same Bat Time, Same Bat Mitzvah"
 date: 2018-05-23 11:41:10
 author: "Lucian Kahn"
 link: "www.twitter.com/oh_theogony"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 On the way to Rachel's Bat Mitzvah, a guest was bitten by a vampire bat and is transforming into a vampire during the formal reception.

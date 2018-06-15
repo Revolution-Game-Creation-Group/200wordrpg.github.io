@@ -4,7 +4,7 @@ title: "Born of Brier and Blood: A Game for Four"
 date: 2018-05-27 22:27:40
 author: "Blaine C. Martin"
 link: "https://twitter.com/esmereldapod"
-categories: 2018 rpg
+categories: 2018 rpg finalist
 ---
 ```
 You are a creature of story, stitched together bits of whisper, born of brier and blood. Once the village left offerings freely, but they've put away their childish fears. Now there is room for only one.
