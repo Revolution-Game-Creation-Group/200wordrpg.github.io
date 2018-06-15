@@ -16,7 +16,7 @@ For those curious, here's how we chose the entries:
 1) All of the entries were scrubbed of author name and comments. Readers only saw the title and the entry text.
 2) Each Reader was assigned about 60 entries to read through and pick their top 5.
 3) With nearly 60 Readers, nearly 800 entries, each entry was ready by *4 different readers*, which is incredible coverage! 
-4) Entries were assigned points depending on how high on the list they were. Reader's first choices received 5 points, second recevied 4, and so on. This way it is better to be 3rd on two lists than first on one list.
+4) Entries were assigned points depending on how high on the list they were. Reader's first choices received 5 points, second recevied 4, and so on. This way it is better to be third on two lists than first on one list.
 5) All entries with 5 or more points were selected to become finalists. 
 6) The 70 or so finalists were posted up on the front page, and will now be reviewed by [the Judges]({{site.baseurl}}/judges). Wish them luck! It's a tough choice.
 
