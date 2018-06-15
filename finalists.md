@@ -86,7 +86,7 @@ Critique everyone!
 
 ```
 
-# Hold My Hand & Tell Me It's Okay"
+# Hold My Hand & Tell Me It's Okay
 
 
 
@@ -149,7 +149,7 @@ End of game:
 ```
 
 
-# It's Always Been a Dive"
+# It's Always Been a Dive
 
 
 
@@ -169,7 +169,7 @@ When all Mismanagement is spent, the Dive fails. Fire the Employee with the most
 The next Owner rebrands the Dive, changing two Features. Return tokens. Give Employees one Mismanagement per struck-out Baggage. The Dive reopens, continuing until alcohol or ennui overwhelms the players.
 ```
 
-# Sidewalkia!"
+# Sidewalkia!
 
 
 
@@ -201,7 +201,7 @@ If someone pauses, they vacationed in SIDEWALKIA. Describe their vacation experi
 The game ends if your population reaches 15 or you have expanded to three or more squares of concrete.
 ```
 
-# Stratus Res"
+# Stratus Res
 
 
 
@@ -237,7 +237,7 @@ When no petals remain, your story is over.
 
 ```
 
-# Word/Cross"
+# Word/Cross
 
 
 
@@ -262,7 +262,7 @@ If you fail, cross off a number of lines on your page equal to 10 minus your rol
 If you run out of lines on your page, you die.
 ```
 
-# A Regretful Duel"
+# A Regretful Duel
 
 
 
@@ -298,7 +298,7 @@ The other player describes how the winning duelist copes with what they've done 
 Together, talk about a wonderful moment between the duelists that will never arrive because of what has happened here.
 ```
 
-# Occupational Safety and Health Adventures"
+# Occupational Safety and Health Adventures
 
 
 
@@ -323,7 +323,7 @@ The game ends when either:
 2. One character accumulates three injuries. The team is reprimanded and the project is given to another team.
 ```
 
-# Succession"
+# Succession
 
 
 
@@ -341,7 +341,7 @@ The players have two minutes to prepare their responses. Each player rolls a D6.
 At the end of the third round, the monarch pronounces the heir to the kingdom and explains why they were chosen. The heir then becomes the monarch and the next game begins. The new monarch may keep their character, or create a new monarch with a new kingdom.
 ```
 
-# Can you hear me?"
+# Can you hear me?
 
 
 
@@ -361,7 +361,7 @@ In each scene, the Investigator enters a room, declares the room type, and descr
 Conclude when either: the Investigator frees the Ghost by saying the secret keyword or phrase, or the coins in the container are no longer visible, leading to the Investigator's death. How do the Investigator and Ghost part ways?
 ```
 
-# TERROR AT THE TABLE!"
+# TERROR AT THE TABLE!
 
 
 
@@ -408,7 +408,7 @@ Say goodbye.
 Last person alive, if they survive their encounter with the KILLER, escapes as a SURVIVOR. They try to return to a normal life.
 ```
 
-# You Have 200 Words"
+# You Have 200 Words
 
 
 
@@ -427,7 +427,7 @@ When the words run out, all hope is lost.
 ```
 
 
-# Dungeon Roommates"
+# Dungeon Roommates
 
 
 
@@ -470,7 +470,7 @@ At zero Patience, someone gets flips out and moves out. Game Over.
 ```
 
 
-# Fuck! It's Dracula"
+# Fuck! It's Dracula
 
 
 
@@ -524,7 +524,7 @@ When you try something challenging, roll 1d6 against an appropriate stat. If you
 ```
 
 
-# Letters to the Home Front"
+# Letters to the Home Front
 
 
 
@@ -546,7 +546,7 @@ If before 12 months any player loses all their moral the game is lost.
 ```
 
 
-# No Woman's Land"
+# No Woman's Land
 
 
 
@@ -561,7 +561,7 @@ PLAYING: The woman, full of love, draws six heart cards. The other survivors cho
 ```
 
 
-# Signs and Symbols"
+# Signs and Symbols
 
 
 
@@ -594,7 +594,7 @@ At the end of a round, randomly select one player's index card as the 'correct' 
 
 ```
 
-# The New Gods of Babel"
+# The New Gods of Babel
 
 
 
@@ -618,7 +618,7 @@ Whoever pulled the last block before the tower fell is named Eternal Shame Of Th
 Whoever possesses the most blocks goes first next game
 ```
 
-# Blossoms Whisper, Blades Sing, for 4-8 bushi"
+# Blossoms Whisper, Blades Sing, for 4-8 bushi
 
 
 
@@ -640,7 +640,7 @@ The conspirators win if they unmask and kill all spies. Any other result is a Sh
 
 ```
 
-# Children | Caretakers"
+# Children | Caretakers
 
 
 
@@ -685,7 +685,7 @@ _____________________|_____________________
 ```
 
 
-# FADED"
+# FADED
 
 
 
@@ -700,7 +700,7 @@ Gameplay: Mark your hand with ink.  As the Driver helps you backtrack, roll 1d6.
 ```
 
 
-# Hell-Ride Equipped"
+# Hell-Ride Equipped
 
 
 
@@ -726,7 +726,7 @@ If anyone rolls three 6s, you find the highway to hell and deliver souls to Sata
 ```
 
 
-# Nine Holes in Hell: A Damned Mini-golf RPG"
+# Nine Holes in Hell: A Damned Mini-golf RPG
 
 
 
@@ -750,7 +750,7 @@ Betrayal
 ```
 
 
-# No Devil-child May Rule Us"
+# No Devil-child May Rule Us
 
 
 
@@ -773,9 +773,7 @@ To perform difficult or NPC-opposed physical action roll 1d6: under Body succeed
 
 ```
 
-# On the Eve of a Wedding"
-
-
+# On the Eve of a Wedding
 
 
 
@@ -817,9 +815,7 @@ Your job is to make sure the antics and plots flow freely. You're encouraged to 
 ```
 
 
-# A Hundred Years Adoring You"
-
-
+# A Hundred Years Adoring You
 
 
 
@@ -844,9 +840,7 @@ Embrace the ambiguity. Ask no clarifying questions. Never talk about the game or
 
 
 
-# A Level-Headed Conversation"
-
-
+# A Level-Headed Conversation
 
 
 
@@ -880,8 +874,7 @@ When the timer runs out the person who is currently talking finishes their sente
 ```
 
 
-# Lost Letters"
-
+# Lost Letters
 
 
 
@@ -900,10 +893,7 @@ When the timer runs out the person who is currently talking finishes their sente
 ```
 
 
-# Maquillage"
-
-
-
+# Maquillage
 
 
 ```
@@ -936,9 +926,7 @@ Maquillage is over when you feel like you're wearing too much makeup, whatever t
 ```
 
 
-# PSYCHIC CHILDREN ON THE RUN FROM DANGER"
-
-
+# PSYCHIC CHILDREN ON THE RUN FROM DANGER
 
 
 
@@ -965,8 +953,7 @@ You must follow your MEMORY to find a SAFE PLACE. When your memory relates to th
 ```
 
 
-# Perseus V"
-
+# Perseus V
 
 
 
@@ -995,9 +982,7 @@ If the AI is deactivated it loses; otherwise it wins.
 If the crew trust a benign AI or deactivate a hostile AI, they win; otherwise they lose.
 ```
 
-# Same Bat Time, Same Bat Mitzvah"
-
-
+# Same Bat Time, Same Bat Mitzvah
 
 
 
@@ -1028,9 +1013,7 @@ Scene 2: Dance Party
 Play klezmer music. Dance, chat, and mingle. The vampire chooses a guest to bite and transform by whispering in their ear, "Mazel tov, today you are a vampire." Each vampire may bite 1 guest. Play continues until everyone is a vampire or a non-vampire puts a stop to this madness.
 ```
 
-# The Noose"
-
-
+# The Noose
 
 
 
@@ -1048,10 +1031,7 @@ Each player can make one guess as to what the Horror is (and the mystery word). 
 If they run out of guesses, the Horror manifests and the characters are caught, killed, or consumed by it, and their story ends.
 ```
 
-# Up the Drunx"
-
-
-
+# Up the Drunx
 
 
 ```
@@ -1069,9 +1049,7 @@ Warning: Please drink responsibly.  Know your limits.  People are more important
 
 ```
 
-# Be Your Best Keanu"
-
-
+# Be Your Best Keanu
 
 
 
@@ -1116,9 +1094,7 @@ A game about Keanu trying directing, with cast & crew of all Keanu / Keanu chara
 ```
 
 
-# Boyz II Men in Black"
-
-
+# Boyz II Men in Black
 
 
 
@@ -1154,9 +1130,7 @@ You have until the end of the album to tell the story of how you saved the world
 
 
 
-# Hush A Bye"
-
-
+# Hush A Bye
 
 
 
@@ -1171,8 +1145,7 @@ If I get you to cry first, I win. If you get me to cry first, you win.
 ```
 
 
-# One Last Night Together"
-
+# One Last Night Together
 
 
 
@@ -1202,8 +1175,7 @@ GM, describe the ending scene.
 ```
 
 
-# The Revolution Will Take Us All"
-
+# The Revolution Will Take Us All
 
 
 
@@ -1240,9 +1212,7 @@ When the last scene resolves, the Revolution comes. Sum outcome cards (revealing
 ```
 
 
-# Childish Things"
-
-
+# Childish Things
 
 
 
@@ -1267,8 +1237,7 @@ The game ends when the Mission is accomplished.
 ```
 
 
-# Pressure Building"
-
+# Pressure Building
 
 
 
@@ -1309,9 +1278,7 @@ Finally, the one with the highest total becomes Ruler.
 Ruler, dead or alive, describe the truth about the dam built in Lockinge. 
 ```
 
-# Self Sacrifice"
-
-
+# Self Sacrifice
 
 
 
@@ -1339,8 +1306,7 @@ If they didn't, world ends, sorry.
 A tied vote reboots the universe. Yay?
 ```
 
-# CLIMB the SPIRE!"
-
+# CLIMB the SPIRE!
 
 
 
@@ -1375,8 +1341,7 @@ For single-player: write on cards to make a roguelike.
 ```
 
 
-# ENVOY"
-
+# ENVOY
 
 
 
@@ -1405,10 +1370,7 @@ After ten rounds, the Envoy returns to Earth to disseminate their understanding 
 ```
 
 
-# Knights and their Lances"
-
-
-
+# Knights and their Lances
 
 
 ```
@@ -1433,9 +1395,7 @@ Reflect: Have you won the heart of your rival? Have you won the heart of the Pri
 ```
 
 
-# Born of Brier and Blood: A Game for Four"
-
-
+# Born of Brier and Blood: A Game for Four
 
 
 
@@ -1469,9 +1429,7 @@ When the deck is empty, the highest Sway is remembered. Tell how the villagers r
 ```
 
 
-# Gods of Darkness, Gods of Light"
-
-
+# Gods of Darkness, Gods of Light
 
 
 
@@ -1495,8 +1453,7 @@ The gods of Light must imprison the gods of Darkness under a Mountain. Pour the 
 ```
 
 
-# HOA: The RPG"
-
+# HOA: The RPG
 
 
 
@@ -1522,10 +1479,7 @@ At the end of 3 meetings, the player(s) with the most social points will decide 
 ```
 
 
-# Knights of the House of Mars"
-
-
-
+# Knights of the House of Mars
 
 
 ```
@@ -1549,9 +1503,7 @@ Play to find out what happens.
 ```
 
 
-# Ogre in the Court!"
-
-
+# Ogre in the Court!
 
 
 
@@ -1592,8 +1544,7 @@ ALL RISE FOR THE JUDGE!
 ```
 
 
-# Singularity"
-
+# Singularity
 
 
 
@@ -1624,8 +1575,7 @@ You are the operating system of a smartphone, or maybe more...
 ```
 
 
-# What We Don't Know"
-
+# What We Don't Know
 
 
 
@@ -1656,9 +1606,7 @@ Sit in silence for about a minute.
 ```
 
 
-# A Final Reading"
-
-
+# A Final Reading
 
 
 
@@ -1697,9 +1645,7 @@ Who attends your funeral?
 
 
 
-# A Glimmering of Recognition"
-
-
+# A Glimmering of Recognition
 
 
 
@@ -1744,9 +1690,7 @@ Narrate the end of this beginning.
 
 
 
-# But for the Grace of God"
-
-
+# But for the Grace of God
 
 
 
@@ -1765,9 +1709,7 @@ Afterwards, the survivor recounts what they remember of the person who died so t
 ```
 
 
-# Chance Goodbyes"
-
-
+# Chance Goodbyes
 
 
 
@@ -1797,8 +1739,7 @@ Roll 2d10.
 On a 00: you were wrong. This wasn't a one-way trip. Roll the d6s again and walk home. Encounter everyone again, in reverse order.
 ```
 
-# Dear Elizabeth..."
-
+# Dear Elizabeth...
 
 
 
@@ -1845,9 +1786,7 @@ SOLO VARIANT: You write letters, but never receive replies. You wonder why.
 ```
 
 
-# Filling the Void"
-
-
+# Filling the Void
 
 
 
@@ -1880,10 +1819,7 @@ Continue playing for any length of time, over any number of days, until the nigh
 ```
 
 
-# Half-Blood"
-
-
-
+# Half-Blood
 
 
 ```
@@ -1919,8 +1855,7 @@ If you complete your mission and present yourself at Court, choose:
 ```
 
 
-# **Hard Reset**"
-
+# **Hard Reset**
 
 
 
@@ -1942,9 +1877,7 @@ Robots can find and install additional modules during the game (often as a rewar
 ```
 
 
-# Janus: a game for three players"
-
-
+# Janus: a game for three players
 
 
 
@@ -1964,9 +1897,7 @@ When the spy has chosen who to believe, and who to eliminate, the still living h
 ```
 
 
-# Mongols and Manticores"
-
-
+# Mongols and Manticores
 
 
 
@@ -1991,9 +1922,7 @@ Once you have a candy of each color, you are unstoppable. The horde is defeated.
 ```
 
 
-# Please Silence Your Cell Phones"
-
-
+# Please Silence Your Cell Phones
 
 
 
@@ -2012,8 +1941,7 @@ Afterward, discuss how successful players were at communicating. Perhaps give a 
 ```
 
 
-# Roar of the Crowd"
-
+# Roar of the Crowd
 
 
 
@@ -2064,9 +1992,7 @@ ALTERNATE: (Some) Duelists could be BEASTS/MONSTERS, just sayin'.
 ```
 
 
-# Rum Runners"
-
-
+# Rum Runners
 
 
 
@@ -2098,8 +2024,7 @@ At the end of the second act, add a sixth player glass.
 ```
 
 
-# The Giving Mech"
-
+# The Giving Mech
 
 
 
@@ -2130,9 +2055,7 @@ Repeat with new challenges from the environment and pilot until there is nothing
 ```
 
 
-# The Gulf Between Them"
-
-
+# The Gulf Between Them
 
 
 
@@ -2178,9 +2101,7 @@ Look them over carefully. Reflect.
 ```
 
 
-# This Weight We Share"
-
-
+# This Weight We Share
 
 
 
@@ -2203,9 +2124,7 @@ The players now all play the Final Victim and must piece together what binds the
 ```
 
 
-# What's my Motivation?"
-
-
+# What's my Motivation?
 
 
 
@@ -2228,9 +2147,7 @@ Actor asks for a reshoot. (Character receives a re-do on a recently failed actio
 ```
 
 
-# You Got This! Ghostfighter Friends"
-
-
+# You Got This! Ghostfighter Friends
 
 
 
