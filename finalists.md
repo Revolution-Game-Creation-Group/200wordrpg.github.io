@@ -1,7 +1,5 @@
 ---
-layout: page
-title: "2018 Finalists"
-date: 2001-01-01
+layout: default
 ---
 # #WinterIntoSpring
 
