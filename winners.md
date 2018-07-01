@@ -5,7 +5,7 @@ layout: default
 # Winners
 Chosen by the [Judges]({{site.baseurl}}/judges), these entries were particularly creative and engaging! There are no 1st, 2nd, or 3rd places, only top three winners in no particular order.
 
-### **2018** :&emsp; COMING SOON!
+### **2018** :&emsp;[#WinterIntoSpring]({% post_url /2018/2018-05-17-WinterIntoSpring.md %})&emsp;•&emsp;[Dear Elizabeth...]({% post_url /2018/2018-05-28-DearElizabeth.md %})&emsp;•&emsp;[Sidewalkia!]({% post_url /2018/2018-05-18-Sidewalkia %})
 
 ### **2017** :&emsp;[MECHANICAL ORYX]({% post_url /2017/2017-04-15-MECHANICALORYX %})&emsp;•&emsp;[Memories]({% post_url /2017/2017-04-21-Memories %})&emsp;•&emsp;[Route Clearance]({% post_url /2017/2017-04-22-RouteClearance %})
 

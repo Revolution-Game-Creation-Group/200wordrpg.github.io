@@ -35,3 +35,7 @@ Play klezmer music. Dance, chat, and mingle. The vampire chooses a guest to bite
 ## Author Comments 
 
 Author did not add any comments.
+
+## Judge Comments
+
+"Same Bat Time, Same Bat Mitzvah" is a lovely idea for a larp. I want more of it, but I also want to play it as it is. This is a game I'll take to conventions, and I'll definitely be keeping an eye out for more of this if it ends up expanding. - [*Bronwyn*]({{site.baseurl}}/judges)

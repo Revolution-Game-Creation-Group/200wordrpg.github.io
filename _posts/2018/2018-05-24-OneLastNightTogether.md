@@ -32,3 +32,7 @@ GM, describe the ending scene.
 ## Author Comments 
 
 I wanted to capture the deeply human feeling of war, and intimate interactions that take place in the quiet moments between the gunfire.  Each and every soldier is a human that has lived up to this moment and wants to live to the next one, but war seeks to dehumanize those in the sight picture.
+
+## Judge Comments 
+
+There's been a lot of revisiting World War I recently, and amidst all the games tied to the centennial of the Great War, "One Last Night Together" struck me for how well it holds tension between trying to pass time while waiting to both deliver and receive an end that could come at any time. To bond, be sundered, and then process the whole strangeness of battle is I think a profoundly concise encapsulation. - [*Kelsey*]({{site.baseurl}}/judges)

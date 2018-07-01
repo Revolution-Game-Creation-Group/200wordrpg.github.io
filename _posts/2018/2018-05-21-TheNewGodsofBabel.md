@@ -26,3 +26,9 @@ Whoever possesses the most blocks goes first next game
 ## Author Comments 
 
 This has been influenced by a number of eastern religions, and hopes to explore some concepts of contentedness, hubris, pride, cooperation, and humility, not just through the theme of the game, but through the mechanics as well. In addition, I've always loved the idea of rpg's that are functional and can be used for other rpg's. The shared worldbuilding in The New Gods of Babel makes for a great jumping off point for a campaign in your favorite rpg, or as a new setting for your worldbuilding pleasure. 
+
+## Judge Comments 
+
+The game that for me was the most cohesive regarding theme and mechanics is The New Gods of Babel for sure. A brilliant parallel between the hubris of the gods using a Jenga tower as a metaphor of Babel. Brilliant. - [*Rugerfred*]({{site.baseurl}}/judges)
+
+New Gods of Babel deserves a shoutout. It had something, it made us think. - [*Maxwell*]({{site.baseurl}}/judges)

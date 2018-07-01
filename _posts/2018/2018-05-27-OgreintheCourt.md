@@ -44,3 +44,7 @@ ALL RISE FOR THE JUDGE!
 ## Author Comments 
 
 A comedy game of fantasy justice and emotional instability for 2-7 players
+
+## Judge Comments
+
+Ogre in the Court is one that I think could be a brilliant full length game, it's conceit is so perfect, I can see the box art now. - [*Maxwell*]({{site.baseurl}}/judges)

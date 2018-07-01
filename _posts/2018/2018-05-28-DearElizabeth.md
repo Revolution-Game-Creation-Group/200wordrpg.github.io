@@ -4,7 +4,7 @@ title: "Dear Elizabeth..."
 date: 2018-05-28 19:24:26
 author: "Will C"
 link: "no link"
-categories: 2018 rpg finalist
+categories: 2018 rpg winner
 ---
 ```
 You are a heroine in a regency or Victorian novel. So is your best friend. Though apart, you write letters to each other. 
@@ -49,3 +49,15 @@ SOLO VARIANT: You write letters, but never receive replies. You wonder why.
 ## Author Comments 
 
 This RPG was inspired by Regency novels and dramas, and the tactility of writing letters by hand. 
+
+## Judge Comments 
+
+If you like the idea of epistolary games, this is for you. The play experience benefits a lot if you already have some knowledge about the tropes and cliché of Jane Austen novels, but even without it the game is quite smooth. - [*Rugerfred*]({{site.baseurl}}/judges)
+
+Dear Elizabeth is lovely as a correspondence simulator, a throwback to an age of longform text messaging, but what stood out most to me is the aching sorrow contained in the ten words explaining a solo variant. - [*Kelsey *]({{site.baseurl}}/judges)
+
+Beyond simply being a prompt, this was a game where writing is actually controlling play, prose almost being like a game controller. It is an experience, one that can be game-y or not, funny or not, but that demands "role playing" in its most essential form. - [*Maxwell *]({{site.baseurl}}/judges)
+
+I just, I like this so much. It's doing something new with the epistolary game format, it's exploring an underaddressed kind of story, and the addition of the haunting single player mode is just brilliant and adds a whole bunch extra wow factor in a single sentence. - [*Bronwyn *]({{site.baseurl}}/judges)
+
+### *More Judge Comments Coming Soon!* 

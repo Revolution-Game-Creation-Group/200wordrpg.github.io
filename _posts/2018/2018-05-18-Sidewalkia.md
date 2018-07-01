@@ -4,7 +4,7 @@ title: "Sidewalkia!"
 date: 2018-05-18 13:03:00
 author: "Aly Grauer"
 link: "http://www.twitter.com/dreamstobecome"
-categories: 2018 rpg finalist
+categories: 2018 rpg winner
 ---
 ```
 One player stands in a square of sidewalk with clearly defined boundaries and shouts: 
@@ -38,3 +38,15 @@ One time, we waited on the same square of sidewalk for HOURS to get into an even
 I like games that involve a lot of imagination, sharing laughs (sometimes with strangers) and commitment to a bit. I'm an actor, podcaster, and author. Catch me on Twitter and welcometowarda.com.
 
 Huge thanks and love to Drew Mierzejewski for encouragement, feedback, inspiration, and being the Prime Minister's Husband. 
+
+## Judge Comments 
+
+A pervasive live-action role-playing games that creatively use part of the architecture and the city around you. If you like the concept of micronations, you can't miss this. - [*Rugerfred*]({{site.baseurl}}/judges)
+
+Somewhere between a Model UN flashmob and Sid Meier's Hopscotch sits "Sidewalkia," a game that turns the immediate outside into a rich universe growing richer. - [*Kelsey *]({{site.baseurl}}/judges)
+
+This is the game my schoolyard self would have wanted. The game the eight year old in me, unburdened by the hangups of adulthood, would have adored. It may sound insane and weird and unfeasible for the adult world, but so what, play is at its purest when it attacks the silly conventions of adulthood. - [*Maxwell *]({{site.baseurl}}/judges)
+
+Sidewalkia is so cute and fun. I'm going to teach this game to my kids on a walk home from school. I'm going to encourage them to teach their friends at the school yard. This is a game I could see being played for generations among children, and that's really cool. - [*Bronwyn *]({{site.baseurl}}/judges)
+
+### *More Judge Comments Coming Soon!* 
