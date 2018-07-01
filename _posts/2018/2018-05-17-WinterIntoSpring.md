@@ -96,10 +96,10 @@ Thanks to the 200 word reddit for encouragement/feedback.  Was gonna post some a
 
 The idea of cutting magazines for a game about fashion waves is interesting and fresh. - [*Rugerfred*]({{site.baseurl}}/judges)
 
-Is the revolution one of style or merely in style? Are the trend setting-paper dolls merely cultural icons or the remainders of a dying world cobbling together dignity from a pile of scraps? Whatever the context, the mechanic of debuting and appraising clothing before and after upheaval is novel, and suggests deep wealth of story normally left out of the stories of revolution. - [*Kelsey *]({{site.baseurl}}/judges)
+Is the revolution one of style or merely in style? Are the trend setting-paper dolls merely cultural icons or the remainders of a dying world cobbling together dignity from a pile of scraps? Whatever the context, the mechanic of debuting and appraising clothing before and after upheaval is novel, and suggests deep wealth of story normally left out of the stories of revolution. - [*Kelsey*]({{site.baseurl}}/judges)
 
-Fashion, particularly real world fashion, an industry, a culture, a whole media world, might be the most underrated and underutilized subject matter in games. This went there, and went there unapologetically, without fear or handholding. #winterintospring rightly contextualized fashion as a major force in politics and economics. We have seven zillion games about slaying dragons, but not one Commes de Garcon RPG. I love dragons, but this inequity seems wrong. - [*Maxwell *]({{site.baseurl}}/judges)
+Fashion, particularly real world fashion, an industry, a culture, a whole media world, might be the most underrated and underutilized subject matter in games. This went there, and went there unapologetically, without fear or handholding. #winterintospring rightly contextualized fashion as a major force in politics and economics. We have seven zillion games about slaying dragons, but not one Commes de Garcon RPG. I love dragons, but this inequity seems wrong. - [*Maxwell*]({{site.baseurl}}/judges)
 
-This is nice. I like how it offers a criticism of the cutthroat nature of the fashion scene, as well as getting the players to think about what it means for the powerful to become the weak and the weak to become the powerful. - [*Bronwyn *]({{site.baseurl}}/judges)
+This is nice. I like how it offers a criticism of the cutthroat nature of the fashion scene, as well as getting the players to think about what it means for the powerful to become the weak and the weak to become the powerful. - [*Bronwyn*]({{site.baseurl}}/judges)
 
 ### *More Judge Comments Coming Soon!* 

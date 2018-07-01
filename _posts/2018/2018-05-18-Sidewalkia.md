@@ -43,10 +43,10 @@ Huge thanks and love to Drew Mierzejewski for encouragement, feedback, inspirati
 
 A pervasive live-action role-playing games that creatively use part of the architecture and the city around you. If you like the concept of micronations, you can't miss this. - [*Rugerfred*]({{site.baseurl}}/judges)
 
-Somewhere between a Model UN flashmob and Sid Meier's Hopscotch sits "Sidewalkia," a game that turns the immediate outside into a rich universe growing richer. - [*Kelsey *]({{site.baseurl}}/judges)
+Somewhere between a Model UN flashmob and Sid Meier's Hopscotch sits "Sidewalkia," a game that turns the immediate outside into a rich universe growing richer. - [*Kelsey*]({{site.baseurl}}/judges)
 
-This is the game my schoolyard self would have wanted. The game the eight year old in me, unburdened by the hangups of adulthood, would have adored. It may sound insane and weird and unfeasible for the adult world, but so what, play is at its purest when it attacks the silly conventions of adulthood. - [*Maxwell *]({{site.baseurl}}/judges)
+This is the game my schoolyard self would have wanted. The game the eight year old in me, unburdened by the hangups of adulthood, would have adored. It may sound insane and weird and unfeasible for the adult world, but so what, play is at its purest when it attacks the silly conventions of adulthood. - [*Maxwell*]({{site.baseurl}}/judges)
 
-Sidewalkia is so cute and fun. I'm going to teach this game to my kids on a walk home from school. I'm going to encourage them to teach their friends at the school yard. This is a game I could see being played for generations among children, and that's really cool. - [*Bronwyn *]({{site.baseurl}}/judges)
+Sidewalkia is so cute and fun. I'm going to teach this game to my kids on a walk home from school. I'm going to encourage them to teach their friends at the school yard. This is a game I could see being played for generations among children, and that's really cool. - [*Bronwyn*]({{site.baseurl}}/judges)
 
 ### *More Judge Comments Coming Soon!* 
