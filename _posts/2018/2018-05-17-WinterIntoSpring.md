@@ -102,4 +102,6 @@ Fashion, particularly real world fashion, an industry, a culture, a whole media 
 
 This is nice. I like how it offers a criticism of the cutthroat nature of the fashion scene, as well as getting the players to think about what it means for the powerful to become the weak and the weak to become the powerful. - [*Bronwyn*]({{site.baseurl}}/judges)
 
+A brilliant juxtaposition of fashion and politics, with a bonus for fun dressup activities. - [*Jessica*]({{site.baseurl}}/judges)
+
 ### *More Judge Comments Coming Soon!* 

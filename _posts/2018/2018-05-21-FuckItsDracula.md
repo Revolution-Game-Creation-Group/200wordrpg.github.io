@@ -55,3 +55,7 @@ When you try something challenging, roll 1d6 against an appropriate stat. If you
 ## Author Comments 
 
 Author did not add any comments.
+
+## Judge Comments
+
+Fuck, It's Dracula! made me laugh out loud in front of my entire lab; - [*Jessica*]({{site.baseurl}}/judges)

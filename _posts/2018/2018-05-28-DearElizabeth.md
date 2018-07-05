@@ -60,4 +60,6 @@ Beyond simply being a prompt, this was a game where writing is actually controll
 
 I just, I like this so much. It's doing something new with the epistolary game format, it's exploring an underaddressed kind of story, and the addition of the haunting single player mode is just brilliant and adds a whole bunch extra wow factor in a single sentence. - [*Bronwyn*]({{site.baseurl}}/judges)
 
+A subtle, clever game that rewards knowledge of Austen and of the epistolary novel. - [*Jessica*]({{site.baseurl}}/judges)
+
 ### *More Judge Comments Coming Soon!* 

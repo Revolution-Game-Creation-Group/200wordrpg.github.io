@@ -49,4 +49,6 @@ This is the game my schoolyard self would have wanted. The game the eight year o
 
 Sidewalkia is so cute and fun. I'm going to teach this game to my kids on a walk home from school. I'm going to encourage them to teach their friends at the school yard. This is a game I could see being played for generations among children, and that's really cool. - [*Bronwyn*]({{site.baseurl}}/judges)
 
+An elegantly designed callback to childhood play, but with just enough structure to keep adult players engaged. - [*Jessica*]({{site.baseurl}}/judges)
+
 ### *More Judge Comments Coming Soon!* 
