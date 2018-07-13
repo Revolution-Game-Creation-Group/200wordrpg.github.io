@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## 2018 Winners
-The 2018 winners received beautiful layouts each fitting their themes.
+The 2018 winners received beautiful layouts, each fitting their themes.
 <table>
 <tr>
 <td id="centeredText"><a href="https://200wordrpg.github.io/assets/WinterIntoSpring.pdf"><h2>#WinterIntoSpring</h2></a></td>
