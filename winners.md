@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Winners
-Chosen by the [Judges]({{site.baseurl}}/judges), these entries were particularly creative and engaging! There are no 1st, 2nd, or 3rd places, only top three winners in no particular order.
+Chosen by the [Judges]({{site.baseurl}}/judges), these entries were particularly creative and engaging! There are no 1st, 2nd, or 3rd places, only top three winners in no particular order. **Some of the winners received fancy graphic designs that can be found on the [Downloads Page]({{sire.baseurl}}/downloads).**
 
 ### **2018** :&emsp;[#WinterIntoSpring]({% post_url /2018/2018-05-17-WinterIntoSpring %})&emsp;•&emsp;[Dear Elizabeth...]({% post_url /2018/2018-05-28-DearElizabeth %})&emsp;•&emsp;[Sidewalkia!]({% post_url /2018/2018-05-18-Sidewalkia %})
 

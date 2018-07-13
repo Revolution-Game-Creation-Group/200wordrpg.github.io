@@ -30,9 +30,14 @@ layout: default
 
 # 2017 Prizes
 
-## Featured:
-
-|[<img class="prize" src="{{site.url}}/assets/images/prizes/codexneon.png">](http://www.drivethrurpg.com/product/237701/Codex--Neon-Jul-2017)|**The three winning entries received free graphic design, artwork, and layout funded by [The Gauntlet](https://www.patreon.com/gauntlet) and their incredible patrons! You can find them in the [Neon issue](http://www.drivethrurpg.com/product/237701/Codex--Neon-Jul-2017).**|
+<table>
+<tr>
+<td style="width:33%;"><a href="http://www.drivethrurpg.com/product/237701/Codex--Neon-Jul-2017"><img class="prize" src="{{site.url}}/assets/images/prizes/codexneon.png"></a></td>
+<td style="width:50%;">The three winning entries received free graphic design, 
+artwork, and layout funded by <a href="https://www.patreon.com/gauntlet">The Gauntlet</a> and their 
+incredible patrons! You can find them in the <a href="http://www.drivethrurpg.com/product/237701/Codex--Neon-Jul-2017">Neon issue</a>.</td>
+</tr>
+</table>
 
 |**The three winning entries were featured on an episode of [System Mastery](https://systemmasterypodcast.com/2017/05/22/200-word-rpg-challenge-system-mastery-95/)**|**And were also featured on [The Gauntlet Podcast](http://www.gauntlet-rpg.com/the-gauntlet-podcast/episode-104-the-200-word-rpg-challenge).**|
 |[<img class="prize" src="{{site.url}}/assets/images/prizes/systemmaster.jpg">](https://systemmasterypodcast.com/2017/05/22/200-word-rpg-challenge-system-mastery-95/)|[<img class="prize" src="{{site.url}}/assets/images/prizes/gauntlet.png">](http://www.gauntlet-rpg.com/the-gauntlet-podcast/episode-104-the-200-word-rpg-challenge/)|
