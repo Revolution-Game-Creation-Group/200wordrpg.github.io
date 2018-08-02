@@ -30,3 +30,6 @@ All entries will be submitted under the Creative Commons Attribution 4.0 Interna
 Making and sharing a game is a great way to showcase your ideas and connect with new and more experienced game designers. Do you see a game that inspires you? The 200 Word RPG Challenge is a forge for new collaborations! Join the subreddit for discussion, collaboration, and feedback.
 
 <a href="https://www.reddit.com/r/200wordrpg/"><img src="{{site.baseurl}}/assets/images/200wordreddit.png" style="width:50%" alt="200WordRPGReddit.png"></a>
+
+
+[![DianaJones.png]({{site.baseurl}}/assets/images/DianaJones.png)](http://www.dianajonesaward.org/)
