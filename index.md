@@ -16,6 +16,8 @@ A 200 word limit encourages creativity and demands the very best of your editing
 
 Conceiving, designing, and publishing a 200 word game is a great first step toward completing larger game design projects.
 
+This year's challenge is over, but it will return in 2019!
+
 ### Plaintext?
 
 Visual presentation can be a large and scary problem. Very few people are masters of writing, editing, art direction, graphic design, layout, and marketing. It usually takes a village to make a game. We want participants to focus solely on the challenge of creative writing and brutal editing.
