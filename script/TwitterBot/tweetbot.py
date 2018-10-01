@@ -20,7 +20,6 @@ me = api.me()
 # set the default entry
 randomEntry = {"title" : "test","href" : "test","author" : "David Schirduan"}
 
-
 # picks a random entry from the allposts.json
 def pickRandomEntry(randE):
 
@@ -34,7 +33,7 @@ def pickRandomEntry(randE):
 # runs until a random entry that ISN'T news or kintsugi
 def tweetOut(randomE):
     while (randomE['author'] == "David Schirduan"):
-        randomE = pickRandomEntry(randomE);
+        randomE = pickRandomEntry(randomE)
 
     twit = '"' + randomE['title'] + "\" by " + randomE['author'] + " \nis the 200 Word RPG of the Day! \nhttps://200wordrpg.github.io" + randomE['href']
 
@@ -42,11 +41,11 @@ def tweetOut(randomE):
     api.update_status(twit.encode('utf-8').strip())
 
 #Auto-follow new followers
-for follower in tweepy.Cursor(api.followers, id = me.id, count = 190).items():
-    try:
-        follower.follow()
-    except tweepy.error.TweepError:
-        pass
+#for follower in tweepy.Cursor(api.followers, id = me.id, count = 190).items():
+#    try:
+#        follower.follow()
+#    except tweepy.error.TweepError:
+#        pass
 	
 # runs once a day from Heroku servers
 tweetOut(randomEntry)
