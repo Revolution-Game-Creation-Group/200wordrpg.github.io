@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Patreon Explosions. What?
+# Patreon Explosions
 
 The best way to support the Challenge is through our Patreon page. 
 
@@ -10,7 +10,9 @@ The best way to support the Challenge is through our Patreon page.
 
 Every month David Schirduan "explodes" entries with new content, images, layout, and commentary. Each explosion breathes new life into these fantastic games. 
 
-Patreons get early access for just $2 a month. They also get to vote on which entries will be exploded next, and watch livestreams of David struggling with InDesign.
+[![explosionLogoCropped.png](/assets/images/explosionLogoCropped.png)](https://www.patreon.com/davidschirduan)
+
+Patreons get early access for just **$2 a month**. They also get to vote on which entries will be exploded next, and watch livestreams of David struggling with InDesign.
 
 The money raised goes directly into the challenge to purchases prizes, hire artists, and cover misc costs that might crop up.
 
