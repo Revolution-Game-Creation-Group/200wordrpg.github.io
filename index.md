@@ -33,5 +33,10 @@ Making and sharing a game is a great way to showcase your ideas and connect with
 
 <a href="https://www.reddit.com/r/200wordrpg/"><img src="{{site.baseurl}}/assets/images/200wordreddit.png" style="width:50%" alt="200WordRPGReddit.png"></a>
 
+### Support the Challenge
 
-[![DianaJones.png]({{site.baseurl}}/assets/images/DianaJones.png)](http://www.dianajonesaward.org/)
+<a href="https://www.patreon.com/bePatron?u=49285" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
+Every month David Schirduan "explodes" entries with new content, images, layout, and commentary. Each explosion breathes new life into these fantastic games. 
+
+Patreons get early access for just $2 a month. They also get to vote on which entries will be exploded next, and watch livestreams of David struggling with InDesign.
