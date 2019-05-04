@@ -4,7 +4,9 @@ layout: default
 
 # Patreon Explosions
 
-The best way to support the Challenge is through our Patreon page. 
+Unfortunately I'm not QUITE ready to start making these. I hope to jump into them at the end of May, and release one every month. Just gotta get a few things sorted out in my personal life first. SOOOON!
+
+If you join the patreon now, don't worry; **you only get charged when I actually release stuff.**
 
 <a href="https://www.patreon.com/bePatron?u=49285" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
