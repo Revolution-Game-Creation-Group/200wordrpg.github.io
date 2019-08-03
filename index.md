@@ -35,6 +35,8 @@ _Click each date to learn more._
   <p>The three Winners will be announced, and the prizes awarded.</p>
 </details>
 
+<br/>
+
 ## Winner Criteria
 The criteria that Readers and Judges will use to evaluate each entry. All entries submitted are deemed to be role-playing games, and they will be judged on the following merits:
 
