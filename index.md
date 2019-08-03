@@ -8,6 +8,8 @@ This small tabletop game design challenge encourages **everyone** to make a comp
 
 ## 2019 Timeline and Details
 
+_Click each date to learn more._
+
 <details>
   <summary>October 2-12, Submissions Open!</summary>
   <p>Participants will be able to submit one entry between October 2nd, 8:00am EST until October 12, 11:59pm EST.</p>
@@ -32,8 +34,6 @@ This small tabletop game design challenge encourages **everyone** to make a comp
   <summary>November 18, Winners Announced!</summary>
   <p>The three Winners will be announced, and the prizes awarded.</p>
 </details>
-
-_Click each section to learn more._
 
 ## Winner Criteria
 The criteria that Readers and Judges will use to evaluate each entry. All entries submitted are deemed to be role-playing games, and they will be judged on the following merits:
