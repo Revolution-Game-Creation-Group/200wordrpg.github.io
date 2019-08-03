@@ -3,6 +3,26 @@
 
 @import "jekyll-theme-minimal";
 
+/* SPOILER TEXT */
+details p{
+  margin-left: 1.2rem;
+}
+
+summary {
+  cursor: pointer;
+  font-size: 1.2em;
+  &::after {
+    padding-left: 10px;
+  }
+  &::-webkit-details-marker {
+    display: none
+  }
+}
+
+summary:hover{
+  color: #4fb1ba;
+}
+
 h3 {
   line-height: 1.4;
 }

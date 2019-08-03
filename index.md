@@ -6,22 +6,60 @@ layout: default
 
 This small tabletop game design challenge encourages **everyone** to make a complete role-playing game. It's hard to work on a game, and much harder to finish one. This is an opportunity for participants to brainstorm, write, edit, playtest, and polish a game idea from start to finish.
 
-## 2019 Timeline
+## 2019 Timeline and Details
 
-- **May.** Begin the search for Judges, Readers, and Prizes. 
-- **September.** Contest details posted.
-- **October.** The challenge begins!
-- **November.** Winners announced, prizes awarded.
+_Click each section to learn more._
 
-## 2019 Judge Suggestions
+<details>
+  <summary>October 2-12, Submissions Open!</summary>
+  <p>Participants will be able to submit one entry between October 2nd, 8:00am EST until October 12, 11:59pm EST.</p>
+  <p>Entries may not exceed 200 words. Judges will use the <a href="/wordcount">Site Wordcounter</a>. Anything above 200 words will be immediately disqualified. **The title, author name, and so on, will NOT count towards that limit.**</p>
+</details>
+<details>
+  <summary>October 14-26, Readers Vote on Finalists</summary>
+  <p>The entries are split up and assigned to different <a href="/readers">Readers</a>. Every entry will be read by **at least** 2 different Readers. Their top choies will become the Finalists.</p>
+  <p> **As a new feature this year**, every entry that is selected by a Reader will also receive some constructive feedback on their entry. We hope this will add more value to the challenge!</p>
+  <p>The top choice from each Reader earns 5 points, and the next earns 4 points, and so on. It's better to be #3 on two Reader choices than best of a single Reader. The top 50 or so entries with the most points will be the Finalists.</p>
+</details>
+<details>
+  <summary>Oct 28 - Nov 8, Judges Read Finalists</summary>
+  <p>All of the <a href="/judges">Judges</a> will read through ALL of the finalists.</p>
+  <p>Each judge will select their own "Spotlight Award" to be given out to any entry they choose. It could be anything from "Best Action" to "Funniest". These Spotlight awards are completely seperate from the three Winners.</P>
+</details>
+<details>
+  <summary>November 9-17, Judge Meetings</summary>
+  <p>The Judges will attend two online meetings to discuss and select the top three Winners.</p>
+</details>
+<details>
+  <summary>November 18, Winners Announced!</summary>
+  <p>The three Winners will be announced, and the prizes awarded.</p>
+</details>
 
-We are actively searching for a panel of Judges who will help pick this year's winners. **Let us know who you'd like to see on this year's panel!**
+## Winner Criteria
+The criteria that Readers and Judges will use to evaluate each entry. All entries submitted are deemed to be role-playing games, and they will be judged on the following merits:
 
- - Tweet your suggestions to [@200WordRPG](https://twitter.com/200WordRPG)
- - Post in the [200 Word Subreddit](https://www.reddit.com/r/200wordrpg)
- - Email our organizers at **200wordrpg (at) gmail (dot) com**.
+ - **Actionable.** The entry should contain enough description to play the game.
+ - **New and Overlooked Stories.** The entry should encourage its players to tell a new kind of story, a story that has often been overlooked, or a familiar story from a new perspective.
+ - **Engaging.** The game should inspire the reader with ideas and questions. It should make the reader want to play this game as soon as possible.
 
-_Reader applications coming soon (June/July)._
+## 2019 Seeking Prizes
+
+The 200 Word RPG Challenge is a non-profit event. **We are currently seeking generous sponsors to provide the following:**
+
+ - PDFs of various RPG products. (games, supplements, etc)
+ - Services and subscriptions. (magazines, courses, etc.)
+ - Opportunities and Work. (work contracts, featured in magazines, etc.)
+ - Donated funds. (layout of the final collection, hosting fees, etc)
+
+We are especially interested in works from marginalized creators, as these would not only be great prizes, but also allow us to promote more voices in the community.
+
+ - If you are interested donating a prizes, please contact us as via **200wordRPG@gmail.com**.
+ - If you would like to support the challenge financially, join our <a href="https://200wordrpg.github.io/patreon">Patreon for just $2 a month</a>.
+ - Share the challenge to any and all who might be interested! We want EVERYONE to try to make a role-playing game.
+ 
+## 2019 Seeking Readers
+
+More information will be posted soon about Readers!
 
 ## Why 200 Words?
 
