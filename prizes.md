@@ -7,7 +7,7 @@ layout: default
 ## The 3 Winners will receive:
 
 |[<img class="prize" src="{{site.url}}/assets/images/prizes/anvil.png">](https://www.worldanvil.com/)|[<img class="prize" src="{{site.url}}/assets/images/prizes/underground.png">](https://girlunderground.org/)|
-|**6 Months of Grandmaster Membership on [World Anvil](https://www.worldanvil.com/worldbuilders-guild-membership). ($75 value)**|**A physical copy of [Girl Undergound](https://girlunderground.org/).**|
+|**6 Months of Grandmaster Membership on [World Anvil](https://www.worldanvil.com/worldbuilders-guild-membership). ($72 value)**|**A physical copy of [Girl Undergound](https://girlunderground.org/).**|
 
 ## The 50 Finalists will receive a PDF copy of:
 
