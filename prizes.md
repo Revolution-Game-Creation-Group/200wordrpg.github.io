@@ -2,6 +2,23 @@
 layout: default
 ---
 
+# 2019 Prizes
+
+## The 3 Winners will receive:
+
+|[<img class="prize" src="{{site.url}}/assets/images/prizes/anvil.png">](https://www.worldanvil.com/)|[<img class="prize" src="{{site.url}}/assets/images/prizes/underground.png">](https://girlunderground.org/)|
+|**6 Months of Grandmaster Membership on [World Anvil](https://www.worldanvil.com/worldbuilders-guild-membership). ($75 value)**|**A physical copy of [Girl Undergound](https://girlunderground.org/).**|
+
+## The 50 Finalists will receive a PDF copy of:
+
+|[<img class="prize" src="{{site.url}}/assets/images/prizes/dozen.jpg">](https://www.drivethrurpg.com/product/129931/The-Dungeon-Dozen)|
+
+## ALL Participants will receive a PDF of:
+
+|[<img class="prize" src="{{site.url}}/assets/images/prizes/azurth.png">](https://www.drivethrurpg.com/product/221593/Azurth-Adventures-Digest-Issue-1)|
+
+<hr>
+
 # 2018 Prizes
 
 ## 3 Winners:
