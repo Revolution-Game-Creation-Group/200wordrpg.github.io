@@ -10,8 +10,8 @@ layout: default
 |[<img class="prize" src="{{site.url}}/assets/images/prizes/anvil.png">](https://www.worldanvil.com/)|[<img class="prize" src="{{site.url}}/assets/images/prizes/underground.png">](https://girlunderground.org/)|
 |**6 Months of Grandmaster Membership on [World Anvil](https://www.worldanvil.com/worldbuilders-guild-membership). ($72 value)**|**A print copy of [Girl Undergound](https://girlunderground.org/).**|
 
-|[<img class="prize" src="{{site.url}}/assets/images/prizes/torches.png">](https://www.kickstarter.com/projects/sigilstonepublishing/five-torches-deep)|[<img class="prize" src="{{site.url}}/assets/images/prizes/hyper.jpg">](https://mottokrosh.com/hypertellurians/)|[<img class="prize" src="{{site.url}}/assets/images/prizes/omnimyth.jpg">](http://omnimyth.net/)|
-|**[Five Torches Deep](https://www.kickstarter.com/projects/sigilstonepublishing/five-torches-deep) (PDF)**|**Print copy of [Hypertellurians](https://mottokrosh.com/hypertellurians/)**|**Print copy of [Omnimyth](http://omnimyth.net/)**|
+|[<img class="prize" src="{{site.url}}/assets/images/prizes/torches.png">](https://www.kickstarter.com/projects/sigilstonepublishing/five-torches-deep)|[<img class="prize" src="{{site.url}}/assets/images/prizes/hyper.jpg">](https://www.drivethrurpg.com/product/277619/The-Machinations-PRINT-Bundle-1-BUNDLE)|[<img class="prize" src="{{site.url}}/assets/images/prizes/omnimyth.jpg">](http://omnimyth.net/)|
+|**[Five Torches Deep](https://www.kickstarter.com/projects/sigilstonepublishing/five-torches-deep) (PDF)**|**Print copy of the [Mottokrosh Bundle](https://www.drivethrurpg.com/product/277619/The-Machinations-PRINT-Bundle-1-BUNDLE)**|**Print copy of [Omnimyth](http://omnimyth.net/)**|
 
 ## The 50 Finalists will receive:
 
