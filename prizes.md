@@ -7,15 +7,19 @@ layout: default
 ## The 3 Winners will receive:
 
 |[<img class="prize" src="{{site.url}}/assets/images/prizes/anvil.png">](https://www.worldanvil.com/)|[<img class="prize" src="{{site.url}}/assets/images/prizes/underground.png">](https://girlunderground.org/)|
-|**6 Months of Grandmaster Membership on [World Anvil](https://www.worldanvil.com/worldbuilders-guild-membership). ($72 value)**|**A physical copy of [Girl Undergound](https://girlunderground.org/).**|
+|**6 Months of Grandmaster Membership on [World Anvil](https://www.worldanvil.com/worldbuilders-guild-membership). ($72 value)**|**A print copy of [Girl Undergound](https://girlunderground.org/).**|
+|[<img class="prize" src="{{site.url}}/assets/images/prizes/torches.png">](https://www.kickstarter.com/projects/sigilstonepublishing/five-torches-deep)|[<img class="prize" src="{{site.url}}/assets/images/prizes/hyper.jpg">](https://mottokrosh.com/hypertellurians/)|
+|**[Five Torches Deep](https://www.kickstarter.com/projects/sigilstonepublishing/five-torches-deep) (PDF)**|**Print copy of [Hypertellurians](https://mottokrosh.com/hypertellurians/)**|
 
-## The 50 Finalists will receive a PDF copy of:
+## The 50 Finalists will receive:
 
-|[<img class="prize" src="{{site.url}}/assets/images/prizes/dozen.jpg">](https://www.drivethrurpg.com/product/129931/The-Dungeon-Dozen)|
+|[<img class="prize" src="{{site.url}}/assets/images/prizes/dozen.jpg">](https://www.drivethrurpg.com/product/129931/The-Dungeon-Dozen)|[<img class="prize" src="{{site.url}}/assets/images/prizes/clink.png">](https://www.drivethrurpg.com/product/236659/Clink-RPG)|
+|**[The Dungeon Dozen](https://www.drivethrurpg.com/product/129931/The-Dungeon-Dozen) (PDF)**|**[The Clink](https://www.drivethrurpg.com/product/236659/Clink-RPG) (PDF)**|
 
-## ALL Participants will receive a PDF of:
+## ALL Participants will receive:
 
 |[<img class="prize" src="{{site.url}}/assets/images/prizes/azurth.png">](https://www.drivethrurpg.com/product/221593/Azurth-Adventures-Digest-Issue-1)|
+|**[Azurth Adventures #1](https://www.drivethrurpg.com/product/221593/Azurth-Adventures-Digest-Issue-1) (PDF)**|
 
 <hr>
 
