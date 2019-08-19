@@ -6,10 +6,12 @@ layout: default
 
 ## The 3 Winners will receive:
 
+|**Fancy layout by [Brian Ericson](https://twitter.com/Liefbread).**<br>He will be [streaming his work on twitch.tv](https://www.twitch.tv/liefbread), and the winners can offer feedback and guidance throughout the process. Or just watch their entries come to life! The final layout will be made freely available on the [Downloads page](/downloads).|[<img class="prize" src="{{site.url}}/assets/images/prizes/lief.png">](https://twitter.com/Liefbread)|
 |[<img class="prize" src="{{site.url}}/assets/images/prizes/anvil.png">](https://www.worldanvil.com/)|[<img class="prize" src="{{site.url}}/assets/images/prizes/underground.png">](https://girlunderground.org/)|
 |**6 Months of Grandmaster Membership on [World Anvil](https://www.worldanvil.com/worldbuilders-guild-membership). ($72 value)**|**A print copy of [Girl Undergound](https://girlunderground.org/).**|
-|[<img class="prize" src="{{site.url}}/assets/images/prizes/torches.png">](https://www.kickstarter.com/projects/sigilstonepublishing/five-torches-deep)|[<img class="prize" src="{{site.url}}/assets/images/prizes/hyper.jpg">](https://mottokrosh.com/hypertellurians/)|
-|**[Five Torches Deep](https://www.kickstarter.com/projects/sigilstonepublishing/five-torches-deep) (PDF)**|**Print copy of [Hypertellurians](https://mottokrosh.com/hypertellurians/)**|
+
+|[<img class="prize" src="{{site.url}}/assets/images/prizes/torches.png">](https://www.kickstarter.com/projects/sigilstonepublishing/five-torches-deep)|[<img class="prize" src="{{site.url}}/assets/images/prizes/hyper.jpg">](https://mottokrosh.com/hypertellurians/)|[<img class="prize" src="{{site.url}}/assets/images/prizes/omnimyth.jpg">](http://omnimyth.net/)|
+|**[Five Torches Deep](https://www.kickstarter.com/projects/sigilstonepublishing/five-torches-deep) (PDF)**|**Print copy of [Hypertellurians](https://mottokrosh.com/hypertellurians/)**|**Print copy of [Omnimyth](http://omnimyth.net/)**|
 
 ## The 50 Finalists will receive:
 
