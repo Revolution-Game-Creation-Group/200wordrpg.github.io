@@ -14,7 +14,7 @@ layout: default
 ## The 50 Finalists will receive:
 
 |[<img class="prize" src="{{site.url}}/assets/images/prizes/dozen.jpg">](https://www.drivethrurpg.com/product/129931/The-Dungeon-Dozen)|[<img class="prize" src="{{site.url}}/assets/images/prizes/clink.png">](https://www.drivethrurpg.com/product/236659/Clink-RPG)|
-|**[The Dungeon Dozen](https://www.drivethrurpg.com/product/129931/The-Dungeon-Dozen) (PDF)**|**[The Clink](https://www.drivethrurpg.com/product/236659/Clink-RPG) (PDF)**|
+|**[The Dungeon Dozen](https://www.drivethrurpg.com/product/129931/The-Dungeon-Dozen) (PDF)**|**[Clink](https://www.drivethrurpg.com/product/236659/Clink-RPG) (PDF)**|
 
 ## ALL Participants will receive:
 
