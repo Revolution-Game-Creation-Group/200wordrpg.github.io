@@ -7,11 +7,21 @@ layout: default
 ## The 3 Winners will receive:
 
 |**Fancy layout by [Brian Ericson](https://twitter.com/Liefbread).**<br>He will be [streaming his work on twitch.tv](https://www.twitch.tv/liefbread), and the winners can offer feedback and guidance throughout the process. Or just watch their entries come to life! The final layout will be made freely available on the [Downloads page](/downloads).|[<img class="prize" src="{{site.url}}/assets/images/prizes/lief.png">](https://twitter.com/Liefbread)|
-|[<img class="prize" src="{{site.url}}/assets/images/prizes/anvil.png">](https://www.worldanvil.com/)|[<img class="prize" src="{{site.url}}/assets/images/prizes/underground.png">](https://girlunderground.org/)|
+|[<img class="prize" src="{{site.url}}/assets/images/prizes/World-anvil.png">](https://www.worldanvil.com/)|[<img class="prize" src="{{site.url}}/assets/images/prizes/underground.png">](https://girlunderground.org/)|
 |**6 Months of Grandmaster Membership on [World Anvil](https://www.worldanvil.com/worldbuilders-guild-membership). ($72 value)**|**A print copy of [Girl Undergound](https://girlunderground.org/).**|
+
+|**A Potion of Dice** made by a generous redditor!|<img class="prize" src="{{site.url}}/assets/images/prizes/potiondice.jpg">|
+
+|[<img src="{{site.url}}/assets/images/prizes/katebullock.jpg">](http://www.bluestockings.ca/p/who-am-i.html)|**1 Hour of Professional Consultation** from the incredible [Kate Bullock](http://www.bluestockings.ca/p/who-am-i.html). Her expertise revolves around safety/inclusion editing, dev editing, game development, kickstarter consultation, and networking.|
+
+|[<img class="prize" src="{{site.url}}/assets/images/prizes/blackgreen.jpg">](http://www.blackgreengames.com/about)|**Half Hour of Professional Consultation** about game or business development by [Emily Care Boss](http://www.blackgreengames.com/about).|
 
 |[<img class="prize" src="{{site.url}}/assets/images/prizes/torches.png">](https://www.kickstarter.com/projects/sigilstonepublishing/five-torches-deep)|[<img class="prize" src="{{site.url}}/assets/images/prizes/hyper.jpg">](https://www.drivethrurpg.com/product/277619/The-Machinations-PRINT-Bundle-1-BUNDLE)|[<img class="prize" src="{{site.url}}/assets/images/prizes/omnimyth.jpg">](http://omnimyth.net/)|
 |**[Five Torches Deep](https://www.kickstarter.com/projects/sigilstonepublishing/five-torches-deep) (PDF)**|**Print copy of the [Mottokrosh Bundle](https://www.drivethrurpg.com/product/277619/The-Machinations-PRINT-Bundle-1-BUNDLE)**|**Print copy of [Omnimyth](http://omnimyth.net/)**|
+|[<img class="prize" src="{{site.url}}/assets/images/prizes/deadfriend.png">](https://www.drivethrurpg.com/product/234653/Dead-Friend-A-Game-of-Necromancy)|[<img class="prize" src="{{site.url}}/assets/images/prizes/fnb-bestiary.png">](https://21xdesign.com/imbelnhis-bestiary/)|[<img class="prize" src="{{site.url}}/assets/images/prizes/beyonder.png">](https://fnbgames.com/blog/beyonder-the-science-of-the-six/)|
+|**[Dead Friend: A Game of Necromancy](https://www.drivethrurpg.com/product/234653/Dead-Friend-A-Game-of-Necromancy) (PDF)**|**[Imbelnhi’s Bestiary](https://21xdesign.com/imbelnhis-bestiary/) (PDF)**|**[The Beyonder](https://fnbgames.com/blog/beyonder-the-science-of-the-six/) (PDF)**|
+|[<img class="prize" src="{{site.url}}/assets/images/prizes/alice-black.jpg">](http://www.lulu.com/shop/chris-challice/alice-black-blood-tribute/ebook/product-23115273.html)|
+|**[Alice Black: Blood Tribute](http://www.lulu.com/shop/chris-challice/alice-black-blood-tribute/ebook/product-23115273.html) (PDF)**|
 
 ## The 50 Finalists will receive:
 
