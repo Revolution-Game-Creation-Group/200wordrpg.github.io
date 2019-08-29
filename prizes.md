@@ -12,9 +12,10 @@ layout: default
 
 |**A Potion of Dice** made by a generous redditor!|<img class="prize" src="{{site.url}}/assets/images/prizes/potiondice.jpg">|
 
-|[<img src="{{site.url}}/assets/images/prizes/katebullock.jpg">](http://www.bluestockings.ca/p/who-am-i.html)|**1 Hour of Professional Consultation** from the incredible [Kate Bullock](http://www.bluestockings.ca/p/who-am-i.html). Her expertise revolves around safety/inclusion editing, dev editing, game development, kickstarter consultation, and networking.|
-
-|[<img class="prize" src="{{site.url}}/assets/images/prizes/blackgreen.jpg">](http://www.blackgreengames.com/about)|**Half Hour of Professional Consultation** about game or business development by [Emily Care Boss](http://www.blackgreengames.com/about).|
+**2.5 hours of Professional Game Development Consultation**:
+ - 1 Hour from [**Kate Bullock**](http://www.bluestockings.ca/p/who-am-i.html). Her expertise revolves around safety/inclusion editing, dev editing, game development, kickstarter consultation, and networking.
+ - 1 Hour from [**Shoe Skogan**](http://www.tatterhood.net/) for proofreading, brainstorming, or friendly critique.
+ - Half Hour from [**Emily Care Boss**](http://www.blackgreengames.com/about) about game or business development.
 
 |[<img class="prize" src="{{site.url}}/assets/images/prizes/torches.png">](https://www.kickstarter.com/projects/sigilstonepublishing/five-torches-deep)|[<img class="prize" src="{{site.url}}/assets/images/prizes/hyper.jpg">](https://www.drivethrurpg.com/product/277619/The-Machinations-PRINT-Bundle-1-BUNDLE)|[<img class="prize" src="{{site.url}}/assets/images/prizes/omnimyth.jpg">](http://omnimyth.net/)|
 |**[Five Torches Deep](https://www.kickstarter.com/projects/sigilstonepublishing/five-torches-deep) (PDF)**|**Print copy of the [Mottokrosh Bundle](https://www.drivethrurpg.com/product/277619/The-Machinations-PRINT-Bundle-1-BUNDLE)**|**Print copy of [Omnimyth](http://omnimyth.net/)**|
