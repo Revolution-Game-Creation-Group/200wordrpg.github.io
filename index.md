@@ -43,21 +43,6 @@ The criteria that Readers and Judges will use to evaluate each entry. All entrie
  - **Actionable.** The entry should contain enough description to play the game.
  - **New and Overlooked Stories.** The entry should encourage its players to tell a new kind of story, a story that has often been overlooked, or a familiar story from a new perspective.
  - **Engaging.** The game should inspire the reader with ideas and questions. It should make the reader want to play this game as soon as possible.
-
-## 2019 Seeking Prizes
-
-The 200 Word RPG Challenge is a non-profit event. **We are currently seeking generous sponsors to provide the following:**
-
- - PDFs of various RPG products. (games, supplements, etc)
- - Services and subscriptions. (magazines, courses, etc.)
- - Opportunities and Work. (work contracts, featured in magazines, etc.)
- - Donated funds. (layout of the final collection, hosting fees, etc)
-
-We are especially interested in works from marginalized creators, as these would not only be great prizes, but also allow us to promote more voices in the community.
-
- - If you are interested donating a prizes, please contact us as via **200wordRPG@gmail.com**.
- - If you would like to support the challenge financially, join our <a href="https://200wordrpg.github.io/patreon">Patreon for just $2 a month</a>.
- - Share the challenge to any and all who might be interested! We want EVERYONE to try to make a role-playing game.
  
 ## 2019 Seeking Readers
 
