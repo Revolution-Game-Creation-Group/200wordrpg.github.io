@@ -16,24 +16,30 @@ layout: default
 |**[Five Torches Deep](https://www.kickstarter.com/projects/sigilstonepublishing/five-torches-deep) (PDF)**|**Print copy of the [Mottokrosh Bundle](https://www.drivethrurpg.com/product/277619/The-Machinations-PRINT-Bundle-1-BUNDLE)**|**Print copy of [Omnimyth](http://omnimyth.net/)**|
 |[<img class="prize" src="{{site.url}}/assets/images/prizes/deadfriend.png">](https://www.drivethrurpg.com/product/234653/Dead-Friend-A-Game-of-Necromancy)|[<img class="prize" src="{{site.url}}/assets/images/prizes/fnb-bestiary.png">](https://21xdesign.com/imbelnhis-bestiary/)|[<img class="prize" src="{{site.url}}/assets/images/prizes/beyonder.png">](https://fnbgames.com/blog/beyonder-the-science-of-the-six/)|
 |**[Dead Friend: A Game of Necromancy](https://www.drivethrurpg.com/product/234653/Dead-Friend-A-Game-of-Necromancy) (PDF)**|**[Imbelnhi’s Bestiary](https://21xdesign.com/imbelnhis-bestiary/) (PDF)**|**[The Beyonder](https://fnbgames.com/blog/beyonder-the-science-of-the-six/) (PDF)**|
-|[<img class="prize" src="{{site.url}}/assets/images/prizes/alice-black.jpg">](http://www.lulu.com/shop/chris-challice/alice-black-blood-tribute/ebook/product-23115273.html)|[<img class="prize" src="{{site.url}}/assets/images/prizes/capers.png">](https://www.drivethrurpg.com/product/246744/Capers-Rpg)|
-|**[Alice Black: Blood Tribute](http://www.lulu.com/shop/chris-challice/alice-black-blood-tribute/ebook/product-23115273.html) (PDF)**|**[Capers RPG](https://www.drivethrurpg.com/product/246744/Capers-Rpg) (PDF)**|
+|[<img class="prize" src="{{site.url}}/assets/images/prizes/alice-black.jpg">](http://www.lulu.com/shop/chris-challice/alice-black-blood-tribute/ebook/product-23115273.html)|[<img class="prize" src="{{site.url}}/assets/images/prizes/capers.png">](https://www.drivethrurpg.com/product/246744/Capers-Rpg)|[<img class="prize" src="{{site.url}}/assets/images/prizes/making_history.png">](https://www.kickstarter.com/projects/1395430458/making-history-three-one-session-rpgs)|
+|**[Alice Black: Blood Tribute](http://www.lulu.com/shop/chris-challice/alice-black-blood-tribute/ebook/product-23115273.html) (PDF)**|**[Capers RPG](https://www.drivethrurpg.com/product/246744/Capers-Rpg) (PDF)**|**[Making History](https://www.kickstarter.com/projects/1395430458/making-history-three-one-session-rpgs) (PDF)**|
 
 **AND 2.5 hours of Professional Game Development Consultation**:
  - 1 Hour from [**Kate Bullock**](http://www.bluestockings.ca/p/who-am-i.html). Her expertise revolves around safety/inclusion editing, dev editing, game development, kickstarter consultation, and networking.
  - 1 Hour from [**Shoe Skogan**](http://www.tatterhood.net/) for proofreading, brainstorming, or friendly critique.
  - Half Hour from [**Emily Care Boss**](http://www.blackgreengames.com/about) about game or business development.
 
-
 ## The 50 Finalists will receive:
 
 |[<img class="prize" src="{{site.url}}/assets/images/prizes/dozen.jpg">](https://www.drivethrurpg.com/product/129931/The-Dungeon-Dozen)|[<img class="prize" src="{{site.url}}/assets/images/prizes/clink.png">](https://www.drivethrurpg.com/product/236659/Clink-RPG)|[<img class="prize" src="{{site.url}}/assets/images/prizes/dielaugh.png">](https://www.drivethrurpg.com/product/263554/Die-Laughing)|
 |**[The Dungeon Dozen](https://www.drivethrurpg.com/product/129931/The-Dungeon-Dozen) (PDF)**|**[Clink](https://www.drivethrurpg.com/product/236659/Clink-RPG) (PDF)**|**[Die Laughing](https://www.drivethrurpg.com/product/263554/Die-Laughing) (PDF)**|
+||[<img class="prize" src="{{site.url}}/assets/images/prizes/archive.png">](https://www.drivethrurpg.com/product/214950/Archive-Historical-People-Places-and-Events-for-RPGs)||
+||**[Archive](https://www.drivethrurpg.com/product/214950/Archive-Historical-People-Places-and-Events-for-RPGs) (PDF)**||
 
 ## ALL Participants will receive:
 
 |[<img class="prize" src="{{site.url}}/assets/images/prizes/azurth.png">](https://www.drivethrurpg.com/product/221593/Azurth-Adventures-Digest-Issue-1)|
 |**[Azurth Adventures #1](https://www.drivethrurpg.com/product/221593/Azurth-Adventures-Digest-Issue-1) (PDF)**|
+
+## Our Hardworking Readers will receive:
+
+||[<img class="prize" src="{{site.url}}/assets/images/prizes/archive.png">](https://www.drivethrurpg.com/product/214950/Archive-Historical-People-Places-and-Events-for-RPGs)||
+||**[Archive](https://www.drivethrurpg.com/product/214950/Archive-Historical-People-Places-and-Events-for-RPGs) (PDF)**||
 
 <hr>
 
