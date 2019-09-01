@@ -20,9 +20,9 @@ layout: default
 |**[Alice Black: Blood Tribute](http://www.lulu.com/shop/chris-challice/alice-black-blood-tribute/ebook/product-23115273.html) (PDF)**|**[Capers RPG](https://www.drivethrurpg.com/product/246744/Capers-Rpg) (PDF)**|**[Making History](https://www.kickstarter.com/projects/1395430458/making-history-three-one-session-rpgs) (PDF)**|
 
 **AND 2.5 hours of Professional Game Development Consultation**:
- - 1 Hour from [**Kate Bullock**](http://www.bluestockings.ca/p/who-am-i.html). Her expertise revolves around safety/inclusion editing, dev editing, game development, kickstarter consultation, and networking.
- - 1 Hour from [**Shoe Skogan**](http://www.tatterhood.net/) for proofreading, brainstorming, or friendly critique.
- - Half Hour from [**Emily Care Boss**](http://www.blackgreengames.com/about) about game or business development.
+ - 1 Hour from **[Kate Bullock](http://www.bluestockings.ca/p/who-am-i.html)**. Her expertise revolves around safety/inclusion editing, dev editing, game development, kickstarter consultation, and networking.
+ - 1 Hour from **[Shoe Skogan](http://www.tatterhood.net/)** for proofreading, brainstorming, or friendly critique.
+ - Half Hour from **[Emily Care Boss](http://www.blackgreengames.com/about)** about game or business development.
 
 ## The 50 Finalists will receive:
 
