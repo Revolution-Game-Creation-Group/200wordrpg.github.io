@@ -10,8 +10,7 @@ layout: default
 |[<img class="prize" src="{{site.url}}/assets/images/prizes/World-anvil.png">](https://www.worldanvil.com/)|[<img class="prize" src="{{site.url}}/assets/images/prizes/underground.png">](https://girlunderground.org/)|
 |**6 Months of Grandmaster Membership on [World Anvil](https://www.worldanvil.com/worldbuilders-guild-membership). ($72 value)**|**A print copy of [Girl Undergound](https://girlunderground.org/).**|
 
-|**A Potion of Dice** made by a generous redditor!|<img class="prize" src="{{site.url}}/assets/images/prizes/potiondice.jpg">|
-
+||**A Potion of Dice** made by a generous redditor!|<img class="prize" src="{{site.url}}/assets/images/prizes/potiondice.jpg">|
 |[<img class="prize" src="{{site.url}}/assets/images/prizes/torches.png">](https://www.kickstarter.com/projects/sigilstonepublishing/five-torches-deep)|[<img class="prize" src="{{site.url}}/assets/images/prizes/hyper.jpg">](https://www.drivethrurpg.com/product/277619/The-Machinations-PRINT-Bundle-1-BUNDLE)|[<img class="prize" src="{{site.url}}/assets/images/prizes/omnimyth.jpg">](http://omnimyth.net/)|
 |**[Five Torches Deep](https://www.kickstarter.com/projects/sigilstonepublishing/five-torches-deep) (PDF)**|**Print copy of the [Mottokrosh Bundle](https://www.drivethrurpg.com/product/277619/The-Machinations-PRINT-Bundle-1-BUNDLE)**|**Print copy of [Omnimyth](http://omnimyth.net/)**|
 |[<img class="prize" src="{{site.url}}/assets/images/prizes/deadfriend.png">](https://www.drivethrurpg.com/product/234653/Dead-Friend-A-Game-of-Necromancy)|[<img class="prize" src="{{site.url}}/assets/images/prizes/fnb-bestiary.png">](https://21xdesign.com/imbelnhis-bestiary/)|[<img class="prize" src="{{site.url}}/assets/images/prizes/beyonder.png">](https://fnbgames.com/blog/beyonder-the-science-of-the-six/)|
