@@ -6,6 +6,16 @@ layout: default
 
 This small tabletop game design challenge encourages **everyone** to make a complete role-playing game. It's hard to work on a game, and much harder to finish one. This is an opportunity for participants to brainstorm, write, edit, playtest, and polish a game idea from start to finish.
 
+## Ethics & Inclusivity
+
+The 200 Word RPG Challenge is a small contest with small stakes where you design small games to win small prizes. It's an inclusive contest that welcomes the submissions of game designers from all walks of life and designers from marginalized communities are especially encouraged to participate! We want to make this a space that is safe for first-time designers, marginalized designers, and designers who struggle in structural and personal ways. Whoever you are, wherever you come from, we're happy to have you.
+
+Helping everyone to feel welcome means working together to help everyone feel safe and treating others with consideration and respect. Harassment, intimidation, and hate speech are not acceptable. We will not tolerate discrimination based on race, religion, sex, gender identity, sexual preference, mental health and ability, physical health and ability, size, ethnicity, nationality, or refugee status. The organizers reserve the right to refuse contest submissions, prize donations, and service offers based on these values. 
+
+If you have any questions or concerns, please contact our organizers at **200wordrpg@gmail.com**.
+
+Also for the first time this year we allow entries to include Content Warnings. We hope this will make the challenge safer for everyone to enjoy.
+
 ## 2019 Timeline and Details
 
 _Click each date to learn more._
@@ -36,6 +46,16 @@ _Click each date to learn more._
 </details>
 
 <br/>
+ 
+## 2019 Seeking Readers!
+
+In addition to our panel of Judges, we rely on a team of Readers to help narrow down the entries and select the winners.
+
+If you are interested in being a Reader, please fill out [**The Application Form**](https://docs.google.com/forms/d/e/1FAIpQLSc4o6DSVXGE35JYl6RTIe_gRkGpzUfxxJIuZy7x3rC1KVVa5w/viewform?usp=sf_link).
+
+As a Reader you'll be assigned a number of entries to evaluate; from those you select your top 5 entries. Finalists are determined by the choices Reader's make. In the past most Readers took about 10 hours to read through and make their selections.
+
+Readers play a valuable role in this event, and we're glad to reward our hard-working readers with a PDF of [Archive](https://www.drivethrurpg.com/product/214950/Archive-Historical-People-Places-and-Events-for-RPGs) as well as access to the [200 Word Patreon](https://www.patreon.com/davidschirduan) releases.
 
 ## Winner Criteria
 The criteria that Readers and Judges will use to evaluate each entry. All entries submitted are deemed to be role-playing games, and they will be judged on the following merits:
@@ -43,10 +63,6 @@ The criteria that Readers and Judges will use to evaluate each entry. All entrie
  - **Actionable.** The entry should contain enough description to play the game.
  - **New and Overlooked Stories.** The entry should encourage its players to tell a new kind of story, a story that has often been overlooked, or a familiar story from a new perspective.
  - **Engaging.** The game should inspire the reader with ideas and questions. It should make the reader want to play this game as soon as possible.
- 
-## 2019 Seeking Readers
-
-More information will be posted soon about Readers!
 
 ## Why 200 Words?
 
@@ -59,7 +75,7 @@ Conceiving, designing, and publishing a 200 word game is a great first step towa
 Visual presentation can be a large and scary problem. Very few people are masters of writing, editing, art direction, graphic design, layout, and marketing. It usually takes a village to make a game. We want participants to focus solely on the challenge of creative writing and brutal editing.
 
 ## Licensing and Ownership
-Each entry will be publicly posted [on this page]({{site.baseurl}}/2018entries). We reserve the right to reject entries that we consider to be inappropriate or offensive. All entries will be submitted under the Creative Commons Attribution 4.0 International (CC BY 4.0) License. [More info here]({{site.baseurl}}/licensing).
+Each entry will be publicly posted [on this page]({{site.baseurl}}/2019entries). We reserve the right to reject entries that we consider to be inappropriate or offensive. All entries will be submitted under the Creative Commons Attribution 4.0 International (CC BY 4.0) License. [More info here]({{site.baseurl}}/licensing).
 
 ## News & Updates
 
