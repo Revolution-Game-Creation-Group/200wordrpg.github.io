@@ -47,7 +47,7 @@ _Click each date to learn more._
 
 <br/>
  
-## 2019 Seeking Readers!
+## We Need Readers!
 
 In addition to our panel of Judges, we rely on a team of Readers to help narrow down the entries and select the winners. **You can be a Reader and still submit an entry!** We'll make sure you don't get assigned your own entry.
 

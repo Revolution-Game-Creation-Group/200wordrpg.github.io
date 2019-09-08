@@ -18,6 +18,8 @@ layout: default
 |**[Dead Friend: A Game of Necromancy](https://www.drivethrurpg.com/product/234653/Dead-Friend-A-Game-of-Necromancy) (PDF)**|**[Imbelnhi’s Bestiary](https://21xdesign.com/imbelnhis-bestiary/) (PDF)**|**[The Beyonder](https://fnbgames.com/blog/beyonder-the-science-of-the-six/) (PDF)**|
 |[<img class="prize" src="{{site.url}}/assets/images/prizes/alice-black.jpg">](http://www.lulu.com/shop/chris-challice/alice-black-blood-tribute/ebook/product-23115273.html)|[<img class="prize" src="{{site.url}}/assets/images/prizes/capers.png">](https://www.drivethrurpg.com/product/246744/Capers-Rpg)|[<img class="prize" src="{{site.url}}/assets/images/prizes/making_history.png">](https://www.kickstarter.com/projects/1395430458/making-history-three-one-session-rpgs)|
 |**[Alice Black: Blood Tribute](http://www.lulu.com/shop/chris-challice/alice-black-blood-tribute/ebook/product-23115273.html) (PDF)**|**[Capers RPG](https://www.drivethrurpg.com/product/246744/Capers-Rpg) (PDF)**|**[Making History](https://www.kickstarter.com/projects/1395430458/making-history-three-one-session-rpgs) (PDF)**|
+|[<img class="prize" src="{{site.url}}/assets/images/prizes/itisforbidden.png">](https://www.tinstargames.com/it-is-forbidden.html#/)|||
+|**[It Is Forbidden](https://www.tinstargames.com/it-is-forbidden.html#/) (PDF)**|||
 
 **AND 2.5 hours of Professional Game Development Consultation**:
  - 1 Hour from **[Kate Bullock](http://www.bluestockings.ca/p/who-am-i.html)**. Her expertise revolves around safety/inclusion editing, dev editing, game development, kickstarter consultation, and networking.
@@ -28,8 +30,8 @@ layout: default
 
 |[<img class="prize" src="{{site.url}}/assets/images/prizes/dozen.jpg">](https://www.drivethrurpg.com/product/129931/The-Dungeon-Dozen)|[<img class="prize" src="{{site.url}}/assets/images/prizes/clink.png">](https://www.drivethrurpg.com/product/236659/Clink-RPG)|[<img class="prize" src="{{site.url}}/assets/images/prizes/dielaugh.png">](https://www.drivethrurpg.com/product/263554/Die-Laughing)|
 |**[The Dungeon Dozen](https://www.drivethrurpg.com/product/129931/The-Dungeon-Dozen) (PDF)**|**[Clink](https://www.drivethrurpg.com/product/236659/Clink-RPG) (PDF)**|**[Die Laughing](https://www.drivethrurpg.com/product/263554/Die-Laughing) (PDF)**|
-||[<img class="prize" src="{{site.url}}/assets/images/prizes/archive.png">](https://www.drivethrurpg.com/product/214950/Archive-Historical-People-Places-and-Events-for-RPGs)||
-||**[Archive](https://www.drivethrurpg.com/product/214950/Archive-Historical-People-Places-and-Events-for-RPGs) (PDF)**||
+|[<img class="prize" src="{{site.url}}/assets/images/prizes/thetinstar.png">](https://www.tinstargames.com/the-tin-star.html)|[<img class="prize" src="{{site.url}}/assets/images/prizes/archive.png">](https://www.drivethrurpg.com/product/214950/Archive-Historical-People-Places-and-Events-for-RPGs)||
+|**[The Tin Star](https://www.tinstargames.com/the-tin-star.html) (PDF)**|**[Archive](https://www.drivethrurpg.com/product/214950/Archive-Historical-People-Places-and-Events-for-RPGs) (PDF)**||
 
 ## ALL Participants will receive:
 
@@ -38,8 +40,8 @@ layout: default
 
 ## Our Hardworking Readers will receive:
 
-||[<img class="prize" src="{{site.url}}/assets/images/prizes/archive.png">](https://www.drivethrurpg.com/product/214950/Archive-Historical-People-Places-and-Events-for-RPGs)||
-||**[Archive](https://www.drivethrurpg.com/product/214950/Archive-Historical-People-Places-and-Events-for-RPGs) (PDF)**||
+|[<img class="prize" src="{{site.url}}/assets/images/prizes/afraidofthedark.png">](https://www.tinstargames.com/afraid-of-the-dark.html)|[<img class="prize" src="{{site.url}}/assets/images/prizes/archive.png">](https://www.drivethrurpg.com/product/214950/Archive-Historical-People-Places-and-Events-for-RPGs)||
+|**[Afraid of the Dark](https://www.tinstargames.com/afraid-of-the-dark.html#/) (PDF)**|**[Archive](https://www.drivethrurpg.com/product/214950/Archive-Historical-People-Places-and-Events-for-RPGs) (PDF)**||
 
 <hr>
 
