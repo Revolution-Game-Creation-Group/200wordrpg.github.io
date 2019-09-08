@@ -9,7 +9,7 @@ If you are interested in being a Reader, please fill out **[The Application Form
 
 As a Reader you'll be assigned a number of entries to evaluate; from those you select your top 5 entries. Finalists are determined by the choices Reader's make. In the past most Readers took about 10 hours to read through and make their selections.
 
-Readers play a valuable role in this event, and we're glad to reward our hard-working readers with a PDF of [Archive](https://www.drivethrurpg.com/product/214950/Archive-Historical-People-Places-and-Events-for-RPGs) as well as access to the [200 Word Patreon](https://www.patreon.com/davidschirduan) releases.
+Readers play a valuable role in this event, and we're glad to reward our hard-working readers with some [cool prizes](/prizes)!.
 
 ## 2018 Readers
 

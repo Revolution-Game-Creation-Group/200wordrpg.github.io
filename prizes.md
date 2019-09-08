@@ -40,8 +40,8 @@ layout: default
 
 ## Our Hardworking Readers will receive:
 
-|[<img class="prize" src="{{site.url}}/assets/images/prizes/afraidofthedark.png">](https://www.tinstargames.com/afraid-of-the-dark.html)|[<img class="prize" src="{{site.url}}/assets/images/prizes/archive.png">](https://www.drivethrurpg.com/product/214950/Archive-Historical-People-Places-and-Events-for-RPGs)||
-|**[Afraid of the Dark](https://www.tinstargames.com/afraid-of-the-dark.html#/) (PDF)**|**[Archive](https://www.drivethrurpg.com/product/214950/Archive-Historical-People-Places-and-Events-for-RPGs) (PDF)**||
+|[<img class="prize" src="{{site.url}}/assets/images/prizes/afraidofthedark.png">](https://www.tinstargames.com/afraid-of-the-dark.html)|[<img class="prize" src="{{site.url}}/assets/images/prizes/archive.png">](https://www.drivethrurpg.com/product/214950/Archive-Historical-People-Places-and-Events-for-RPGs)|[<img class="prize" src="{{site.url}}/assets/explosions/explosionLogo.png">](https://www.patreon.com/davidschirduan)|
+|**[Afraid of the Dark](https://www.tinstargames.com/afraid-of-the-dark.html#/) (PDF)**|**[Archive](https://www.drivethrurpg.com/product/214950/Archive-Historical-People-Places-and-Events-for-RPGs) (PDF)**|**[3 Months Patreon Access](https://www.patreon.com/davidschirduan)**|
 
 <hr>
 
