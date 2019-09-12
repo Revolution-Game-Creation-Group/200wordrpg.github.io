@@ -12,6 +12,8 @@ layout: default
 
 The 200 Word Challenge exists to promote encouragement and collaberation. It is NOT a place to find the "best" games in the world. When you submit to the challenge you do so with the understanding that others may re-use your work however they choose, **even for monetary gain**. Don't submit anything you wouldn't want others to use or build upon.
 
+We also enforce CC so that we can freely host entries on the website and tweak them for [the Patreon](https://www.patreon.com/davidschirduan).
+
 However, there are some huge benefits to submitting your entry under Creative Commons:
 
 ### The work must be attributed and it must provide a link back to the copyright holder.
@@ -32,6 +34,6 @@ Creators can reach out to one another and build something new, even if they didn
 
 ### No Pressure
 
-If you have a darling idea that will pay the rent and feed your family, **do not** give up on that opportunity! Seriously, go make it big! I wish you all the luck.
+If you have a darling idea that will pay the rent and feed your family, **do not** submit it to this challenge! Turn that into a kickstarter and make some money! I wish you all the luck.
 
 But if you are looking to throw a new idea out into the world and see what happens, the 200 Word RPG Challenge is a great place to start.
