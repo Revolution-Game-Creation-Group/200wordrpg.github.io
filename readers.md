@@ -5,7 +5,7 @@ layout: default
 
 In addition to our panel of Judges, we rely on a team of Readers to help narrow down the entries and select the winners. **You can be a Reader and still submit an entry!** We'll make sure you don't get assigned your own entry.
 
-If you are interested in being a Reader, please fill out **[The Application Form](https://docs.google.com/forms/d/e/1FAIpQLSc4o6DSVXGE35JYl6RTIe_gRkGpzUfxxJIuZy7x3rC1KVVa5w/viewform?usp=sf_link)**.
+If you are interested in being a Reader, please fill out **[The Application Form](https://docs.google.com/forms/d/e/1FAIpQLSc4o6DSVXGE35JYl6RTIe_gRkGpzUfxxJIuZy7x3rC1KVVa5w/viewform?usp=sf_link)**. You have until September 30th to apply.
 
 As a Reader you'll be assigned a number of entries to evaluate; from those you select your top 5 entries. Finalists are determined by the choices Reader's make. In the past most Readers took about 10 hours to read through and make their selections.
 
