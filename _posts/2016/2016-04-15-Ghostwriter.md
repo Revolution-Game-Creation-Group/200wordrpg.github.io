@@ -2,7 +2,7 @@
 layout: post
 title: "Ghostwriter"
 date: 2016-04-15
-author: "James Iles"
+author: "Jay Iles"
 link: "www.ufo-press.co.uk"
 categories: 2016 rpg
 ---

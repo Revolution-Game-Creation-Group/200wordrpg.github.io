@@ -2,7 +2,7 @@
 layout: post
 title: "Parasite Vector"
 date: 2017-04-15 07:53:31
-author: "James Iles"
+author: "Jay Iles"
 link: "ufopress.co.uk"
 categories: 2017 rpg
 ---

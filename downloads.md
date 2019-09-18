@@ -16,9 +16,9 @@ The 2018 winners received beautiful layouts, each fitting their themes.
 <td><a href="https://200wordrpg.github.io/assets/Sidewalkia.pdf"><img class="prize"  src="/assets/images/Sidewalkia.png"/></a></td>
 </tr>
 <tr>
-<td id="centeredText">designed by <a href="https://www.patreon.com/Ufopress/overview">James Iles</a></td>
-<td id="centeredText">designed by <a href="https://www.patreon.com/Ufopress/overview">James Iles</a></td>
-<td id="centeredText">designed by <a href="https://www.patreon.com/Ufopress/overview">James Iles</a></td>
+<td id="centeredText">designed by <a href="https://www.patreon.com/Ufopress/overview">Jay Iles</a></td>
+<td id="centeredText">designed by <a href="https://www.patreon.com/Ufopress/overview">Jay Iles</a></td>
+<td id="centeredText">designed by <a href="https://www.patreon.com/Ufopress/overview">Jay Iles</a></td>
 </tr>
 </table>
 
@@ -56,7 +56,7 @@ These PDFs include ALL of the entries from that year's challenge. Enjoy! *Click 
 <td id="centeredText">designed by <a href="https://about.me/mattwidmann">Matt Widmann</a></td>
 <td id="centeredText">designed by <a href="https://plus.google.com/u/0/116235159947041206206/posts">Rickard Elimää</a></td>
 <td id="centeredText">designed by <a href="http://thomas-novosel.com/">Thomas Novosel</a></td>
-<td id="centeredText">designed by <a href="https://www.patreon.com/Ufopress/overview">James Iles</a></td>
+<td id="centeredText">designed by <a href="https://www.patreon.com/Ufopress/overview">Jay Iles</a></td>
 </tr>
 </table>
 
