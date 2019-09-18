@@ -29,8 +29,8 @@ layout: default
 
 |[<img class="prize" src="{{site.url}}/assets/images/prizes/dozen.jpg">](https://www.drivethrurpg.com/product/129931/The-Dungeon-Dozen)|[<img class="prize" src="{{site.url}}/assets/images/prizes/clink.png">](https://www.drivethrurpg.com/product/236659/Clink-RPG)|[<img class="prize" src="{{site.url}}/assets/images/prizes/dielaugh.png">](https://www.drivethrurpg.com/product/263554/Die-Laughing)|
 |**[The Dungeon Dozen](https://www.drivethrurpg.com/product/129931/The-Dungeon-Dozen) (PDF)**|**[Clink](https://www.drivethrurpg.com/product/236659/Clink-RPG) (PDF)**|**[Die Laughing](https://www.drivethrurpg.com/product/263554/Die-Laughing) (PDF)**|
-|[<img class="prize" src="{{site.url}}/assets/images/prizes/thetinstar.png">](https://www.tinstargames.com/the-tin-star.html)|[<img class="prize" src="{{site.url}}/assets/images/prizes/archive.png">](https://www.drivethrurpg.com/product/214950/Archive-Historical-People-Places-and-Events-for-RPGs)||
-|**[The Tin Star](https://www.tinstargames.com/the-tin-star.html) (PDF)**|**[Archive](https://www.drivethrurpg.com/product/214950/Archive-Historical-People-Places-and-Events-for-RPGs) (PDF)**||
+|[<img class="prize" src="{{site.url}}/assets/images/prizes/thetinstar.png">](https://www.tinstargames.com/the-tin-star.html)|[<img class="prize" src="{{site.url}}/assets/images/prizes/archive.png">](https://www.drivethrurpg.com/product/214950/Archive-Historical-People-Places-and-Events-for-RPGs)|[<img class="prize" src="{{site.url}}/assets/images/prizes/WeirdMicroRPGBundle.png">](https://thatonegm.weebly.com)|
+|**[The Tin Star](https://www.tinstargames.com/the-tin-star.html) (PDF)**|**[Archive](https://www.drivethrurpg.com/product/214950/Archive-Historical-People-Places-and-Events-for-RPGs) (PDF)**|**[4 MicroRPGs by Andrew Young](https://thatonegm.weebly.com/) (PDF)**|
 
 ## ALL Participants will receive:
 
@@ -41,6 +41,8 @@ layout: default
 
 |[<img class="prize" src="{{site.url}}/assets/images/prizes/afraidofthedark.png">](https://www.tinstargames.com/afraid-of-the-dark.html)|[<img class="prize" src="{{site.url}}/assets/images/prizes/archive.png">](https://www.drivethrurpg.com/product/214950/Archive-Historical-People-Places-and-Events-for-RPGs)|[<img class="prize" src="{{site.url}}/assets/explosions/explosionLogo.png">](https://www.patreon.com/davidschirduan)|
 |**[Afraid of the Dark](https://www.tinstargames.com/afraid-of-the-dark.html#/) (PDF)**|**[Archive](https://www.drivethrurpg.com/product/214950/Archive-Historical-People-Places-and-Events-for-RPGs) (PDF)**|**[3 Months Patreon Access](https://www.patreon.com/davidschirduan)**|
+|[<img class="prize" src="{{site.url}}/assets/images/prizes/WeirdMicroRPGBundle.png">](https://thatonegm.weebly.com)||
+|**[4 MicroRPGs by Andrew Young](https://thatonegm.weebly.com/) (PDF)**||
 
 <hr>
 
