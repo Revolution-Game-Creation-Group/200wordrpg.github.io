@@ -11,7 +11,7 @@ allAuthors = []
 allEmails = []
 filetitle = ""
 
-with open('2018.csv', encoding="utf8") as f:
+with open('2019.csv', encoding="utf8") as f:
     reader = csv.reader(f)
     for row in reader:
 
@@ -23,11 +23,12 @@ with open('2018.csv', encoding="utf8") as f:
         timestamp = row[0]
         email = row[1].rstrip()
         author = row[2]
-        link = row[3]
+        pronouns = row[3]
+        link = row[4]
 
-        title = row[6]
-        entryText = row[7]
-        comments = row[8]
+        title = row[8]
+        entryText = row[9]
+        comments = row[10]
 
         # "4/14/2017 3:26:21" convert to "2017-04-14 03:26:21"
         pieces = timestamp.split('/')
@@ -169,7 +170,7 @@ with open('2018.csv', encoding="utf8") as f:
         line1 = 'layout: post'
         line2 = 'title: "' + title + '"'
         line3 = 'date: ' + date + ' ' + time
-        line4 = 'author: "' + author + '"'
+        line4 = 'author: "' + author + '('+ pronouns +')"'
         line5 = 'link: "' + link + '"'
         line6 = 'categories: 2018 ' + 'rpg'
         line7 = '---'
