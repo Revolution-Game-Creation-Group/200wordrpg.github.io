@@ -14,8 +14,6 @@ Helping everyone to feel welcome means working together to help everyone feel sa
 
 If you have any questions or concerns, please contact our organizers at **200wordrpg@gmail.com**.
 
-Also for the first time this year we allow entries to include Content Warnings. We hope this will make the challenge safer for everyone to enjoy.
-
 ## 2019 Timeline and Details
 
 _Click each date to learn more._
