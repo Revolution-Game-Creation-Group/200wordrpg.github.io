@@ -77,7 +77,7 @@ These hardworking folks will invest a ton of time and effort into selecting the 
 <td id="entries"><h3><strong>Peter M.J. Gross</strong> (he/him)</h3></td>
 <td id="entries"><h3><strong>Gabriel Robinson</strong> (He/Him)</h3></td>
 <td id="entries"><h3><strong>Gray Detrick</strong> (He/Him or They/Them)</h3></td>
-</tr><tr>
+</tr>
 </table>
 
 ## 2018 Readers
