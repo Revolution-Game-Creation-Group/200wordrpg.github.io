@@ -30,6 +30,9 @@ with open('2019.csv', encoding="utf8") as f:
         entryText = row[9]
         comments = row[10]
 
+        contentWarning = row[11]
+        print(contentWarning)
+
         # "4/14/2017 3:26:21" convert to "2017-04-14 03:26:21"
         pieces = timestamp.split('/')
 
@@ -165,6 +168,14 @@ with open('2019.csv', encoding="utf8") as f:
             invalidReason = invalidReason + \
                 " | Wordcount: " + str(len(results))
 
+
+        # Content Warning
+        if (contentWarning):
+            contentWarning = "<div id=\"warning\"><div id=\"content\"><h3><strong>! Content Warning: "+
+            contentWarning + "!<strong></h3><i>Continue scrolling to read the entry.</i></div></div>"
+        else:
+            contentWarning = ""
+
         # Entry formatting
         line0 = '---'
         line1 = 'layout: post'
@@ -175,11 +186,12 @@ with open('2019.csv', encoding="utf8") as f:
         line6 = 'categories: 2018 ' + 'rpg'
         line7 = '---'
         line8 = '```'
-        line9 = entryText
-        line10 = '```'
-        line11 = '## Author Comments '
-        line12 = ''
-        line13 = comments
+        line9 = contentWarning
+        line10 = entryText
+        line11 = '```'
+        line12 = '## Author Comments '
+        line13 = ''
+        line14 = comments
 
         # Create filename
 

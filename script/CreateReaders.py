@@ -12,7 +12,7 @@ allEmails = []
 counter = 0
 print("<table><tr>")
 
-with open('2018Readers.csv', encoding="utf8") as f:
+with open('readers.csv', encoding="utf8") as f:
     reader = csv.reader(f)
     for row in reader:
 
@@ -23,14 +23,11 @@ with open('2018Readers.csv', encoding="utf8") as f:
 
         timestamp = row[0]
         name = row[1].rstrip()
-        link = row[3]
+        pronouns = row[2].rstrip()
 
-        if (not link):
-            print('<td id="entries"><h3><strong>' +
-                  name + "</strong></h3></td>")
-        else:
-            print('<td id="entries"><h3><strong><a href="' +
-                  link + '">' + name + '</a></strong></h3></td>')
+        print('<td id="entries"><h3><strong>' +
+                  name + "</strong> ("+pronouns+")</h3></td>")
+
 
         if (counter % 3 == 0):
             print("</tr><tr>")

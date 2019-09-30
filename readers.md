@@ -1,15 +1,84 @@
 ---
 layout: default
 ---
-## 2019 Seeking Readers!
+## 2019 Readers
 
-In addition to our panel of Judges, we rely on a team of Readers to help narrow down the entries and select the winners. **You can be a Reader and still submit an entry!** We'll make sure you don't get assigned your own entry.
+These hardworking folks will invest a ton of time and effort into selecting the finalists for the 2019 challenge!
 
-If you are interested in being a Reader, please fill out **[The Application Form](https://docs.google.com/forms/d/e/1FAIpQLSc4o6DSVXGE35JYl6RTIe_gRkGpzUfxxJIuZy7x3rC1KVVa5w/viewform?usp=sf_link)**. You have until September 30th to apply.
-
-As a Reader you'll be assigned a number of entries to evaluate; from those you select your top 5 entries. Finalists are determined by the choices Reader's make. In the past most Readers took about 10 hours to read through and make their selections.
-
-Readers play a valuable role in this event, and we're glad to reward our hard-working readers with some [cool prizes](/prizes)!
+<table><tr>
+<td id="entries"><h3><strong>Thomas</strong></h3></td>
+<td id="entries"><h3><strong>Adam Blinkinsop</strong></h3></td>
+<td id="entries"><h3><strong>Eva Schiffer</strong></h3></td>
+</tr><tr>
+<td id="entries"><h3><strong>Noé Falzon</strong></h3></td>
+<td id="entries"><h3><strong>Sean Smith</strong></h3></td>
+<td id="entries"><h3><strong>Mark Preston</strong></h3></td>
+</tr><tr>
+<td id="entries"><h3><strong>Eytan Kaplan</strong></h3></td>
+<td id="entries"><h3><strong>Ceri Bythesea</strong></h3></td>
+<td id="entries"><h3><strong>Johnnie Pittman</strong></h3></td>
+</tr><tr>
+<td id="entries"><h3><strong>David Walker</strong></h3></td>
+<td id="entries"><h3><strong>Matthew Gravelyn</strong></h3></td>
+<td id="entries"><h3><strong>Joey</strong></h3></td>
+</tr><tr>
+<td id="entries"><h3><strong>Cyrus</strong></h3></td>
+<td id="entries"><h3><strong>Matthew Seagle</strong></h3></td>
+<td id="entries"><h3><strong>Gavin Rook</strong></h3></td>
+</tr><tr>
+<td id="entries"><h3><strong>Aidan Sonia-Bolduc</strong></h3></td>
+<td id="entries"><h3><strong>Andrew J Young</strong></h3></td>
+<td id="entries"><h3><strong>Danielle Lauzon</strong> (she/her)</h3></td>
+</tr><tr>
+<td id="entries"><h3><strong>Michael Inkmann</strong> (he/him)</h3></td>
+<td id="entries"><h3><strong>Sarah Judd</strong> (they/them (though she/her is ok))</h3></td>
+<td id="entries"><h3><strong>Andreas Lagerqvist</strong> (He)</h3></td>
+</tr><tr>
+<td id="entries"><h3><strong>Christine Beard</strong> (She/her)</h3></td>
+<td id="entries"><h3><strong>Joyce Chng</strong> (She/They)</h3></td>
+<td id="entries"><h3><strong>Mike Lake</strong></h3></td>
+</tr><tr>
+<td id="entries"><h3><strong>Dane Fogdall</strong> (He/Him)</h3></td>
+<td id="entries"><h3><strong>Jonathan Janssen</strong> (He/Him)</h3></td>
+<td id="entries"><h3><strong>Kathryn Struck</strong> (She/Her)</h3></td>
+</tr><tr>
+<td id="entries"><h3><strong>Tara King</strong> (she/they)</h3></td>
+<td id="entries"><h3><strong>Natalie Ash</strong> (She/Her)</h3></td>
+<td id="entries"><h3><strong>Cameron Ledbetter</strong> (He/His Highness)</h3></td>
+</tr><tr>
+<td id="entries"><h3><strong>Liz Stong</strong> (She/Her/Hers)</h3></td>
+<td id="entries"><h3><strong>Raymond Visser</strong> (he/him)</h3></td>
+<td id="entries"><h3><strong>Tiffany LaPorta</strong> (She/ her)</h3></td>
+</tr><tr>
+<td id="entries"><h3><strong>Alex Teplitz</strong> (she/they)</h3></td>
+<td id="entries"><h3><strong>Peter Lyons</strong> (he/him)</h3></td>
+<td id="entries"><h3><strong>Jane Higginson</strong> (she/her)</h3></td>
+</tr><tr>
+<td id="entries"><h3><strong>Dylan</strong> (His/him)</h3></td>
+<td id="entries"><h3><strong>David zerbst</strong> (He him.)</h3></td>
+<td id="entries"><h3><strong>Audun Maatje</strong> (he/him)</h3></td>
+</tr><tr>
+<td id="entries"><h3><strong>Martin Manrique</strong></h3></td>
+<td id="entries"><h3><strong>Matthew Orr</strong> (he / him)</h3></td>
+<td id="entries"><h3><strong>Iain Deans</strong> (He/Him)</h3></td>
+</tr><tr>
+<td id="entries"><h3><strong>Alexander Newcombe</strong> (he/him)</h3></td>
+<td id="entries"><h3><strong>Whit Carter</strong> (He/him, They/them)</h3></td>
+<td id="entries"><h3><strong>Seth Piercey</strong> (Him/he)</h3></td>
+</tr><tr>
+<td id="entries"><h3><strong>Megan Condis</strong> (she/her)</h3></td>
+<td id="entries"><h3><strong>Ryan & Gabby Wilson</strong> (he/him, she/her)</h3></td>
+<td id="entries"><h3><strong>Deszmond Touray</strong> (His Royal Highness/ His Total Highness's)</h3></td>
+</tr><tr>
+<td id="entries"><h3><strong>Aleksandra Sontowska</strong> (she, her)</h3></td>
+<td id="entries"><h3><strong>Matt Kaley-Burton</strong> (Mr)</h3></td>
+<td id="entries"><h3><strong>Jeremy Esch</strong> (He/Him)</h3></td>
+</tr><tr>
+<td id="entries"><h3><strong>Peter M.J. Gross</strong> (he/him)</h3></td>
+<td id="entries"><h3><strong>Gabriel Robinson</strong> (He/Him)</h3></td>
+<td id="entries"><h3><strong>Gray Detrick</strong> (He/Him or They/Them)</h3></td>
+</tr><tr>
+</table>
 
 ## 2018 Readers
 

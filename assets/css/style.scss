@@ -3,6 +3,16 @@
 
 @import "jekyll-theme-minimal";
 
+#warning {
+  display: flex;
+  flex-flow: column;
+  height: 100vh;
+  text-align: center;
+}
+
+#content {
+  flex-grow: 1;
+}
 
 /* Center prize Text*/
 td {

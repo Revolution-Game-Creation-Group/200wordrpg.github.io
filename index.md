@@ -12,6 +12,8 @@ The 200 Word RPG Challenge is a small contest with small stakes where you design
 
 Helping everyone to feel welcome means working together to help everyone feel safe and treating others with consideration and respect. Harassment, intimidation, and hate speech are not acceptable. We will not tolerate discrimination based on race, religion, sex, gender identity, sexual preference, mental health and ability, physical health and ability, size, ethnicity, nationality, or refugee status. The organizers reserve the right to refuse contest submissions, prize donations, and service offers based on these values. 
 
+Also for the first time this year we allow entries to include **Content Warnings**. We hope this will make the challenge safer for everyone to enjoy.
+
 If you have any questions or concerns, please contact our organizers at **200wordrpg@gmail.com**.
 
 ## 2019 Timeline and Details
@@ -44,16 +46,6 @@ _Click each date to learn more._
 </details>
 
 <br/>
- 
-## We Need Readers!
-
-In addition to our panel of Judges, we rely on a team of Readers to help narrow down the entries and select the winners. **You can be a Reader and still submit an entry!** We'll make sure you don't get assigned your own entry.
-
-If you are interested in being a Reader, please fill out **[The Application Form](https://docs.google.com/forms/d/e/1FAIpQLSc4o6DSVXGE35JYl6RTIe_gRkGpzUfxxJIuZy7x3rC1KVVa5w/viewform?usp=sf_link)**. You have until September 30th to apply.
-
-As a Reader you'll be assigned a number of entries to evaluate; from those you select your top 5 entries. Finalists are determined by the choices Reader's make. In the past most Readers took about 10 hours to read through and make their selections.
-
-Readers play a valuable role in this event, and we're glad to reward our hard-working readers with some [cool prizes](/prizes)!
 
 ## Winner Criteria
 The criteria that Readers and Judges will use to evaluate each entry. All entries submitted are deemed to be role-playing games, and they will be judged on the following merits:
