@@ -28,9 +28,9 @@ with open('2019.csv', encoding="utf8") as f:
 
         title = row[8]
         entryText = row[9]
-        comments = row[10]
+        contentWarning = row[10]
+        comments = row[11]
 
-        contentWarning = row[11]
         print(contentWarning)
 
         # "4/14/2017 3:26:21" convert to "2017-04-14 03:26:21"
@@ -171,24 +171,30 @@ with open('2019.csv', encoding="utf8") as f:
 
         # Content Warning
         if (contentWarning):
-            contentWarning = "<div id=\"warning\"><div id=\"content\"><h3><strong>! Content Warning: "+
-            contentWarning + "!<strong></h3><i>Continue scrolling to read the entry.</i></div></div>"
+            contentWarning = "<div id=\"warning\"><div id=\"content\"><h3><strong>! Content Warning: "+contentWarning + " !</strong></h3><i>Continue scrolling to read the entry.</i></div></div>"
         else:
             contentWarning = ""
+
+        if (pronouns == "Prefer Not to Say"):
+            pronouns = ""
+        else:
+            pronouns = ' (' + pronouns + ')'
 
         # Entry formatting
         line0 = '---'
         line1 = 'layout: post'
         line2 = 'title: "' + title + '"'
         line3 = 'date: ' + date + ' ' + time
-        line4 = 'author: "' + author + '('+ pronouns +')"'
+        line4 = 'author: "' + author + pronouns + '"'
         line5 = 'link: "' + link + '"'
-        line6 = 'categories: 2018 ' + 'rpg'
+        line6 = 'categories: 2019 rpg'
         line7 = '---'
-        line8 = '```'
-        line9 = contentWarning
+        line8 = contentWarning
+        line9 = ' '
+        line9 = '```'
         line10 = entryText
         line11 = '```'
+        line9 = ' '
         line12 = '## Author Comments '
         line13 = ''
         line14 = comments

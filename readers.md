@@ -6,27 +6,27 @@ layout: default
 These hardworking folks will invest a ton of time and effort into selecting the finalists for the 2019 challenge!
 
 <table><tr>
-<td id="entries"><h3><strong>Thomas</strong></h3></td>
+<td id="entries"><h3><strong>Thomas</strong> (He/Him)</h3></td>
 <td id="entries"><h3><strong>Adam Blinkinsop</strong></h3></td>
 <td id="entries"><h3><strong>Eva Schiffer</strong></h3></td>
 </tr><tr>
-<td id="entries"><h3><strong>Noé Falzon</strong></h3></td>
+<td id="entries"><h3><strong>Noé Falzon</strong> (He/Him)</h3></td>
 <td id="entries"><h3><strong>Sean Smith</strong></h3></td>
 <td id="entries"><h3><strong>Mark Preston</strong></h3></td>
 </tr><tr>
 <td id="entries"><h3><strong>Eytan Kaplan</strong></h3></td>
 <td id="entries"><h3><strong>Ceri Bythesea</strong></h3></td>
-<td id="entries"><h3><strong>Johnnie Pittman</strong></h3></td>
+<td id="entries"><h3><strong>Johnnie Pittman</strong>(He/Him)</h3></td>
 </tr><tr>
 <td id="entries"><h3><strong>David Walker</strong></h3></td>
-<td id="entries"><h3><strong>Matthew Gravelyn</strong></h3></td>
-<td id="entries"><h3><strong>Joey</strong></h3></td>
+<td id="entries"><h3><strong>Matthew Gravelyn</strong>(He/Him)</h3></td>
+<td id="entries"><h3><strong>Joey</strong> (He/Him)</h3></td>
 </tr><tr>
 <td id="entries"><h3><strong>Cyrus</strong></h3></td>
-<td id="entries"><h3><strong>Matthew Seagle</strong></h3></td>
+<td id="entries"><h3><strong>Matthew Seagle</strong> (Ogre)</h3></td>
 <td id="entries"><h3><strong>Gavin Rook</strong></h3></td>
 </tr><tr>
-<td id="entries"><h3><strong>Aidan Sonia-Bolduc</strong></h3></td>
+<td id="entries"><h3><strong>Aidan Sonia-Bolduc</strong> (He/Him)</h3></td>
 <td id="entries"><h3><strong>Andrew J Young</strong></h3></td>
 <td id="entries"><h3><strong>Danielle Lauzon</strong> (she/her)</h3></td>
 </tr><tr>
