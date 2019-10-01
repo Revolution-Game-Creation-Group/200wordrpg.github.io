@@ -16,4 +16,4 @@ The money raised goes directly into the challenge to purchases prizes, hire arti
 
 When a new explosion comes out, the older ones will be publicly available here for all to enjoy!
 
-|[<img class="prize" src="{{site.url}}/assets/explosions/ForCityCoin.png">]({{site.url}}/assets/explosions/ForCityCoin.pdf)|[<img class="prize" src="{{site.url}}/assets/explosions/Drink_Tea_Forget.png">]({{site.url}}/assets/explosions/Drink_Tea_Forget.pdf)|
+|[<img class="prize" src="{{site.url}}/assets/explosions/ForCityCoin.png">]({{site.url}}/assets/explosions/ForCityCoin.pdf)|[<img class="prize" src="{{site.url}}/assets/explosions/Drink_Tea_Forget.png">]({{site.url}}/assets/explosions/Drink_Tea_Forget.pdf)|[<img class="prize" src="{{site.url}}/assets/explosions/wizards.png">]({{site.url}}/assets/explosions/MetalWizards.pdf)
