@@ -17,7 +17,7 @@ Entries will be posted here daily.
     <td id="entries"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></td>
   {% endif %}
  {% endfor %}
-    {% if loopindex == 0 %}f
+    {% if loopindex == 0 %}
     </table>
   {% else %}
     </tr></table>
