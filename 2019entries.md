@@ -6,7 +6,7 @@ layout: default
 
 Entries will be posted here daily.
 
-{% assign sorted_pages = site.categories.2019 | sort:"date" %}
+{% assign sorted_pages = site.categories.2019 %}
 <table>{% for post in sorted_pages %}
   {% assign loopindex = forloop.index | modulo: 3 %}
   {% if loopindex == 1 %}
