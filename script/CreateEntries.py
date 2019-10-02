@@ -191,12 +191,10 @@ with open('2019.csv', encoding="utf8") as f:
         line7 = '---'
         line8 = contentWarning
         line9 = ' '
-        line9 = '```'
-        line10 = entryText
-        line11 = '```'
-        line9 = ' '
-        line12 = '## Author Comments '
-        line13 = ''
+        line10 = '```'
+        line11 = entryText
+        line12 = '```'
+        line13 = '## Author Comments'
         line14 = comments
 
         # Create filename
@@ -222,6 +220,7 @@ with open('2019.csv', encoding="utf8") as f:
                 file.write(line11 + '\n')
                 file.write(line12 + '\n')
                 file.write(line13 + '\n')
+                file.write(line14 + '\n')
                 file.close
 
         # Otherwise print out the reason for disqualify
