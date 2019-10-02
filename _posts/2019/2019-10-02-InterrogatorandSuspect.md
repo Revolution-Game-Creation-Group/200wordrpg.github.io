@@ -2,7 +2,7 @@
 layout: post
 title: "Interrogator and Suspect"
 date: 2019-10-02 01:13:52
-author: "Andreas Lagerqvist (He/Him)"
+author: "Andreas Lagerqvist"
 link: "no link"
 categories: 2019 rpg
 ---

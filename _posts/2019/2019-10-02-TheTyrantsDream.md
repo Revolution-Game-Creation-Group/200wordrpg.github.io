@@ -2,7 +2,7 @@
 layout: post
 title: "The Tyrant's Dream"
 date: 2019-10-02 10:05:59
-author: "Cat McDonald (She/Her)"
+author: "Cat McDonald"
 link: "http://www.peachgardengames.com"
 categories: 2019 rpg
 ---

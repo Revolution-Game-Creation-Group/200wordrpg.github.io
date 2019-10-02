@@ -2,7 +2,7 @@
 layout: post
 title: "Heroes of the 80's"
 date: 2019-10-02 03:22:36
-author: "Patrik Hermansson (He/Him)"
+author: "Patrik Hermansson"
 link: "no link"
 categories: 2019 rpg
 ---

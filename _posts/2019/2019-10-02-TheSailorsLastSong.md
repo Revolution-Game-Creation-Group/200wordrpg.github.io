@@ -2,7 +2,7 @@
 layout: post
 title: "The Sailor's Last Song"
 date: 2019-10-02 02:24:10
-author: "Steve Darlington (He/Him)"
+author: "Steve Darlington"
 link: "www.tinstargames.com"
 categories: 2019 rpg
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "We Who Once Ruled"
 date: 2019-10-02 08:00:32
-author: "Michael Dunn-OConnor (He/Him)"
+author: "Michael Dunn-OConnor"
 link: "https://www.narrativedynamicspress.com/"
 categories: 2019 rpg
 ---

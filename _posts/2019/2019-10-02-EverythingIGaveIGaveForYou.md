@@ -2,7 +2,7 @@
 layout: post
 title: "Everything I Gave, I Gave For You"
 date: 2019-10-02 03:50:34
-author: "Ursidice (He/Him)"
+author: "Ursidice"
 link: "ursidice.com"
 categories: 2019 rpg
 ---

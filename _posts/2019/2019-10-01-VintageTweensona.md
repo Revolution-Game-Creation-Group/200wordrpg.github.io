@@ -2,7 +2,7 @@
 layout: post
 title: "Vintage Tweensona"
 date: 2019-10-01 23:36:05
-author: "Ennis Rook Bashe (They/Them)"
+author: "Ennis Rook Bashe"
 link: "https://ennisrook.itch.io/"
 categories: 2019 rpg
 ---

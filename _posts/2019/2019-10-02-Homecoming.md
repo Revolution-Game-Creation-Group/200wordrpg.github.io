@@ -2,7 +2,7 @@
 layout: post
 title: "Homecoming"
 date: 2019-10-02 04:06:50
-author: "Martin Annander (He/Him)"
+author: "Martin Annander"
 link: "no link"
 categories: 2019 rpg
 ---

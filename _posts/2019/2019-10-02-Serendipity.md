@@ -2,7 +2,7 @@
 layout: post
 title: "Serendipity"
 date: 2019-10-02 09:37:39
-author: "Brian A Ericson (He/Him)"
+author: "Brian A Ericson"
 link: "https://twitter.com/liefbread"
 categories: 2019 rpg
 ---

@@ -175,17 +175,12 @@ with open('2019.csv', encoding="utf8") as f:
         else:
             contentWarning = ""
 
-        if (pronouns == "Prefer Not to Say"):
-            pronouns = ""
-        else:
-            pronouns = ' (' + pronouns + ')'
-
         # Entry formatting
         line0 = '---'
         line1 = 'layout: post'
         line2 = 'title: "' + title + '"'
         line3 = 'date: ' + date + ' ' + time
-        line4 = 'author: "' + author + pronouns + '"'
+        line4 = 'author: "' + author + '"'
         line5 = 'link: "' + link + '"'
         line6 = 'categories: 2019 rpg'
         line7 = '---'

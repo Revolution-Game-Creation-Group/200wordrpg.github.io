@@ -2,7 +2,7 @@
 layout: post
 title: "A Sticky Situation"
 date: 2019-10-02 02:42:42
-author: "Murray Dahm (He/Him)"
+author: "Murray Dahm"
 link: "no link"
 categories: 2019 rpg
 ---
