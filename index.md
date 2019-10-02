@@ -38,13 +38,13 @@ _Click each date to learn more._
 </details>
 <details>
   <summary>October 14-26, Readers Vote on Finalists</summary>
-  <p>The entries are split up and assigned to different <a href="/readers">Readers</a>. Every entry will be read by <strong>at least</strong> 2 different Readers. Their top choices will become the Finalists.</p>
+  <p>The entries are split up and assigned to different <a href="/readers">Readers</a>. Names and comments are NOT shown, so the judging is blind. Every entry will be read by <strong>at least</strong> 2 different Readers. Their top choices will become the Finalists.</p>
   <p> <strong>As a new feature this year</strong>, every entry that is selected by a Reader will also receive some constructive feedback on their entry. We hope this will add more value to the challenge!</p>
   <p>The top choice from each Reader earns 5 points, and the next earns 4 points, and so on. It's better to be #3 on two Reader choices than best of a single Reader. The top 50 or so entries with the most points will be the Finalists.</p>
 </details>
 <details>
   <summary>Oct 28 - Nov 8, Judges Read Finalists</summary>
-  <p>All of the <a href="/judges">Judges</a> will read through ALL of the finalists.</p>
+  <p>All of the <a href="/judges">Judges</a> will read through ALL of the finalists. Names and comments are NOT shown, so the judging is blind.</p>
   <p>Each judge will select their own <strong>Spotlight Award</strong> to be given out to any entry they choose. It could be anything from "Best Action" to "Funniest". These Spotlight awards are completely seperate from the three Winners.</P>
 </details>
 <details>
