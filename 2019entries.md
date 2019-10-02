@@ -6,7 +6,7 @@ layout: default
 
 Entries will be posted here daily.
 
-{% assign sorted_pages = site.categories.2019 | sort:"title" %}
+{% assign sorted_pages = site.categories.2019 | sort:"date" %}
 <table>{% for post in sorted_pages %}
   {% assign loopindex = forloop.index | modulo: 3 %}
   {% if loopindex == 1 %}
@@ -17,7 +17,7 @@ Entries will be posted here daily.
     <td id="entries"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></td>
   {% endif %}
  {% endfor %}
-    {% if loopindex == 0 %}
+    {% if loopindex == 0 %}f
     </table>
   {% else %}
     </tr></table>
