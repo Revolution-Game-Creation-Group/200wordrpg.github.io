@@ -31,8 +31,6 @@ with open('2019.csv', encoding="utf8") as f:
         contentWarning = row[10]
         comments = row[11]
 
-        print(contentWarning)
-
         # "4/14/2017 3:26:21" convert to "2017-04-14 03:26:21"
         pieces = timestamp.split('/')
 
