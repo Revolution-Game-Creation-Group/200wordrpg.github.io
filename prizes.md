@@ -31,6 +31,8 @@ layout: default
 |**[The Dungeon Dozen](https://www.drivethrurpg.com/product/129931/The-Dungeon-Dozen) (PDF)**|**[Clink](https://www.drivethrurpg.com/product/236659/Clink-RPG) (PDF)**|**[Die Laughing](https://www.drivethrurpg.com/product/263554/Die-Laughing) (PDF)**|
 |[<img class="prize" src="{{site.url}}/assets/images/prizes/thetinstar.png">](https://www.tinstargames.com/the-tin-star.html)|[<img class="prize" src="{{site.url}}/assets/images/prizes/archive.png">](https://www.drivethrurpg.com/product/214950/Archive-Historical-People-Places-and-Events-for-RPGs)|[<img class="prize" src="{{site.url}}/assets/images/prizes/WeirdMicroRPGBundle.png">](https://thatonegm.weebly.com)|
 |**[The Tin Star](https://www.tinstargames.com/the-tin-star.html) (PDF)**|**[Archive](https://www.drivethrurpg.com/product/214950/Archive-Historical-People-Places-and-Events-for-RPGs) (PDF)**|**[4 MicroRPGs by Andrew Young](https://thatonegm.weebly.com/) (PDF)**|
+||[<img class="prize" src="{{site.url}}/assets/images/prizes/murder.png">](https://www.drivethrurpg.com/product/199179/Murder-Most-Foul)||
+||**[Murder Most Foul](https://www.drivethrurpg.com/product/199179/Murder-Most-Foul) (PDF)**||
 
 ## ALL Participants will receive:
 
