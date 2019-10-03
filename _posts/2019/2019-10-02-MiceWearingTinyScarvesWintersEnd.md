@@ -40,4 +40,4 @@ The Elder(GM) describes each "Deed" / "Peril" and constructs the narrative.
 
 ```
 ## Author Comments
-Author did not add any comments.
+This game is dedicated to my wife, who's love of all things small and adorable knows no end.   Also, special thanks to Professor Hutchings for introducing me to this challenge.

@@ -36,4 +36,6 @@ Play starts at the point the heist went wrong.
 Play ends when every character dies or escapes.
 ```
 ## Author Comments
-Author did not add any comments.
+The undercover agent(s) do not need to be with the group chasing the players. Nor do they need to be working together!
+
+Sadly I do not have anything plug. 

@@ -37,4 +37,4 @@ After each stage, take turns writing a sign for the outside of the restaurant. W
 
 ```
 ## Author Comments
-Author did not add any comments.
+The idea for this game came from a real pizza place I drive past every day. The snapshot of the grieving process I receive driving past as the sign changes is very meaningful. I wonder about the emotions behind the changes. Right now the sign reads "We hope we are making you proud always." Before that, the sign read "Pizza is like love, you lust need it." (neighborhood teens swapped the "j" around.) Grieving does not happen in a vacuum. Business and neighborhood teens just keep happening, even as your world feels upside down.

@@ -44,4 +44,20 @@ If you lose all your Memories, you are hers forever.
 
 ```
 ## Author Comments
-Author did not add any comments.
+==Design Notes===
+Despite how it may appear, the game is NOT designed for the Cavaliers to lose.There is only a 1/16th chance that they will get the double 4s, and if they are careful with their list of memories the risk of splashing water is less a danger and more to encourage them to act with trepidation when using the Queen’s power, rather than purposely being cruel.
+
+The exact nature of the Queen and her power as well was the end state is purposely left vague.
+
+If one cavalier breaks free while the others have not, the Player should be left to choose what they want to do. The Player can choose to have their cavalier continue to help the others, but they risk losing their memories again just like any of the other Cavaliers. The Player may also choose to retire their cavalier and create a new one, sit back and watch, or 
+
+==Credits==
+Thank you to my friends who helped me play test and provided feedback on The Glass of the Crystal Queen. Please follow them and support their work!
+
+* Angela | @Phoenix24Femme | https://www.patreon.com/philosofemme
+* Cassandra
+* Holly M
+* Naomi B | @adanarama  | https://www.patreon.com/adanarama/
+* Nick S | @Cronturns
+
+If you get a chance to play, The Glass of the Crystal Queen, please let me know! I’d love to get feedback and hear about your experience. You can find me on Twitter @starkingwest.

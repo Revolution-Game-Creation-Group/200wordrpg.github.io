@@ -191,4 +191,12 @@ categories: 2019 rpg
 \______________________________________________________________________________________________________________________/
 ```
 ## Author Comments
-Author did not add any comments.
+FATESTONE was designed to push the rules of the 200 Word RPG Challenge to its limits. While there are word limits, there are no character limits. Keeping that in mind, I wanted to create the most comprehensive and true to form "Traditional RPG" possible within that rule set. 
+
+FATESTONE contains everything you would find in a much more comprehensive RPG. While the confines of the competition generally work to keep submissions rules light, FATESTONE still provides a unique world, GM guidance, action resolution, character customization, character stats, artwork, charts, a character sheet, a world map, and more.
+
+I want to thank my family, friends, and coworkers for listening to me drone on about this project for the last year. Thank you Steph, Jon, Eric, Chris, Chip, Jordan, Dad, Ginge, Gabe, Brandon, Dylan, Rob, Cory, Micheal, Tim and whoever else I annoyed with my constant game babble while I worked to make FATESTONE the best it could be. 
+
+You should be able to copy and paste the entirety of the submission above into a small notepad or textedit window. Once the content is pasted in, the window should expand to the proper measurements. You can then print FATESTONE on a single piece of paper, front and back. I will also post a PDF on my website (www.8bitgoblin.com) for download. 
+
+Thanks and enjoy playing FATESTONE!

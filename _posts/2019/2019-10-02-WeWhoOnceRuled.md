@@ -55,4 +55,14 @@ End when one remains
 
 ```
 ## Author Comments
-Author did not add any comments.
+Thanks to:
+Walker Dunn-OConnor
+BOARGADE
+Will Jobst
+Kevin Petker
+Eli Seitz
+Simon
+Aaron F
+Jason Tocci
+nonsonogiucas
+Deckard

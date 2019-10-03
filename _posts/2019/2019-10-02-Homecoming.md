@@ -51,4 +51,4 @@ Neighborhood barbeque.
 
 ```
 ## Author Comments
-Author did not add any comments.
+Many thanks to Lucas Falk and Rollspelsskolan on Facebook, without which I'd never have seen this competition.

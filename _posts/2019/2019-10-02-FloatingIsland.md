@@ -51,4 +51,7 @@ That was all a very long time ago and the island has long since sunken into the 
 
 ```
 ## Author Comments
-Author did not add any comments.
+I wanted to create a feelgood roleplaying game capturing the mood of Tove Jansson’s Moomin books. 
+
+Her characters are small, moderately intelligent beings who most often face rapid and overwhelming change. To me, what is special about them is their way to deal with that change: No matter what, they take care of each other (as well as others!), and make the most out of every situation - having an overall pleasant time.
+

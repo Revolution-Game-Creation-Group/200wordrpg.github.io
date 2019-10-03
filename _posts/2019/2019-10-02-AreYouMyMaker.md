@@ -58,4 +58,5 @@ D12 Vocations
 12- silk magi
 ```
 ## Author Comments
-Author did not add any comments.
+Influences:
+Arabian Nights, Dr. Seuss, Journey (video game), Unearth (board game), The Sundered Land (role-playing game)

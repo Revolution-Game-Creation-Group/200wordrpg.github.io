@@ -45,4 +45,4 @@ Inquiry: Success: you learn one relevant thing and you escape. Complication: you
 If you do not escape, you are injured.
 ```
 ## Author Comments
-Author did not add any comments.
+This is a horror RPG.

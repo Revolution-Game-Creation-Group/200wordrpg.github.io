@@ -38,4 +38,4 @@ Endless hallways. Strange creatures in the woods. Creepy strangers on the side o
 
 ```
 ## Author Comments
-Author did not add any comments.
+A game inspired by Welcome to Nightvale, Itras By, and Twin Peaks. I will most likely create an expanded version with lots of random tables that simply couldn’t fit on this sheet.

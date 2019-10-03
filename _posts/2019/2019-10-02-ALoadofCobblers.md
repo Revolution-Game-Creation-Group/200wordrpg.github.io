@@ -38,4 +38,4 @@ A coin or token is awarded every time the active player describes a moment where
 A story being told should make sense, and not be contradictory or repetitive.
 ```
 ## Author Comments
-Author did not add any comments.
+A debt is here owed to The Extraordinary Adventures of Baron Munchausen, Once Upon a Time, and all other, similar, story telling games.

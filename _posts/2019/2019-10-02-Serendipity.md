@@ -37,4 +37,6 @@ On failure: The Guide explains how your Serendipity Complicates the situation fu
 Play until out of Serendipity. The Guide then narrates an end to the scenario.
 ```
 ## Author Comments
-Author did not add any comments.
+Serendipity started out as a subsystem for a larger game that I am working on releasing, which will technically now be the second game I've ever made (with Serendipity being the first). This is a bit of a rework of the system in the game, and I hope you enjoy it!
+
+It was inspired by the RPG Fate, and the goal within a larger game is to solve scenarios where a player finds their character in a situation where they "should have had an item because ~."

@@ -28,4 +28,5 @@ The True Prophet takes the other half, and describes what happens in the country
 The next scene begins. When a Magus runs out of tokens, they still participate. The game lasts until the country falls.
 ```
 ## Author Comments
-Author did not add any comments.
+Thanks to my beloved Sword of Symphonies cast for all the help!
+Alternate title: Climate Science

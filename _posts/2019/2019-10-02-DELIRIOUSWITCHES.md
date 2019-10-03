@@ -28,4 +28,4 @@ The game ends when one Witch is too spooked, or both Witches become truly deliri
 
 ```
 ## Author Comments
-Author did not add any comments.
+I've always had a interest in the paranormal and in magic. It's a guilty pleasure, I'll pretend to do magic. I'll cavort around in the dark looking for ghosts in mirrors, all sorts of weird junk that I wouldn't want anyone to know about. I want you to 'pretend' to do magic as well. The game can be played positively, using magic to send your fellow 'players' good things... but where is the fun in that?

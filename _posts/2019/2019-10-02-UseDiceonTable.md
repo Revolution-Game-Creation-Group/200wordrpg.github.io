@@ -53,4 +53,4 @@ There are paths leading NORTH and EAST.
 >exit
 ```
 ## Author Comments
-Author did not add any comments.
+Inspired by my love of old text-based adventure games.

@@ -39,4 +39,5 @@ Everyone narrates the finale together!
 Enjoy the show! Post your ratings on Twitter, tagging @DiceUpGames!
 ```
 ## Author Comments
-Games designed specifically to be played online / virtual tables
+Thanks to Kent Blue & Kristin Devine of the Roll to Play Network!
+Thanks to the amazing TTRPG community on Twitter!

@@ -21,4 +21,4 @@ GM: Set difficulty.  "Diaper blowout over expensive rug" is 1 difficulty.  Compl
 The GM wins if all babies fall asleep.  The player win by driving the caretaker insane. 
 ```
 ## Author Comments
-Author did not add any comments.
+Dedicated to Caleb (2.5 years) and Daniel (0.5 years), my sons and/or magical homonculi that live by eating my life force and money and transmute it to poop and love.  

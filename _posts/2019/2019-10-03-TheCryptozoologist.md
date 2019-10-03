@@ -45,4 +45,4 @@ Token ended, Land decide if Cryptozoologist found the cryptid.
 Describe a scene and Cryptozoologist decide the end.
 ```
 ## Author Comments
-A theme maybe, for inspiration.
+Author did not add any comments.

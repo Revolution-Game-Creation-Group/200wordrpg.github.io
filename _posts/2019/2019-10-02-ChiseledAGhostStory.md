@@ -38,4 +38,4 @@ End when rigidity sets in.
 
 ```
 ## Author Comments
-The only thing i can think of, just for "peace of mind", is having a submission form that literally won't accept an entry that is more than 200 words as input.  Otherwise, keep doing this.  This contest is <3
+ijijo;ireoj;aerjoojiae0uu008uujhoonh;nohnio9999yp7yp98t6o67r5342s4gluvgjbbhjbhjhbulbuilihylb.ihliuliyglugvtyvcukycfrycrf

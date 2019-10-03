@@ -28,4 +28,4 @@ On second leg of journey (1dF):
 If still alive, you find cave high in mountain - new home! Celebrate by eating your tools.  Don't eat the Fudge.
 ```
 ## Author Comments
-Allowance for 1 piece of artwork to accompany online text (which would not have any bearing on the judging ).
+Author did not add any comments.

@@ -21,4 +21,4 @@ Everytime you find something supernatural or disturbing, roll your 1d6 Darkness 
 Magic can be used and it is connected with your talent, but it costs Darkness dice rolls, everytime. The Dark Plain can be seen when you reach 5 in Darkness Dice. Each game session your Darkness comes back 1.
 ```
 ## Author Comments
-Author did not add any comments.
+This is a PbtA + Cthulhu Dark Hack.

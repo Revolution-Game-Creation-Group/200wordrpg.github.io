@@ -144,4 +144,4 @@ But what happens to the world?
 
 ```
 ## Author Comments
-Author did not add any comments.
+This entry pulls from a Hitchcock quote. 

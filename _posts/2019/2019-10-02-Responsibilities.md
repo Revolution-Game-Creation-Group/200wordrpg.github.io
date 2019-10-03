@@ -25,4 +25,4 @@ Roll a D12. Reduce the stress by that number and add half of it as Guilt. Round 
 After 8 weeks you count the stress and the guilt together and see who has more negative points.
 ```
 ## Author Comments
-Author did not add any comments.
+Was dealing with feelings of my own and found this. Why not work them with something I love. TTRPG.

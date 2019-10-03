@@ -51,4 +51,4 @@ Wounds = maximum ranks in highest skill + 2: Character is dead.
 Healing: one-wound/week.
 ```
 ## Author Comments
-Er... 50 more words? Just kidding: the painstaking task of shaving those 50 words was the part I enjoyed the most. Honestly, I just came to know of this challenge one week ago, so I'm still getting acquainted with it. Next year I may have a suggestion for improvement.
+Strongly preferring sandbox, open-end style in gaming, I tried to build a system for that kind or role-playing. It was quite a challenge due to the 200-word limit, and even more because I had never designed a gaming system. I hope the result is as clear and engaging as it appeared to me.

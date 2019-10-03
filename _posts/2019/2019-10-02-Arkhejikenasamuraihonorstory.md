@@ -89,4 +89,8 @@ The Shogun, recognizing their loyalty, may grant the "samurais" the honour of se
 
 ```
 ## Author Comments
-I sincerely doubt you can do this any better, it's a wonderful challenge :D. I'll wait to see how the you manage to put together the new feedback from the readers. I believe that this is the single most relevant aspect for a designer (just having someone actually reading the entry and making a comment on it make the effort worth it).
+This game is inspired in the story of the 47 ronnin (Ako-jiken). I tried to reflect the ronins' commitment, with a game revolving around honor and trust. Despite being outnumbered 4 to 1, dishonor mechanics grant PCs a huge advantage. However, dishonor fosters mistrust, since it can be exploited by a traitor. This creates intrigue and allows for varied strategies (both, combat-wise and social-wise).
+
+Alternatively, you can shuffle 1 "traitor" plus #PCs "samurai" cards, and deal one secret role to each player. In this mode the traitor is forced to reveal himself to meet his win condition. Yet, with N PCs and N+1 roles, a traitor may or may not be among the group.
+
+The text (including the ascii-art residense) fits in an A4 paper sheet using a mono-spaced font of size and margins such that 110 columns fit in the page. This allows to play directly on top of the printed rules. For a formated pdf file check www.sites.google.com/view/arkhe-rpg

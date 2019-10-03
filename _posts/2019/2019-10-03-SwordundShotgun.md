@@ -40,4 +40,10 @@ Some "bad stuff" may include losing gear, temporary stat penalties, or injuries.
 After ten journey legs, surviving travelers reach the PROMISED LANDS. Describe them!
 ```
 ## Author Comments
-Author did not add any comments.
+So this year, I was going to make a game about working the really lousy 11 am- 8 pm shift in retail called "Dulce et Decorum Est Pro THE CORPORATION Mori" (It Is Right and Proper to Die For THE CORPORATION) inspired by my many many years in retail hell. But, y'know, these games are for *escapism...*
+
+So I went with a fantasy piece instead. Rules are slightly worse than Blades in the Dark. And by "slightly" I mean "much." The shotguns, though? A reference to my dearly departed Nosferatu from my group's *Vampire: The Masqeurade* game, Albert Hurt Johnson, who invariably dealt with every problem the coterie had by shooting it in the face with a shotgun.
+
+Special thanks go out to Charles Bair, John Brownlee, Matthew Bulick, Joshua Carlson, Damien Heppel, Chrissy Lake, Cory Miller, Allen Neral, and Bryan Thompson for being an awesome Venn diagram of gaming groups.
+
+*Please* don't ask me what shotguns are doing in a more or less medieval fantasy game.

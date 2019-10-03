@@ -19,4 +19,4 @@ You work in the very heart of a totalitarian State - The Ministry. The Ubergener
 When all the players are out or the carpet is clean, GM narrates Ubergeneral's visit and each janitor's fate.
 ```
 ## Author Comments
-Author did not add any comments.
+I'm really into table-top games and i've been playing and GMing RPGs for over a year now. So i discovered this great challege and decided to test my creativity and writing skills! Hope you enjoy it:)

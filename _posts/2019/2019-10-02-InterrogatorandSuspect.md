@@ -22,4 +22,4 @@ The Interrogator asks where the Suspect was yesterday and further leading questi
 If the Suspect is hesitating frequently, being quiet or speaking nonsense the Interrogator may write an extra personal forbidden word for that player. If this is repeated frequently that player is going to jail.
 ```
 ## Author Comments
-Author did not add any comments.
+I am a new gamedesigner from Sweden.

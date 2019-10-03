@@ -25,4 +25,4 @@ If you have three or more red dice in front of you, speak your last words, then 
 Only one duelist can leave.
 ```
 ## Author Comments
-Author did not add any comments.
+Ayo, I just started publishing my projects publicly recently and wanted to thank this challenge for being a major inspiration to do so. There's a slightly prettified version of this up on https://rathayibacter.itch.io/sweat-tears-blood, and if you play it be sure to let me know how it goes! Thanks again to everyone involved.

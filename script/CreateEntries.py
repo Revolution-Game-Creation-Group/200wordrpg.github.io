@@ -29,7 +29,7 @@ with open('2019.csv', encoding="utf8") as f:
         title = row[8]
         entryText = row[9]
         contentWarning = row[10]
-        comments = row[11]
+        comments = row[13]
 
         # "4/14/2017 3:26:21" convert to "2017-04-14 03:26:21"
         pieces = timestamp.split('/')
