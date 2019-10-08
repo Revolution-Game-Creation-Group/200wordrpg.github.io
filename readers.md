@@ -77,6 +77,8 @@ These hardworking folks will invest a ton of time and effort into selecting the 
 <td id="entries"><h3><strong>Peter M.J. Gross</strong></h3></td>
 <td id="entries"><h3><strong>Gabriel Robinson</strong></h3></td>
 <td id="entries"><h3><strong>Gray Detrick</strong></h3></td>
+</tr><tr>
+<td id="entries"><h3><strong>Lauren Schirduan</strong></h3></td>
 </tr>
 </table>
 
