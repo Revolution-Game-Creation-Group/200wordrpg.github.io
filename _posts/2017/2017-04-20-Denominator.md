@@ -3,7 +3,7 @@ layout: post
 title: "Denominator"
 date: 2017-04-20 22:47:37
 author: "Rudy Johnson"
-link: "http://www.miserytourism.com/"
+link: ""
 categories: 2017 rpg
 ---
 ```

@@ -3,7 +3,7 @@ layout: post
 title: "Chiseled: A Ghost Story"
 date: 2019-10-02 11:34:26
 author: "BITCH"
-link: "http://www.miserytourism.com/"
+link: ""
 categories: 2019 rpg
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "Fatimah's Busy Day"
 date: 2017-04-15 00:21:21
 author: "E.E. COLI"
-link: "http://www.miserytourism.com/"
+link: ""
 categories: 2017 rpg finalist
 ---
 ```

@@ -3,7 +3,7 @@ layout: post
 title: "Jack the Ripper"
 date: 2017-04-20 21:42:22
 author: "W. H. Duryea"
-link: "www.miserytourism.com"
+link: ""
 categories: 2017 rpg
 ---
 ```

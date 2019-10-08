@@ -3,7 +3,7 @@ layout: post
 title: "#WinterIntoSpring"
 date: 2018-05-17 23:18:14
 author: "E. E. COLI"
-link: "www.miserytourism.com"
+link: ""
 categories: 2018 rpg winner
 ---
 ```
