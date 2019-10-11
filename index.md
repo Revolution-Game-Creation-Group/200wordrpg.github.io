@@ -6,7 +6,7 @@ layout: default
 
 This small tabletop game design challenge encourages **everyone** to make a complete role-playing game. It's hard to work on a game, and much harder to finish one. This is an opportunity for participants to brainstorm, write, edit, playtest, and polish a game idea from start to finish.
 
-## Submissions are open until the end of Oct. 12th
+## Submissions are open until the end of Oct. 12th, 11:30pm EST
 
 - Each entry may not exceed 200 words. Judges will use the [Site Wordcounter](/wordcount). Anything above 200 words will be immediately disqualified. The title, author name, and so on, will NOT count towards that limit.
 - Entries will be submitted entirely in plaintext. More details about text requirements can be found on the [Wordcounter page](/wordcount).
