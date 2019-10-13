@@ -26,7 +26,7 @@ with open('readers.csv', encoding="utf8") as f:
         pronouns = row[2].rstrip()
 
         print('<td id="entries"><h3><strong>' +
-                  name + "</strong> ("+pronouns+")</h3></td>")
+                  name + "</strong></h3></td>")
 
 
         if (counter % 3 == 0):

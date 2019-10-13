@@ -11,28 +11,28 @@ allAuthors = []
 allEmails = []
 filetitle = ""
 
-letters = ["Alfa", "Bravo", "Charlie", "Delta", "Echo", "Foxtrot", "Golf", "Hotel", "India", "Juliett", "Kilo", "Lima", "Mike",
-           "November", "Oscar", "Papa", "Quebec", "Romeo", "Sierra", "Tango", "Uniform", "Victor", "Whiskey", "X-ray", "Yankee", "Zulu"]
+numberOfReaders = 56
+i = 1
 
-for letter in letters:
-    fileTitle = "2000-01-01-"+letter + ".md"
+while ( i <= numberOfReaders):
+    fileTitle = "2000-01-01-GROUP"+ str(i) + ".md"
     with io.open(fileTitle, 'a', encoding='utf8') as file:
         file.write('---' + '\n')
         file.write('layout: post' + '\n')
         file.write('date: 2000-01-01' + '\n')
-        file.write('title: "' + letter + '"' + '\n')
+        file.write('title: GROUP' + str(i) + '\n')
         file.write('---' + '\n')
         file.close
+    i = i+1
 
 
-lettercounter = 0
+groupCounter = 2
 
-conflictLetter = "Upsilon"
+readerEmails = ["blinks@acm.org","zalmon135@gmail.com","aleksandra.sontowska@go.art.pl","alexandrarose.nyc@gmail.com","alexbnewcombe@gmail.com","and_lag@hotmail.com","thatonegm@gmail.com","bitte_liten_kreps@ymail.com","Cameronled@gmail.com ","Ceribythesea@gmail.com ","Petitewarlock@gmail.com","cyrus.bukowsky@gmail.com","danefogdall@gmail.com","impernious@gmail.com","sonicwaffle@outlook.com","Tsbrez@gmail.com","DCTouray@live.com","Lozsrodu8@gmail.com","valleyviolet@gmail.com","eytankaplan101@gmail.com","bluelightscribe@gmail.com","gavin.nich.rook@gmail.com","graydetrick@gmail.com","iainthecopywriter@gmail.com","jane2412@hotmail.co.uk","Jesch13@gmail.com","labyrinthalone@gmail.com","johnnie@videostorecowboy.com","mrjonathanjanssen@gmail.com","sabersger@gmail.com","k.struck@aol.com","laurenchristiansmith@gmail.com","enstong@gmail.com","marcoksk1@gmail.com","muchomil@gmail.com","zebramatt@hotmail.com","matthew@gravelyn.com","teachasneetch@juno.com","ogrebeef@gmail.com","megancondis@gmail.com","inkwan4@yahoo.com","mdlake@well.com","natalie@natalieash.com","falzon.noe@gmail.com","shimek58@gmail.com","pmjgross@gmail.com","raylvisser@gmail.com","themysteriouslever@gmail.com","dancesthroughlife@gmail.com","sean@bookseansmith.co.uk ","seth.pier@gmail.com","tara.r.king@gmail.com","thomasflott@outlook.com ","dmwt21@yahoo.com","whithughcarter@gmail.com"]
 
-conflictTitles = ["Metahuman Correctional", "The Din of Elfland's Laughter", "Dr. Jekyll and Mr. Hyde", "Mystery by Association", "CQ", "Rad Waste", "A Hundred Years Adoring You",
-                  "Skeletal Dragon Organizes Their Ruin", "Up the Drunx", "Reincarnation Station", "Be Your Best Keanu", "But why was the green coat left in your hall?", "Ships Passing", "Another Day in the Lab", "Bullshit Tour Guide"]
+#If an entry was submitted by a Reader, it's added to Group 1, and group 1 is assigned to three readers who DIDN'T submit any entries.
 
-with open('2018.csv', encoding="utf8") as f:
+with open('2019.csv', encoding="utf8") as f:
     reader = csv.reader(f)
     for row in reader:
 
@@ -44,11 +44,13 @@ with open('2018.csv', encoding="utf8") as f:
         timestamp = row[0]
         email = row[1].rstrip()
         author = row[2]
-        link = row[3]
+        pronouns = row[3]
+        link = row[4]
 
-        title = row[6]
-        entryText = row[7]
-        comments = row[8]
+        title = row[8]
+        entryText = row[9]
+        contentWarning = row[10]
+        comments = row[13]
 
         # "4/14/2017 3:26:21" convert to "2017-04-14 03:26:21"
         pieces = timestamp.split('/')
@@ -81,7 +83,7 @@ with open('2018.csv', encoding="utf8") as f:
         # The "fileTitle" is the cleaned up title for filename.
         # Need to clean up the title for sorting on the site.
         title = title[0].upper() + title[1:]
-        title = re.sub('\"', "", title)
+        title = re.sub('\"', '', title)
         title = title.rstrip()
         fileTitle = title
 
@@ -185,6 +187,13 @@ with open('2018.csv', encoding="utf8") as f:
             invalidReason = invalidReason + \
                 " | Wordcount: " + str(len(results))
 
+
+        # Content Warning
+        if (contentWarning):
+            contentWarning = "<div id=\"warning\"><div id=\"content\"><h3><strong>! Content Warning: "+contentWarning + " !</strong></h3><i>Continue scrolling to read the entry.</i></div></div>"
+        else:
+            contentWarning = ""
+
         # Entry formatting
         line0 = '---'
         line1 = 'layout: post'
@@ -192,14 +201,15 @@ with open('2018.csv', encoding="utf8") as f:
         line3 = 'date: ' + date + ' ' + time
         line4 = 'author: "' + author + '"'
         line5 = 'link: "' + link + '"'
-        line6 = 'categories: 2018 ' + 'rpg'
+        line6 = 'categories: 2019 rpg'
         line7 = '---'
-        line8 = '```'
-        line9 = entryText
+        line8 = contentWarning
+        line9 = ' '
         line10 = '```'
-        line11 = '## Author Comments '
-        line12 = ''
-        line13 = comments
+        line11 = entryText
+        line12 = '```'
+        line13 = '## Author Comments'
+        line14 = comments
 
         # Create filename
 
@@ -209,18 +219,21 @@ with open('2018.csv', encoding="utf8") as f:
 
         # as long as it isn't invalid, make a file with the content
         if (invalidReason == ""):
-            if (title in conflictTitles):
-                fileTitle = "2000-01-01-" + conflictLetter + ".md"
+            #If an entry was submitted by a Reader, it's added to Group 1, and group 1 is assigned to three readers who DIDN'T submit any entries.
+            if (email in readerEmails):
+                fileTitle = "2000-01-01-GROUP" + str(1) + ".md"
             else:
-                fileTitle = "2000-01-01-" + letters[lettercounter] + ".md"
-                lettercounter = lettercounter + 1
-                if (lettercounter > 25):
-                    lettercounter = 0
+                fileTitle = "2000-01-01-GROUP" + str(groupCounter) + ".md"
+                groupCounter = groupCounter + 1
+                if (groupCounter > numberOfReaders):
+                    groupCounter = 2
             with io.open(fileTitle, 'a', encoding='utf8') as file:
                 file.write('\n# ' + title + '\n')
                 file.write(line8 + '\n')
                 file.write(line9 + '\n')
                 file.write(line10 + '\n')
+                file.write(line11 + '\n')
+                file.write(line12 + '\n')
                 file.write('<hr>' + '\n')
                 file.close
 
