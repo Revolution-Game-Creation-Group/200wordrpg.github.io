@@ -11,7 +11,7 @@ allAuthors = []
 allEmails = []
 filetitle = ""
 
-numberOfReaders = 56
+numberOfReaders = 55
 i = 1
 
 while ( i <= numberOfReaders):
