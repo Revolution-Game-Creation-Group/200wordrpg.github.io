@@ -79,6 +79,7 @@ These hardworking folks will invest a ton of time and effort into selecting the 
 <td id="entries"><h3><strong>Tiffany LaPorta</strong></h3></td>
 </tr><tr>
 <td id="entries"><h3><strong>Whit Carter</strong></h3></td>
+</tr>
 </table>
 
 ## 2018 Readers

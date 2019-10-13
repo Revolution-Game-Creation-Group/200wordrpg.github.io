@@ -44,7 +44,7 @@ _Click each date to learn more._
 ## Winner Criteria
 The criteria that Readers and Judges will use to evaluate each entry. All entries submitted are deemed to be role-playing games, and they will be judged on the following merits:
 
- - **Actionable.** The entry should contain enough description to play the game.
+ - **Actionable.** The entry should contain enough information to play the game.
  - **New and Overlooked Stories.** The entry should encourage its players to tell a new kind of story, a story that has often been overlooked, or a familiar story from a new perspective.
  - **Engaging.** The game should inspire the reader with ideas and questions. It should make the reader want to play this game as soon as possible.
 
