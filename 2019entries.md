@@ -4,9 +4,9 @@ layout: default
 
 # 2019 Entries
 
-Entries will be posted here daily.
+All entries submitted in 2019! 
 
-{% assign sorted_pages = site.categories.2019 %}
+{% assign sorted_pages = site.categories.2019 | sort:"title" %}
 <table>{% for post in sorted_pages %}
   {% assign loopindex = forloop.index | modulo: 3 %}
   {% if loopindex == 1 %}
