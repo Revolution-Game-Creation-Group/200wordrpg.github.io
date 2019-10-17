@@ -68,7 +68,7 @@ A 200 word limit encourages creativity and demands the very best of your editing
 
 Conceiving, designing, and publishing a 200 word game is a great first step toward completing larger game design projects.
 
-Got a neat idea? Use our **[Wordcounter]({{site.baseurl}}/wordcounter)** to check your entry. Cutting a game down to 200 words is difficult! Good luck.
+Got a neat idea? Use our **[Wordcounter]({{site.baseurl}}/wordcount)** to check your entry. Cutting a game down to 200 words is difficult! Good luck.
 
 ## Plaintext?
 
