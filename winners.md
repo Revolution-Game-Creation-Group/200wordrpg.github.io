@@ -5,6 +5,8 @@ layout: default
 # Winners
 Chosen by the [Judges]({{site.baseurl}}/judges), these entries were particularly creative and engaging! There are no 1st, 2nd, or 3rd places, only top three winners in no particular order. **Some of the winners received fancy graphic designs that can be found on the [Downloads Page]({{sire.baseurl}}/downloads).**
 
+### **2019** Have not yet been chosen!
+
 ### **2018** :&emsp;[#WinterIntoSpring]({% post_url /2018/2018-05-17-WinterIntoSpring %})&emsp;•&emsp;[Dear Elizabeth...]({% post_url /2018/2018-05-28-DearElizabeth %})&emsp;•&emsp;[Sidewalkia!]({% post_url /2018/2018-05-18-Sidewalkia %})
 
 ### **2017** :&emsp;[MECHANICAL ORYX]({% post_url /2017/2017-04-15-MECHANICALORYX %})&emsp;•&emsp;[Memories]({% post_url /2017/2017-04-21-Memories %})&emsp;•&emsp;[Route Clearance]({% post_url /2017/2017-04-22-RouteClearance %})
@@ -14,6 +16,27 @@ Chosen by the [Judges]({{site.baseurl}}/judges), these entries were particularly
 ### **2016** Supplements:&emsp;[The College Animalia]({{site.baseurl}}{% post_url /2016/2016-04-06-TheCollegeAnimalia %})&emsp;•&emsp;[First Steps]({{site.baseurl}}{% post_url /2016/2016-04-17-FirstStepsAdventuringWorkshop %})&emsp;•&emsp;[Foam Dart RPG]({{site.baseurl}}{% post_url /2016/2016-04-07-FoamDartRPG %})
 
 ### **2015**:&emsp;[All Fall Down]({{site.baseurl}}{% post_url /2015/2015-04-01-AllFallDown %})&emsp;•&emsp;[Escape Pod One]({{site.baseurl}}{% post_url /2015/2015-04-01-EscapePodOne %})&emsp;•&emsp;[LOVEINT]({{site.baseurl}}{% post_url /2015/2015-04-01-LOVEINT %})
+
+# 2019 Finalists
+
+Out of nearly 500 entries, these were chosen by a [dedicated group of Readers]({{site.baseurl}}/readers) to be among the best of 2019.
+
+{% assign sorted_pages = site.categories.2019 | where_exp: "post", "post.categories contains 'finalist'" | sort:"title" %}
+<table>{% for post in sorted_pages %}
+  {% assign loopindex = forloop.index | modulo: 3 %}
+  {% if loopindex == 1 %}
+    <tr><td id="entries"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></td>
+  {% elsif loopindex == 0 %}
+    <td id="entries"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></td></tr>
+  {% else %}
+    <td id="entries"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></td>
+  {% endif %}
+ {% endfor %}  
+ {% if loopindex == 0 %}
+    </table>
+  {% else %}
+    </tr></table>
+  {% endif %}
 
 # 2018 Finalists
 

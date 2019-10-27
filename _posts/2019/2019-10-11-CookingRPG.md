@@ -4,7 +4,7 @@ title: "Cooking RPG"
 date: 2019-10-11 22:46:03
 author: "Emma Behymer"
 link: "no link"
-categories: 2019 rpg
+categories: 2019 rpg finalist
 ---
 
  

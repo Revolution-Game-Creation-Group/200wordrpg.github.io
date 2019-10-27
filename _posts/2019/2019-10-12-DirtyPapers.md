@@ -4,7 +4,7 @@ title: "Dirty Papers"
 date: 2019-10-12 06:22:22
 author: "Speak the Sky"
 link: "https://speak-the-sky.itch.io/"
-categories: 2019 rpg
+categories: 2019 rpg finalist
 ---
 
  

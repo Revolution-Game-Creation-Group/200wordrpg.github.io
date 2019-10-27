@@ -4,7 +4,7 @@ title: "Sustenance and Sustainability"
 date: 2019-10-12 22:37:58
 author: "Aaron Melocik"
 link: "https://github.com/sterlingvix"
-categories: 2019 rpg
+categories: 2019 rpg finalist
 ---
 
  

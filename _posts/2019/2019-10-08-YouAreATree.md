@@ -4,7 +4,7 @@ title: "You Are A Tree"
 date: 2019-10-08 20:49:19
 author: "Ainsley Pronoun"
 link: "no link"
-categories: 2019 rpg
+categories: 2019 rpg finalist
 ---
 <div id="warning"><div id="content"><h3><strong>! Content Warning: Death !</strong></h3><i>Continue scrolling to read the entry.</i></div></div>
  

@@ -4,7 +4,7 @@ title: "Our bed is but a mossy stone"
 date: 2019-10-12 23:37:02
 author: "Alex Hinners"
 link: "twitter.com/lxnrhinners"
-categories: 2019 rpg
+categories: 2019 rpg finalist
 ---
 
  

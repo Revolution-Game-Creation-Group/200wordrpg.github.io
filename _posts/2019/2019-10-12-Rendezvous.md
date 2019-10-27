@@ -4,7 +4,7 @@ title: "Rendezvous"
 date: 2019-10-12 14:27:17
 author: "Kaelan Doyle-Myerscough and Andrew Tran"
 link: "https://kaelan.online"
-categories: 2019 rpg
+categories: 2019 rpg finalist
 ---
 <div id="warning"><div id="content"><h3><strong>! Content Warning: Heartache/emotionally heavy !</strong></h3><i>Continue scrolling to read the entry.</i></div></div>
  

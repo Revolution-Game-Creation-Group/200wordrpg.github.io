@@ -4,7 +4,7 @@ title: "Everything I Gave, I Gave For You"
 date: 2019-10-02 03:50:34
 author: "Ursidice"
 link: "ursidice.com"
-categories: 2019 rpg
+categories: 2019 rpg finalist
 ---
 <div id="warning"><div id="content"><h3><strong>! Content Warning: Parenthood, motherhood, parent-child relationships !</strong></h3><i>Continue scrolling to read the entry.</i></div></div>
  

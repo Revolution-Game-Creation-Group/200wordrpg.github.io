@@ -4,7 +4,7 @@ title: "Words Over the Airwaves"
 date: 2019-10-07 21:37:24
 author: "Packbat"
 link: "https://packbat.itch.io/"
-categories: 2019 rpg
+categories: 2019 rpg finalist
 ---
 <div id="warning"><div id="content"><h3><strong>! Content Warning: Gameplay could potentially induce anxiety. !</strong></h3><i>Continue scrolling to read the entry.</i></div></div>
  

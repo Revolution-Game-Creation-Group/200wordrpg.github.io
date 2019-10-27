@@ -4,7 +4,7 @@ title: "Quest Giver"
 date: 2019-10-12 13:37:19
 author: "Paul Woolley"
 link: "no link"
-categories: 2019 rpg
+categories: 2019 rpg finalist
 ---
 
  

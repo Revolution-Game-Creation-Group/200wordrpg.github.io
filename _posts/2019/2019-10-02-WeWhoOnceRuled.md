@@ -4,7 +4,7 @@ title: "We Who Once Ruled"
 date: 2019-10-02 08:00:32
 author: "Michael Dunn-OConnor"
 link: "https://www.narrativedynamicspress.com/"
-categories: 2019 rpg
+categories: 2019 rpg finalist
 ---
 <div id="warning"><div id="content"><h3><strong>! Content Warning: vampires, violence, antagonistic player characters !</strong></h3><i>Continue scrolling to read the entry.</i></div></div>
  

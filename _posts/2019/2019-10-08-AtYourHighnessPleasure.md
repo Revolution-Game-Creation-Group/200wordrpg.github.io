@@ -4,7 +4,7 @@ title: "At Your Highness' Pleasure"
 date: 2019-10-08 05:42:25
 author: "J.K. Wish"
 link: "https://twitter.com/StoneRiverGames"
-categories: 2019 rpg
+categories: 2019 rpg finalist
 ---
 
  

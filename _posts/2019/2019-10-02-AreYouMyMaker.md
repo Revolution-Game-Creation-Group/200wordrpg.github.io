@@ -4,7 +4,7 @@ title: "Are You My Maker?"
 date: 2019-10-02 14:49:14
 author: "Samuel Doebler"
 link: "https://dreamingdragonslayer.wordpress.com"
-categories: 2019 rpg
+categories: 2019 rpg finalist
 ---
 
  

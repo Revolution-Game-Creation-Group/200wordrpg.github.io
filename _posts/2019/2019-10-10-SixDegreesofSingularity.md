@@ -4,7 +4,7 @@ title: "Six Degrees of Singularity"
 date: 2019-10-10 23:46:34
 author: "Sam Brian"
 link: "https://twitter.com/RvengefuLobster"
-categories: 2019 rpg
+categories: 2019 rpg finalist
 ---
 
  

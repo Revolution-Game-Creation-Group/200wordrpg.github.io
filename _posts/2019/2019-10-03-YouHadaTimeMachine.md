@@ -4,7 +4,7 @@ title: "You Had a Time Machine"
 date: 2019-10-03 06:55:41
 author: "Michael Blatherwick"
 link: "https://twitter.com/rogue_michael"
-categories: 2019 rpg
+categories: 2019 rpg finalist
 ---
 
  

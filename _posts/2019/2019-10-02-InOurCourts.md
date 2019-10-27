@@ -4,7 +4,7 @@ title: "In Our Courts"
 date: 2019-10-02 09:11:51
 author: "Alex L"
 link: "www.splitthepartypod.com"
-categories: 2019 rpg
+categories: 2019 rpg finalist
 ---
 
  

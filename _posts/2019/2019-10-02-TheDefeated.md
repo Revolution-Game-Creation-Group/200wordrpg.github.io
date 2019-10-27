@@ -4,7 +4,7 @@ title: "The Defeated"
 date: 2019-10-02 14:44:32
 author: "Ninjaiguana"
 link: "no link"
-categories: 2019 rpg
+categories: 2019 rpg finalist
 ---
 
  

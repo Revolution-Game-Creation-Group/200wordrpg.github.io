@@ -4,7 +4,7 @@ title: "The Heffalumps Graveyard"
 date: 2019-10-03 18:40:27
 author: "Coman Fullard"
 link: "@comanfullard"
-categories: 2019 rpg
+categories: 2019 rpg finalist
 ---
 
  

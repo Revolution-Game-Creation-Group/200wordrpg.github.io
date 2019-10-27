@@ -4,7 +4,7 @@ title: "Persist - A 200 Word RPG"
 date: 2019-10-11 22:29:48
 author: "Chris Wright"
 link: "no link"
-categories: 2019 rpg
+categories: 2019 rpg finalist
 ---
 
  

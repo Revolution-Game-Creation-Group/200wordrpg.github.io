@@ -4,7 +4,7 @@ title: "We Are Sorry"
 date: 2019-10-09 10:42:19
 author: "GenuineBelieverer"
 link: "genfantasypress.com"
-categories: 2019 rpg
+categories: 2019 rpg finalist
 ---
 <div id="warning"><div id="content"><h3><strong>! Content Warning: Body horror, cats !</strong></h3><i>Continue scrolling to read the entry.</i></div></div>
  

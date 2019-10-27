@@ -4,7 +4,7 @@ title: "Auspicious Ends"
 date: 2019-10-02 17:07:16
 author: "Clare Jones"
 link: "https://twitter.com/illessa"
-categories: 2019 rpg
+categories: 2019 rpg finalist
 ---
 
  

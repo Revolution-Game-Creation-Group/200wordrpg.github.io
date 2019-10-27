@@ -4,7 +4,7 @@ title: "We are Centaurs: a GMless Tribe-tale"
 date: 2019-10-07 06:13:40
 author: "Cyrus"
 link: "https://www.facebook.com/grart.krakow/"
-categories: 2019 rpg
+categories: 2019 rpg finalist
 ---
 
  

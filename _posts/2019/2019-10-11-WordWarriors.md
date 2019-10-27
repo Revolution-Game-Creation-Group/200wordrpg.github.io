@@ -4,7 +4,7 @@ title: "Word Warriors"
 date: 2019-10-11 14:25:11
 author: "Pete Lyons"
 link: "no link"
-categories: 2019 rpg
+categories: 2019 rpg finalist
 ---
 
  

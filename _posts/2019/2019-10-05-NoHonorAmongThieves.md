@@ -4,7 +4,7 @@ title: "No Honor (Among Thieves)"
 date: 2019-10-05 18:02:07
 author: "Johnathon Kulchyski"
 link: "no link"
-categories: 2019 rpg
+categories: 2019 rpg finalist
 ---
 <div id="warning"><div id="content"><h3><strong>! Content Warning: PVP !</strong></h3><i>Continue scrolling to read the entry.</i></div></div>
  

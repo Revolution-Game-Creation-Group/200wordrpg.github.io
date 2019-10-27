@@ -4,7 +4,7 @@ title: "All Systems Critical"
 date: 2019-10-11 19:34:42
 author: "David Brunell-Brutman"
 link: "https://dbb-8.itch.io/"
-categories: 2019 rpg
+categories: 2019 rpg finalist
 ---
 
  

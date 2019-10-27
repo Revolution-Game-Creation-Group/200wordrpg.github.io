@@ -4,7 +4,7 @@ title: "We Love You Nino's Pizza"
 date: 2019-10-02 17:38:11
 author: "Chloe L"
 link: "no link"
-categories: 2019 rpg
+categories: 2019 rpg finalist
 ---
 <div id="warning"><div id="content"><h3><strong>! Content Warning: Death, Mourning, Grief !</strong></h3><i>Continue scrolling to read the entry.</i></div></div>
  

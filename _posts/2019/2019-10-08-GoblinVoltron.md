@@ -4,7 +4,7 @@ title: "Goblin Voltron"
 date: 2019-10-08 22:38:13
 author: "Brandon Carbaugh"
 link: "twitter.com/bmcarbaugh"
-categories: 2019 rpg
+categories: 2019 rpg finalist
 ---
 
  

@@ -4,7 +4,7 @@ title: "FINAL GIRLS"
 date: 2019-10-05 16:56:59
 author: "Alex Flanigan"
 link: "twitter.com/coff33detective"
-categories: 2019 rpg
+categories: 2019 rpg finalist
 ---
 <div id="warning"><div id="content"><h3><strong>! Content Warning: violence, murder, use of fire, mention of scars !</strong></h3><i>Continue scrolling to read the entry.</i></div></div>
  

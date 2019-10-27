@@ -4,7 +4,7 @@ title: "Canticula Deperita"
 date: 2019-10-04 17:14:19
 author: "Alexis Arrowsmith"
 link: "no link"
-categories: 2019 rpg
+categories: 2019 rpg finalist
 ---
 
  

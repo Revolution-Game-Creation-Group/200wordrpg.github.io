@@ -4,7 +4,7 @@ title: "The Truth about Jevallik: A Game for Two"
 date: 2019-10-12 14:06:01
 author: "Jonathan G Cook"
 link: "no link"
-categories: 2019 rpg
+categories: 2019 rpg finalist
 ---
 
  

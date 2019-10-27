@@ -4,7 +4,7 @@ title: "Diners, Drive-Ins, and Dice"
 date: 2019-10-05 13:20:07
 author: "Jon Gill"
 link: "http://twitter.com/TheJonAGill"
-categories: 2019 rpg
+categories: 2019 rpg finalist
 ---
 
  

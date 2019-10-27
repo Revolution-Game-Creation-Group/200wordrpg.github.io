@@ -4,7 +4,7 @@ title: "Speak with Dead"
 date: 2019-10-03 15:14:36
 author: "Daniel Fowler"
 link: "no link"
-categories: 2019 rpg
+categories: 2019 rpg finalist
 ---
 
  

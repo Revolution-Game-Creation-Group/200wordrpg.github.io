@@ -4,7 +4,7 @@ title: "Moonsick Family"
 date: 2019-10-12 17:39:38
 author: "Michael T Lombardi"
 link: "https://twitter.com/TrebuchetOps"
-categories: 2019 rpg
+categories: 2019 rpg finalist
 ---
 <div id="warning"><div id="content"><h3><strong>! Content Warning: Food !</strong></h3><i>Continue scrolling to read the entry.</i></div></div>
  

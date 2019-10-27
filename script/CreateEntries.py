@@ -11,6 +11,16 @@ allAuthors = []
 allEmails = []
 filetitle = ""
 
+finalistsCompare = re.compile('[^a-zA-Z0-9]')
+finalists = []
+
+for text in ["#TWEENHEIST: A Dystopian Social Media RPG","002: License to Eavesdrop","All Systems Critical","Are You My Maker?","At Your Highness' Pleasure","Auspicious Ends","Canticula Deperita","Come Home","Cooking RPG","Diners, Drive-Ins, and Dice","Dirty Papers","Everything I Gave, I Gave For You","FINAL GIRLS","Goblin Voltron","Hey, This Song Reminds Me Of You","In Our Courts","Missing Parts","Moonsick Family","No honor among thieves","Our bed is but a mossy stone","Past Your Bedtime","Persist - A 200 Word RPG","Quest Giver","Rendezvous","Six Degrees of Singularity","Speak with Dead","Sustenance and Sustainability","The Accord","The Defeated","The Heffalumps Graveyard","The Truth about Jevallik: A Game for Two","The Waiting Room, Your Partner is in Surgery","We are Centaurs: a GMless Tribe-tale","We Are Sorry","We Love You Nino's Pizza","We Who Once Ruled","Word Warriors","Words over the airwaves. ","You Are A Tree","You Had a Time Machine"]:
+    finalists.append(finalistsCompare.sub('', text).lower())
+
+print(finalists)
+
+exit
+
 with open('2019.csv', encoding="utf8") as f:
     reader = csv.reader(f)
     for row in reader:
@@ -25,7 +35,7 @@ with open('2019.csv', encoding="utf8") as f:
         author = row[2]
         pronouns = row[3]
         link = row[4]
-
+        ISfinalist = ''
         title = row[8]
         entryText = row[9]
         contentWarning = row[10]
@@ -173,6 +183,22 @@ with open('2019.csv', encoding="utf8") as f:
         else:
             contentWarning = ""
 
+        if (finalistsCompare.sub('', title).lower() in finalists):
+            ISfinalist = " finalist"
+            if (invalidReason == ""):
+                with io.open("FINALISTS.md", 'a+', encoding='utf8') as file:
+                    file.write(' ' + '\n')
+                    file.write("# " + title + '\n')
+                    file.write(' ' + '\n')
+                    file.write(contentWarning + '\n')
+                    file.write(' ' + '\n')
+                    file.write('```' + '\n')
+                    file.write(entryText + '\n')
+                    file.write('```' + '\n')
+                    file.write("<hr>" + '\n')
+                    file.close
+            finalists.remove(finalistsCompare.sub('', title).lower())
+
         # Entry formatting
         line0 = '---'
         line1 = 'layout: post'
@@ -180,7 +206,7 @@ with open('2019.csv', encoding="utf8") as f:
         line3 = 'date: ' + date + ' ' + time
         line4 = 'author: "' + author + '"'
         line5 = 'link: "' + link + '"'
-        line6 = 'categories: 2019 rpg'
+        line6 = 'categories: 2019 rpg' + ISfinalist
         line7 = '---'
         line8 = contentWarning
         line9 = ' '
@@ -198,7 +224,7 @@ with open('2019.csv', encoding="utf8") as f:
 
         # as long as it isn't invalid, make a file with the content
         if (invalidReason == ""):
-            with io.open(fileTitle, 'w', encoding='utf8') as file:
+            with io.open(fileTitle, 'w+', encoding='utf8') as file:
                 file.write(line0 + '\n')
                 file.write(line1 + '\n')
                 file.write(line2 + '\n')
@@ -219,3 +245,5 @@ with open('2019.csv', encoding="utf8") as f:
         # Otherwise print out the reason for disqualify
         else:
             print(">>> invalid entry: " + title + invalidReason)
+
+print(finalists)
