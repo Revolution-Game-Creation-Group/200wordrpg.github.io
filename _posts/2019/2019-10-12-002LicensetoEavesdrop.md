@@ -4,7 +4,7 @@ title: "002: License to Eavesdrop"
 date: 2019-10-12 19:24:54
 author: "Alexi Sargeant, Cloven Pine Games"
 link: "https://cloven-pine-games.itch.io/"
-categories: 2019 rpg finalist
+categories: 2019 rpg winner
 ---
 
  
