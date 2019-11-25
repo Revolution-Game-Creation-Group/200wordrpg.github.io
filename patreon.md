@@ -12,10 +12,5 @@ The money raised goes directly into the challenge to purchases prizes, hire arti
 
 |[![explosionLogo.png](/assets/explosions/explosionLogo.png)](https://www.patreon.com/davidschirduan)|<a href="https://www.patreon.com/bePatron?u=49285" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>[**Become a Patreon**](https://www.patreon.com/davidschirduan)|
 
-# Past Explosions
+# Get Past Explosions from the [Downloads Page](/downloads)
 
-When a new explosion comes out, the older ones will be publicly available here for all to enjoy!
-
-|[<img class="prize" src="{{site.url}}/assets/explosions/ForCityCoin.png">]({{site.url}}/assets/explosions/ForCityCoin.pdf)|[<img class="prize" src="{{site.url}}/assets/explosions/Drink_Tea_Forget.png">]({{site.url}}/assets/explosions/Drink_Tea_Forget.pdf)|
-
-|[<img class="prize" src="{{site.url}}/assets/explosions/wizards.png">]({{site.url}}/assets/explosions/MetalWizards.pdf)|[<img class="prize" src="{{site.url}}/assets/explosions/Feelings.jpg">]({{site.url}}/assets/explosions/Feelings.pdf)|
