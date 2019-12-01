@@ -8,7 +8,7 @@ layout: default
 
 |[<img class="prize" src="{{site.url}}/assets/explosions/wizards.png">]({{site.url}}/assets/explosions/MetalWizards.pdf)|[<img class="prize" src="{{site.url}}/assets/explosions/Feelings.jpg">]({{site.url}}/assets/explosions/Feelings.pdf)|
 
-[<img class="prize" src="{{site.url}}/assets/explosions/DeathBattle.jpg">]({{site.url}}/assets/explosions/DeathBattle.pdf)
+[<img class="prize" src="{{site.url}}/assets/explosions/DeathBattle.png">]({{site.url}}/assets/explosions/DeathBattle.pdf)
 
 Every month David Schirduan "explodes" entries with new content, images, layout, and commentary. Each explosion breathes new life into these fantastic games. Patreons get early access for just **$2 a month**. They also get to vote on which entries will be exploded next.
 
