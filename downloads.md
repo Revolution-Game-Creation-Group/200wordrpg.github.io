@@ -8,9 +8,11 @@ layout: default
 
 |[<img class="prize" src="{{site.url}}/assets/explosions/wizards.png">]({{site.url}}/assets/explosions/MetalWizards.pdf)|[<img class="prize" src="{{site.url}}/assets/explosions/Feelings.jpg">]({{site.url}}/assets/explosions/Feelings.pdf)|
 
-Every month David Schirduan "explodes" entries with new content, images, layout, and commentary. Each explosion breathes new life into these fantastic games. 
+[<img class="prize" src="{{site.url}}/assets/explosions/DeathBattle.jpg">]({{site.url}}/assets/explosions/DeathBattle.pdf)
 
-|Patreons get early access for just **$2 a month**. They also get to vote on which entries will be exploded next.|<a href="https://www.patreon.com/bePatron?u=49285" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>[**Become a Patreon**](https://www.patreon.com/davidschirduan)|
+Every month David Schirduan "explodes" entries with new content, images, layout, and commentary. Each explosion breathes new life into these fantastic games. Patreons get early access for just **$2 a month**. They also get to vote on which entries will be exploded next.
+
+<a href="https://www.patreon.com/bePatron?u=49285" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>[**Become a Patreon**](https://www.patreon.com/davidschirduan)
 
 ## 2018 Winners
 The 2018 winners received beautiful layouts, each fitting their themes.
