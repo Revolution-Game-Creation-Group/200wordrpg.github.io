@@ -4,6 +4,8 @@ layout: default
 
 ## Patreon Explosions
 
+|[<img class="prize" src="{{site.url}}/assets/explosions/Cooking_Show.png">]({{site.url}}/assets/explosions/Cooking_Show.pdf)|[<img class="prize" src="{{site.url}}/assets/explosions/rumors.jpg">]({{site.url}}/assets/explosions/rumors.pdf)|
+
 |[<img class="prize" src="{{site.url}}/assets/explosions/ForCityCoin.png">]({{site.url}}/assets/explosions/ForCityCoin.pdf)|[<img class="prize" src="{{site.url}}/assets/explosions/Drink_Tea_Forget.png">]({{site.url}}/assets/explosions/Drink_Tea_Forget.pdf)|[<img class="prize" src="{{site.url}}/assets/explosions/sherlock.png">]({{site.url}}/assets/explosions/sherlock.pdf)|
 
 |[<img class="prize" src="{{site.url}}/assets/explosions/wizards.png">]({{site.url}}/assets/explosions/MetalWizards.pdf)|[<img class="prize" src="{{site.url}}/assets/explosions/Feelings.jpg">]({{site.url}}/assets/explosions/Feelings.pdf)|
