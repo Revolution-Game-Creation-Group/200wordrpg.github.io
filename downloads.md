@@ -58,20 +58,25 @@ These PDFs include ALL of the entries from that year's challenge. Enjoy! *Click 
 <td id="centeredText"><a href="https://200wordrpg.github.io/assets/2015_AllEntries.pdf"><h2>2015 PDF</h2></a></td>
 <td id="centeredText"><a href="https://200wordrpg.github.io/assets/2016_AllEntries.pdf"><h2>2016 PDF</h2></a></td>
 <td id="centeredText"><a href="https://200wordrpg.github.io/assets/2017_AllEntries.pdf"><h2>2017 PDF</h2></a></td>
-<td id="centeredText"><a href="https://200wordrpg.github.io/assets/200wRPG2018Omnibus.pdf"><h2>2018 PDF</h2></a></td>
-<td id="centeredText"><a href="https://200wordrpg.github.io/assets/200_Word_RPG_Challenge_2019.pdf"><h2>2019 PDF</h2></a></td>
 </tr>
 <tr>
 <td><a href="https://200wordrpg.github.io/assets/2015_AllEntries.pdf"><img src="/assets/images/papers.png"/></a></td>
 <td><a href="https://200wordrpg.github.io/assets/2016_AllEntries.pdf"><img src="/assets/images/papers.png"/></a></td>
 <td><a href="https://200wordrpg.github.io/assets/2017_AllEntries.pdf"><img src="/assets/images/papers.png"/></a></td>
-<td><a href="https://200wordrpg.github.io/assets/200wRPG2018Omnibus.pdf"><img src="/assets/images/papers.png"/></a></td>
-<td><a href="https://200wordrpg.github.io/assets/200_Word_RPG_Challenge_2019.pdf"><img src="/assets/images/papers.png"/></a></td>
 </tr>
 <tr>
 <td id="centeredText">designed by <a href="https://about.me/mattwidmann">Matt Widmann</a></td>
 <td id="centeredText">designed by <a href="https://plus.google.com/u/0/116235159947041206206/posts">Rickard Elimää</a></td>
 <td id="centeredText">designed by <a href="http://thomas-novosel.com/">Thomas Novosel</a></td>
+<tr>
+<td id="centeredText"><a href="https://200wordrpg.github.io/assets/200wRPG2018Omnibus.pdf"><h2>2018 PDF</h2></a></td>
+<td id="centeredText"><a href="https://200wordrpg.github.io/assets/200_Word_RPG_Challenge_2019.pdf"><h2>2019 PDF</h2></a></td>
+</tr>
+<tr>
+<td><a href="https://200wordrpg.github.io/assets/200wRPG2018Omnibus.pdf"><img src="/assets/images/papers.png"/></a></td>
+<td><a href="https://200wordrpg.github.io/assets/200_Word_RPG_Challenge_2019.pdf"><img src="/assets/images/papers.png"/></a></td>
+</tr>
+<tr>
 <td id="centeredText">designed by <a href="https://www.patreon.com/Ufopress/overview">Jay Iles</a></td>
 <td id="centeredText">designed by <a href="https://joebanner.co.uk/">Joe Banner</a></td>
 </tr>
