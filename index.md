@@ -25,6 +25,14 @@ Visual presentation can be a large and scary problem. Very few people are master
 ## Licensing and Ownership
 All entries are publicly posted [on this page]({{site.baseurl}}/2019entries). We reserve the right to reject entries that we consider to be inappropriate or offensive. All entries have been submitted under the Creative Commons Attribution 4.0 International (CC BY 4.0) License. [More info here]({{site.baseurl}}/licensing).
 
+## Ethics & Inclusivity
+
+The 200 Word RPG Challenge is a small contest with small stakes where you design small games to win small prizes. It's an inclusive contest that welcomes the submissions of game designers from all walks of life and designers from marginalized communities are especially encouraged to participate! We want to make this a space that is safe for first-time designers, marginalized designers, and designers who struggle in structural and personal ways. Whoever you are, wherever you come from, we're happy to have you.
+
+Helping everyone to feel welcome means working together to help everyone feel safe and treating others with consideration and respect. Harassment, intimidation, and hate speech are not acceptable. We will not tolerate discrimination based on race, religion, sex, gender identity, sexual preference, mental health and ability, physical health and ability, size, ethnicity, nationality, or refugee status. The organizers reserve the right to refuse contest submissions, prize donations, and service offers based on these values. 
+
+Also for the first time this year we allow entries to include Content Warnings. We hope this will make the challenge safer for everyone to enjoy.
+
 ### Connect with other Creators
 
 Making and sharing a game is a great way to showcase your ideas and connect with new and more experienced game designers. Do you see a game that inspires you? The 200 Word RPG Challenge is a forge for new collaborations! Join the subreddit for discussion, collaboration, and feedback.
