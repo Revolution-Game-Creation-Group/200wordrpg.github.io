@@ -1,5 +1,3 @@
-import smtplib, ssl
-
 # Enable less secure connections: https://myaccount.google.com/lesssecureapps
 
 import smtplib, ssl
