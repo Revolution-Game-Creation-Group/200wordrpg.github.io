@@ -2,7 +2,7 @@
 layout: post
 title: "All Fall Down Campfire Questions"
 date: 2016-04-16
-author: "Ryan Ó Laoithe"
+author: "Roz"
 link: "no link"
 categories: 2016 supplement
 ---
